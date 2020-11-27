@@ -9,17 +9,14 @@
   - [C](#c)
   - [C++](#c++)
   - [CSS](#css)
-  - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
   - [Emacs Lisp](#emacs-lisp)
   - [Gnuplot](#gnuplot)
-  - [Go](#go)
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
-  - [Lua](#lua)
   - [MATLAB](#matlab)
   - [Mathematica](#mathematica)
   - [Matlab](#matlab)
@@ -28,9 +25,7 @@
   - [Python](#python)
   - [R](#r)
   - [Rich Text Format](#rich-text-format)
-  - [Ruby](#ruby)
   - [Rust](#rust)
-  - [Sass](#sass)
   - [Shell](#shell)
   - [Stata](#stata)
   - [TeX](#tex)
@@ -52,21 +47,14 @@
 - [diff-pdf](https://github.com/vslavik/diff-pdf) - A simple tool for visually comparing two PDF files
 - [albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [Parallel_Computing](https://github.com/davidzarruk/Parallel_Computing) - 
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 
 ## CSS 
 
-- [archie](https://github.com/athul/archie) - A minimal Hugo Theme
-- [missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 - [bigfoot](https://github.com/lemonmade/bigfoot) - A jQuery plugin for creating exceptional footnotes.
 - [digital-nesting](https://github.com/devonzuegel/digital-nesting) - Devon's collection of custom CSS
 - [org-html-themes](https://github.com/fniessen/org-html-themes) - How to export Org mode files into awesome HTML in 2 minutes
 - [econr-notes](https://github.com/tlamadon/econr-notes) - Notes on solving and estimating economic model with heterogeneous agents using R and C++
 - [datausa-tutorials](https://github.com/DataUSA/datausa-tutorials) - Holds tutorials for how to build things with the Data USA API and embedded visualizations.
-
-## Clojure 
-
-- [athens](https://github.com/athensresearch/athens) - Open-Source Networked Thought. The Closed Beta is underway! Join the waitlist via https://forms.gle/9L1D1T7R3G7pvh1e7. Sponsor us to get the beta faster!
 
 ## CoffeeScript 
 
@@ -98,13 +86,11 @@
 - [Zero-to-Emacs-and-Org-roam](https://github.com/nobiot/Zero-to-Emacs-and-Org-roam) - Step by step guide from zero to installing and setting up Emacs and Org-roam on Windows 10
 - [doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs framework for the stubborn martian hacker
 - [org-zettelkasten](https://github.com/l3kn/org-zettelkasten) - An opinionated setup for managing large collections of interlinked org files.
-- [zetteldeft](https://github.com/EFLS/zetteldeft) - A Zettelkasten system! Or rather, some functions on top of the emacs deft package.
 - [.emacs.d](https://github.com/jethrokuan/.emacs.d) - 
 - [dot-emacs](https://github.com/zamansky/dot-emacs) - 
 - [org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
 - [elegant-emacs](https://github.com/rougier/elegant-emacs) - A very minimal but elegant emacs (I think)
 - [deft](https://github.com/jrblevin/deft) - Deft for Emacs
-- [org-brain](https://github.com/Kungsgeten/org-brain) - Org-mode wiki + concept-mapping
 - [org-journal](https://github.com/bastibe/org-journal) - A simple org-mode based journaling mode
 - [forge](https://github.com/magit/forge) - Work with Git forges from the comfort of Magit
 - [github-review](https://github.com/charignon/github-review) - Github code reviews with Emacs.
@@ -119,12 +105,6 @@
 
 - [elfeed-analysis](https://github.com/skeeto/elfeed-analysis) - Generate an analysis of your Elfeed database
 
-## Go 
-
-- [lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
-- [dnote](https://github.com/dnote/dnote) - A simple command line notebook for programmers
-- [hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
-
 ## HTML 
 
 - [EC525S19](https://github.com/edrubin/EC525S19) - 
@@ -133,9 +113,6 @@
 - [spring-2020](https://github.com/AEM7130/spring-2020) - Spring 2020 AEM 7130: Dynamic Optimization/Computational Methods
 - [lectures](https://github.com/uo-ec510-2020-spring/lectures) - Lecture material for Big Data in Economics (EC 410/510)
 - [sparkline-nb](https://github.com/iiSeymour/sparkline-nb) - Render sparkline style charts in pandas dataframes
-- [azlen.me](https://github.com/azlen/azlen.me) - 
-- [tiddlyroam](https://github.com/joekroese/tiddlyroam) - Your open source external brain
-- [latex-css](https://github.com/vincentdoerig/latex-css) - LaTeX.css is a CSS library that makes your website look like a LaTeX document
 - [testbook](https://github.com/maelle/testbook) - :warning: CONCEPT! :warning: beautiful book as html and PDF using Hugo and paged.js
 - [lectures](https://github.com/uo-ec607/lectures) - Lecture notes for EC 607
 - [course_template](https://github.com/kjhealy/course_template) - 
@@ -146,43 +123,25 @@
 ## Java 
 
 - [emacs-documentation-android](https://github.com/Malabarba/emacs-documentation-android) - Emacs Documentation android app. Search emacs variables/functions and view their documentations on android.
-- [textidote](https://github.com/sylvainhalle/textidote) - Spelling, grammar and style checking on LaTeX documents
 
 ## JavaScript 
 
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
-- [embark](https://github.com/embarklabs/embark) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms
-- [truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
 - [digital-garden](https://github.com/johno/digital-garden) - 🌻[WIP] Gatsby Theme to build your own digital garden 🌻🥀🌸
 - [starter](https://github.com/the-pudding/starter) - A starter template for projects.
 - [fall-2020](https://github.com/OU-PhD-Econometrics/fall-2020) - 
 - [elvis](https://github.com/LeonvanKouwen/elvis) - Combining holoviz panel and golden-layout in pure python.
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Materials to help you rock your next coding interview
 - [org-capture-extension](https://github.com/sprig/org-capture-extension) - A Chrome and firefox extension facilitating org-capture in emacs
-- [MAlley-slide-templates](https://github.com/hplgit/MAlley-slide-templates) - Templates for Michael Alley's assertion-evidence design of slides.
-- [KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
 - [MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
 
 ## Julia 
 
-- [OhMyREPL.jl](https://github.com/KristofferC/OhMyREPL.jl) - Syntax highlighting and other enhancements for the Julia REPL
-- [TexTables.jl](https://github.com/jacobadenbaum/TexTables.jl) - Publication quality regression and statistical tables
 - [CurrentPopulationSurvey.jl](https://github.com/mthelm85/CurrentPopulationSurvey.jl) - A simple package for easily downloading/parsing CPS microdata files.
-- [Literate.jl](https://github.com/fredrikekre/Literate.jl) - Simple package for literate programming in Julia
-- [PrettyTables.jl](https://github.com/ronisbr/PrettyTables.jl) - Print data in formatted tables.
-- [Douglass.jl](https://github.com/jmboehm/Douglass.jl) - Stata-like toolkit for data wrangling on Julia DataFrames
-- [DataFramesMeta.jl](https://github.com/JuliaData/DataFramesMeta.jl) - Metaprogramming tools for DataFrames
 - [PSID.jl](https://github.com/aaowens/PSID.jl) - Quickly assemble data from the Panel Study of Income Dynamics (PSID)
 - [WorldBankData.jl](https://github.com/4gh/WorldBankData.jl) - Access to World Bank data for Julia
-- [PlotThemes.jl](https://github.com/JuliaPlots/PlotThemes.jl) - Themes for the Julia plotting package Plots.jl
-- [DrWatson.jl](https://github.com/JuliaDynamics/DrWatson.jl) - The perfect sidekick to your scientific inquiries
-- [JuliaEconomics](https://github.com/setzler/JuliaEconomics) - Tutorial Scripts for JuliaEconomics.com
-- [RegressionTables.jl](https://github.com/jmboehm/RegressionTables.jl) - Journal-style regression tables
-- [EconPDEs.jl](https://github.com/matthieugomez/EconPDEs.jl) - Solve semi-linear parabolic PDEs
-- [julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 - [DSGE.jl](https://github.com/FRBNY-DSGE/DSGE.jl) - Solve and estimate Dynamic Stochastic General Equilibrium models (including the New York Fed DSGE)
 
 ## Jupyter Notebook 
@@ -196,9 +155,6 @@
 - [mec_optim_2020-01](https://github.com/math-econ-code/mec_optim_2020-01) - 'math+econ+code' masterclass on optimal transport and economic applications
 - [python-causality-handbook](https://github.com/matheusfacure/python-causality-handbook) - Causal Inference for the Brave and True. A light-hearted yet rigorous approach to learning about impact estimation and sensitivity analysis.
 - [ConsumptionSavingNotebooks](https://github.com/NumEconCopenhagen/ConsumptionSavingNotebooks) - Jupyter Notebook examples of the ConSav package
-- [julia_tutorials](https://github.com/johnmyleswhite/julia_tutorials) - Tutorials on Julia topics
-- [quantecon-notebooks-julia-colab](https://github.com/QuantEcon/quantecon-notebooks-julia-colab) - Colab notebooks for the QuantEcon Julia lectures
-- [julia-mit](https://github.com/mitmath/julia-mit) - Tutorials and information on the Julia language for MIT numerical-computation courses.
 - [Minimally-Sufficient-Pandas](https://github.com/tdpetrou/Minimally-Sufficient-Pandas) - There are always multiple ways to complete a task in Pandas. A minimal subset of the library is sufficient for almost everything.
 - [pandas-cookbook](https://github.com/jvns/pandas-cookbook) - Recipes for using Python's pandas library
 - [cme257-advanced-julia](https://github.com/icme/cme257-advanced-julia) - Advanced Topics in Scientific Computing with Julia
@@ -208,17 +164,11 @@
 - [ElementsOfDataScience](https://github.com/AllenDowney/ElementsOfDataScience) - An introduction to data science in Python, for people with no programming experience.
 - [githubtutorial](https://github.com/nyupredocs/githubtutorial) - Tutorial on how to use Git and GitHub an a scalable collaborative workflow and as a medium for open source, transparent, and replicable research by Richard Evans.
 - [lectures-on-trade-and-distributional-effects](https://github.com/mwaugh0328/lectures-on-trade-and-distributional-effects) - lectures on trade and distributional effects given at CEMFI
-- [18S096](https://github.com/mitmath/18S096) - 18.S096 three-week course at MIT
 - [ox-ipynb](https://github.com/jkitchin/ox-ipynb) - org-mode exporter to Jupyter notebooks
 - [dealing_with_data](https://github.com/johnjosephhorton/dealing_with_data) - Material that I use for a variety of classes and tutorials
 - [KnowledgeDiffusionSimulations.jl](https://github.com/jlperla/KnowledgeDiffusionSimulations.jl) - Simulations for Models of Knowledge Diffusion/Idea Flows with exogenous innovation/adoption and finite numbers of agents
 - [ipynb-website](https://github.com/stephenslab/ipynb-website) - Simple data science website using Jupyter notebooks.
 - [MIT-PythonIntro](https://github.com/soubhikbarari/MIT-PythonIntro) - Jupyter notebooks, slides, codes and other materials from "Introduction to Python and Web Scraping" workshop hosted at the MIT Political Methodology Lab (Mar 17, 2017).
-- [sequence-jacobian](https://github.com/shade-econ/sequence-jacobian) - Interactive guide to Auclert, Bardóczy, Rognlie, and Straub (2019): "Using the Sequence-Space Jacobian to Solve and Estimate Heterogeneous-Agent Models".
-
-## Lua 
-
-- [keyboard](https://github.com/jasonrudolph/keyboard) - ⌨ Toward a more useful keyboard
 
 ## MATLAB 
 
@@ -235,7 +185,6 @@
 
 - [continuous_time_methods](https://github.com/jlperla/continuous_time_methods) - 
 - [BKM_MIT](https://github.com/kurtmitman/BKM_MIT) - Code to Implement the Algorithm in "Exploiting MIT Shocks in Heterogeneous-Agent Economies: The Impulse Response as a Numerical Derivative" by Timo Boppart, Per Krusell and Kurt Mitman
-- [phact](https://github.com/gregkaplan/phact) - 
 - [dynare](https://github.com/DynareTeam/dynare) - This project has moved to https://git.dynare.org/Dynare/dynare
 
 ## Others 
@@ -243,24 +192,18 @@
 - [SDC-to-Compustat-Mapping](https://github.com/michaelewens/SDC-to-Compustat-Mapping) - A mapping between SDCs M&A database and the gvkey's in Compustat
 - [cookiecutter-reproducible-science](https://github.com/mkrapp/cookiecutter-reproducible-science) - boilerplate for reproducible and transparent science
 - [awesome-data-engineering-learning](https://github.com/snird/awesome-data-engineering-learning) - Awesome list of data engineering learning materials by subject
-- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [50-projects-for-react-and-the-static-web](https://github.com/colbyfayock/50-projects-for-react-and-the-static-web) - ⚛ 50 project ideas to learn by doing complete with project briefs, layout ideas, and resources!
 - [FYI](https://github.com/the-pudding/FYI) - Documentation on processes, tips and tricks.
 - [writingwithemacs](https://github.com/thinkhuman/writingwithemacs) - Tips, Examples, and Resources for Writing with Emacs
 - [notes-to-cs-freshmen-from-the-future](https://github.com/nushackers/notes-to-cs-freshmen-from-the-future) - Notes to (NUS) Computer Science Freshmen, From The Future (Original by @ejamesc)
 - [digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
-- [notes-on-writing](https://github.com/mnielsen/notes-on-writing) - Notes on writing
 - [EconomicTracker](https://github.com/OpportunityInsights/EconomicTracker) - Download data from the Opportunity Insights Economic Tracker — https://tracktherecovery.org/
 - [makefiles](https://github.com/adviksh/makefiles) - Makefile functions and examples I've found helpful
-- [harvard-gsas-thesis](https://github.com/kolesarm/harvard-gsas-thesis) - A LaTeX class for publising a PhD thesis according to Harvard GSAS requirements
-- [layouts.jabref.org](https://github.com/JabRef/layouts.jabref.org) - Collection of .layout files
 - [maps_Spain](https://github.com/aaumaitre/maps_Spain) - plotting tutorial for maps of Spain with ggplot2
 - [github-classroom-for-teachers](https://github.com/jfiksel/github-classroom-for-teachers) - 
 - [Git_Academic_Benefits](https://github.com/mikecroucher/Git_Academic_Benefits) - Academic Benefits of Using Version Control
-- [ultimate-beamer-theme-list](https://github.com/martinbjeldbak/ultimate-beamer-theme-list) - A collection of custom Beamer themes
 - [awesome](https://github.com/nayafia/awesome) - :sunglasses: Curated list of awesome lists
 - [Awesome-Clean-Code-Resources](https://github.com/abiodunjames/Awesome-Clean-Code-Resources) - An awesome curated list of clean code posts, books and videos
-- [GitInPractice](https://github.com/MikeMcQuaid/GitInPractice) - 📖 An opinionated intermediate/advanced Git book
 - [Awesome-Geospatial](https://github.com/sacridini/Awesome-Geospatial) - Long list of geospatial tools and resources
 - [datasharing](https://github.com/jtleek/datasharing) - The Leek group guide to data sharing
 - [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and others.
@@ -273,38 +216,26 @@
 
 ## Python 
 
+- [quadpy](https://github.com/nschloe/quadpy) - Numerical integration (quadrature, cubature) in Python
 - [eg](https://github.com/srsudar/eg) - Useful examples at the command line.
 - [Py-StackExchange](https://github.com/lucjon/Py-StackExchange) - A Python binding for the StackExchange API
 - [dfply](https://github.com/kieferk/dfply) - dplyr-style piping operations for pandas dataframes
 - [rofi-org-todo](https://github.com/wakatara/rofi-org-todo) - A rofi script to allow easy hotkey adding of org-mode TODOs to an inbox.org file for later processing.
 - [ai-economist](https://github.com/salesforce/ai-economist) - Foundation is a flexible, modular, and composable framework to model socio-economic behaviors and dynamics with both agents and governments. This framework can be used in conjunction with reinforcement learning to learn optimal economic policies, as done by the AI Economist (https://www.einstein.ai/the-ai-economist).
-- [tex2text](https://github.com/edemaine/tex2text) - Simple conversion from LaTeX to ASCII or Markdown
 - [datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [git-remote-dropbox](https://github.com/anishathalye/git-remote-dropbox) - A transparent bridge between Git and Dropbox - use a Dropbox (shared) folder as a Git remote! 🎁
-- [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [pdfcomments](https://github.com/hoffmangroup/pdfcomments) - 
-- [doi2bib](https://github.com/bibcure/doi2bib) - get the bibtex string given a doi
 - [tradedownloader](https://github.com/ejokeeffe/tradedownloader) - Download trade data from Comtrade using the exposed Comtrade API
-- [paper-tips-and-tricks](https://github.com/Wookai/paper-tips-and-tricks) - Best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab.
-- [arxiv-latex-cleaner](https://github.com/google-research/arxiv-latex-cleaner) - arXiv LaTeX Cleaner: Easily clean the LaTeX code of your paper to submit to arXiv
-- [hugo-academic-cli](https://github.com/wowchemy/hugo-academic-cli) - 📚 Import academic publications from Bibtex to Hugo
 - [siuba](https://github.com/machow/siuba) - Python library for using dplyr like syntax with pandas and SQL
-- [git-workflow](https://github.com/jvns/git-workflow) - Tool to visualize your git workflow, in a pretty graph
-- [ruffus](https://github.com/cgat-developers/ruffus) - CGAT-ruffus is a lightweight python module for running computational pipelines
 - [sufs](https://github.com/karlicoss/sufs) - Merge multiple directories into one via symlinks
 - [econtools](https://github.com/dmsul/econtools) - Econometrics and data manipulation functions.
 - [EGLP_Crosswalk](https://github.com/liang-jack-a/EGLP_Crosswalk) - Repository for "A Method to Construct Geographical Crosswalks with an Application to US Counties since 1790"
-- [icdiff](https://github.com/jeffkaufman/icdiff) - improved colored diff
-- [pybibtex](https://github.com/rasbt/pybibtex) - Utility functions for parsing BibTeX files and creating citation reference lists.
 - [cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 - [pycco](https://github.com/pycco-docs/pycco) - Literate-style documentation generator.
 - [stata-autokey](https://github.com/kylebarron/stata-autokey) - Run Stata code from a text editor on Linux
 - [org-report-summary-graphics](https://github.com/amoghpj/org-report-summary-graphics) - Scripts to generate graphics for org-reports!
 - [create_project](https://github.com/johnjosephhorton/create_project) - This is a python script for building a directory structure and a "hello world" make'able version of a LaTeX paper.
 - [litfisk](https://github.com/johnjosephhorton/litfisk) - Tool for taking plain text notes on PDF files
-- [research_tools](https://github.com/johnjosephhorton/research_tools) - Tools for doing research
-- [flatex](https://github.com/johnjosephhorton/flatex) - A Python script for "flattening" a nested LaTeX document by pulling in all the \input files
-- [FeedlyClient](https://github.com/zgw21cn/FeedlyClient) - A client for Feedly
 - [pake](https://github.com/Teriks/pake) - Make-like build utility entirely in python
 - [elsapy](https://github.com/ElsevierDev/elsapy) - A Python module for use with Elsevier's APIs: Scopus, ScienceDirect, others.
 - [template](https://github.com/gentzkow/template) - 
@@ -323,42 +254,23 @@
 - [comtradr](https://github.com/ropensci/comtradr) - Functions for Interacting with the UN Comtrade API
 - [hereR](https://github.com/munterfinger/hereR) - R package that provides an interface to the HERE REST APIs: Geocoder API, Routing API, Traffic API, Public Transit API and Destination Weather API. Locations and routes are returned as 'sf' objects.
 - [Sweeney_RA_Manual](https://github.com/rlsweeney/Sweeney_RA_Manual) - Setup instructions and general best practices for Prof. Sweeney's research projects
-- [textables](https://github.com/setzler/textables) - Customized LaTeX tables in R
-- [ruigi](https://github.com/kirillseva/ruigi) - Ruigi is a pipeline specialist, much like his python counterpart, Luigi.
 - [ProgrammingNotes](https://github.com/kbroman/ProgrammingNotes) - My personal notes on various programming languages and tools
 
 ## Rich Text Format 
 
 - [thesis](https://github.com/JulienPascal/thesis) - 
 
-## Ruby 
-
-- [zk](https://github.com/sirupsen/zk) - Zettelkasten on the command-line 📚 🔍
-
 ## Rust 
 
 - [tre](https://github.com/dduan/tre) - Tree command, improved.
-- [exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-
-## Sass 
-
-- [dotfiles.github.com](https://github.com/dotfiles/dotfiles.github.com) - Your unofficial guide to doing dotfiles on GitHub.
 
 ## Shell 
 
-- [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.
-- [hugo-assistant](https://github.com/wowchemy/hugo-assistant) - Scripts to help migrate content to new versions of Hugo and Wowchemy
-- [academic-kickstart](https://github.com/setzler/academic-kickstart) - 
 - [hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
-- [rcc-intro](https://github.com/rcc-uchicago/rcc-intro) - 
 
 ## Stata 
 
-- [texresults](https://github.com/acarril/texresults) - Stata program to export results as Latex macros
-- [markdoc](https://github.com/haghish/markdoc) - A literate programming package for Stata which develops dynamic documents, slides, and help files in various formats
-- [DingelNeiman-workathome](https://github.com/jdingel/DingelNeiman-workathome) - "How Many Jobs Can be Done at Home?" by Jonathan Dingel and Brent Neiman
-- [stata-tex](https://github.com/paulnov/stata-tex) - A set of tools to make it easier to create complicated LaTeX tables from Stata
 - [stata-misc](https://github.com/gslab-econ/stata-misc) - Miscellaneous Stata Commands
 - [gslab_stata](https://github.com/gslab-econ/gslab_stata) - 
 - [mostly-harmless-replication](https://github.com/vikjam/mostly-harmless-replication) - Replication of tables and figures from "Mostly Harmless Econometrics" in Stata, R, Python and Julia.
@@ -366,29 +278,16 @@
 ## TeX 
 
 - [ResEcon703](https://github.com/woerman/ResEcon703) - Topics in Advanced Econometrics (ResEcon 703). University of Massachusetts Amherst. Taught by Matt Woerman
-- [LaTeX-Templates](https://github.com/scaotravis/LaTeX-Templates) - TeX templates for academic journal, problem set, and cheat sheet
 - [example_project](https://github.com/hollina/example_project) - An example project using stata and R
 - [open-gat](https://github.com/Robinlovelace/open-gat) - Open source software for geographic transport data analysis and planning
 - [Methods](https://github.com/ms486/Methods) - Notes and Codes for Computational Methods in Econ
-- [beamer-tips](https://github.com/paulgp/beamer-tips) - 
-- [latex-custom-kjh](https://github.com/kjhealy/latex-custom-kjh) - Some simple configuration files I use for use with LaTeX, the Memoir class and the Listings package.
-- [latex-advice](https://github.com/dspinellis/latex-advice) - Advice for writing LaTeX documents
-- [latex-templates](https://github.com/dustinvtran/latex-templates) - A collection of LaTeX templates used for research, courses, and miscellanea.
-- [flux-beamer](https://github.com/pvanberg/flux-beamer) - Flux is a modern style beamer presentation.
-- [mtheme](https://github.com/matze/mtheme) - A modern LaTeX Beamer theme
-- [r-tutorial](https://github.com/setzler/r-tutorial) - A tutorial for learning to program in R.
-- [proof-at-the-end](https://github.com/leo-colisson/proof-at-the-end) - This small package aims to provide a way to easily move proofs in the appendix.
 - [mandown](https://github.com/knaaptime/mandown) - Scholarly Manuscripts in Markdown
 - [micro-metrics](https://github.com/chrisconlon/micro-metrics) - This is a 2nd Year PhD Course In Micro-econometrics
-- [tufte-latex](https://github.com/Tufte-LaTeX/tufte-latex) - A Tufte-inspired LaTeX class for producing handouts, papers, and books
-- [cam-notes](https://github.com/dalcde/cam-notes) - My Cambridge Lecture Notes
 - [econ35101](https://github.com/jdingel/econ35101) - Public repository for UChicago's Econ 35101 "International Macroeconomics and Trade" PhD class
 
 ## TypeScript 
 
 - [codetour](https://github.com/vsls-contrib/codetour) - VS Code extension that allows you to record and playback guided tours of codebases, directly within the editor
-- [refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
-- [foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 
 ## YASnippet 
 
