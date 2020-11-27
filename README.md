@@ -216,6 +216,8 @@
 
 ## Python 
 
+- [template](https://github.com/gslab-econ/template) - 
+- [gslab_python](https://github.com/gslab-econ/gslab_python) - Python tools for GSLab
 - [quadpy](https://github.com/nschloe/quadpy) - Numerical integration (quadrature, cubature) in Python
 - [eg](https://github.com/srsudar/eg) - Useful examples at the command line.
 - [Py-StackExchange](https://github.com/lucjon/Py-StackExchange) - A Python binding for the StackExchange API
@@ -246,6 +248,7 @@
 
 ## R 
 
+- [gslab_r](https://github.com/gslab-econ/gslab_r) - 
 - [EconData](https://github.com/setzler/EconData) - Data repository and R package to manage publicly-available economics data.
 - [CPS_Microdata](https://github.com/BenCasselman/CPS_Microdata) - Work with Current Population Survey (basic monthly files) microdata.
 - [RoadColors](https://github.com/erdavis1/RoadColors) - Plot US roads, coloring each by its designation (e.g. Street, Road, Avenue)
@@ -263,15 +266,14 @@
 ## Rust 
 
 - [tre](https://github.com/dduan/tre) - Tree command, improved.
-- [starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
 ## Shell 
 
+- [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 
 ## Stata 
 
-- [stata-misc](https://github.com/gslab-econ/stata-misc) - Miscellaneous Stata Commands
 - [gslab_stata](https://github.com/gslab-econ/gslab_stata) - 
 - [mostly-harmless-replication](https://github.com/vikjam/mostly-harmless-replication) - Replication of tables and figures from "Mostly Harmless Econometrics" in Stata, R, Python and Julia.
 
