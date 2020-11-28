@@ -29,7 +29,6 @@
   - [Shell](#shell)
   - [Stata](#stata)
   - [TeX](#tex)
-  - [TypeScript](#typescript)
   - [YASnippet](#yasnippet)
 
 ## AMPL 
@@ -224,12 +223,8 @@
 - [econtools](https://github.com/dmsul/econtools) - Econometrics and data manipulation functions.
 - [EGLP_Crosswalk](https://github.com/liang-jack-a/EGLP_Crosswalk) - Repository for "A Method to Construct Geographical Crosswalks with an Application to US Counties since 1790"
 - [cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
-- [pycco](https://github.com/pycco-docs/pycco) - Literate-style documentation generator.
 - [org-report-summary-graphics](https://github.com/amoghpj/org-report-summary-graphics) - Scripts to generate graphics for org-reports!
 - [create_project](https://github.com/johnjosephhorton/create_project) - This is a python script for building a directory structure and a "hello world" make'able version of a LaTeX paper.
-- [litfisk](https://github.com/johnjosephhorton/litfisk) - Tool for taking plain text notes on PDF files
-- [pake](https://github.com/Teriks/pake) - Make-like build utility entirely in python
-- [elsapy](https://github.com/ElsevierDev/elsapy) - A Python module for use with Elsevier's APIs: Scopus, ScienceDirect, others.
 - [template](https://github.com/gentzkow/template) - 
 - [HARK](https://github.com/econ-ark/HARK) - Heterogenous Agents Resources & toolKit
 - [ConsumptionSaving](https://github.com/NumEconCopenhagen/ConsumptionSaving) - Solve and simulate consumption-saving models in Python (optimized with Numba) and C++
@@ -277,10 +272,6 @@
 - [mandown](https://github.com/knaaptime/mandown) - Scholarly Manuscripts in Markdown
 - [micro-metrics](https://github.com/chrisconlon/micro-metrics) - This is a 2nd Year PhD Course In Micro-econometrics
 - [econ35101](https://github.com/jdingel/econ35101) - Public repository for UChicago's Econ 35101 "International Macroeconomics and Trade" PhD class
-
-## TypeScript 
-
-- [codetour](https://github.com/vsls-contrib/codetour) - VS Code extension that allows you to record and playback guided tours of codebases, directly within the editor
 
 ## YASnippet 
 
