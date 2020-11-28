@@ -38,14 +38,11 @@
 
 ## C 
 
-- [rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [pdf-tools](https://github.com/politza/pdf-tools) - Emacs support library for PDF files.
 - [pyreadr](https://github.com/ofajardo/pyreadr) - Python package to read and write R RData and Rds files into/from pandas dataframes. No R or other external dependencies required.
 
 ## C++ 
 
-- [diff-pdf](https://github.com/vslavik/diff-pdf) - A simple tool for visually comparing two PDF files
-- [albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [Parallel_Computing](https://github.com/davidzarruk/Parallel_Computing) - 
 
 ## CSS 
@@ -198,7 +195,6 @@
 - [notes-to-cs-freshmen-from-the-future](https://github.com/nushackers/notes-to-cs-freshmen-from-the-future) - Notes to (NUS) Computer Science Freshmen, From The Future (Original by @ejamesc)
 - [digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [EconomicTracker](https://github.com/OpportunityInsights/EconomicTracker) - Download data from the Opportunity Insights Economic Tracker — https://tracktherecovery.org/
-- [makefiles](https://github.com/adviksh/makefiles) - Makefile functions and examples I've found helpful
 - [maps_Spain](https://github.com/aaumaitre/maps_Spain) - plotting tutorial for maps of Spain with ggplot2
 - [github-classroom-for-teachers](https://github.com/jfiksel/github-classroom-for-teachers) - 
 - [Git_Academic_Benefits](https://github.com/mikecroucher/Git_Academic_Benefits) - Academic Benefits of Using Version Control
@@ -220,21 +216,15 @@
 - [gslab_python](https://github.com/gslab-econ/gslab_python) - Python tools for GSLab
 - [quadpy](https://github.com/nschloe/quadpy) - Numerical integration (quadrature, cubature) in Python
 - [eg](https://github.com/srsudar/eg) - Useful examples at the command line.
-- [Py-StackExchange](https://github.com/lucjon/Py-StackExchange) - A Python binding for the StackExchange API
 - [dfply](https://github.com/kieferk/dfply) - dplyr-style piping operations for pandas dataframes
-- [rofi-org-todo](https://github.com/wakatara/rofi-org-todo) - A rofi script to allow easy hotkey adding of org-mode TODOs to an inbox.org file for later processing.
 - [ai-economist](https://github.com/salesforce/ai-economist) - Foundation is a flexible, modular, and composable framework to model socio-economic behaviors and dynamics with both agents and governments. This framework can be used in conjunction with reinforcement learning to learn optimal economic policies, as done by the AI Economist (https://www.einstein.ai/the-ai-economist).
 - [datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
-- [git-remote-dropbox](https://github.com/anishathalye/git-remote-dropbox) - A transparent bridge between Git and Dropbox - use a Dropbox (shared) folder as a Git remote! 🎁
-- [pdfcomments](https://github.com/hoffmangroup/pdfcomments) - 
 - [tradedownloader](https://github.com/ejokeeffe/tradedownloader) - Download trade data from Comtrade using the exposed Comtrade API
 - [siuba](https://github.com/machow/siuba) - Python library for using dplyr like syntax with pandas and SQL
-- [sufs](https://github.com/karlicoss/sufs) - Merge multiple directories into one via symlinks
 - [econtools](https://github.com/dmsul/econtools) - Econometrics and data manipulation functions.
 - [EGLP_Crosswalk](https://github.com/liang-jack-a/EGLP_Crosswalk) - Repository for "A Method to Construct Geographical Crosswalks with an Application to US Counties since 1790"
 - [cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 - [pycco](https://github.com/pycco-docs/pycco) - Literate-style documentation generator.
-- [stata-autokey](https://github.com/kylebarron/stata-autokey) - Run Stata code from a text editor on Linux
 - [org-report-summary-graphics](https://github.com/amoghpj/org-report-summary-graphics) - Scripts to generate graphics for org-reports!
 - [create_project](https://github.com/johnjosephhorton/create_project) - This is a python script for building a directory structure and a "hello world" make'able version of a LaTeX paper.
 - [litfisk](https://github.com/johnjosephhorton/litfisk) - Tool for taking plain text notes on PDF files
@@ -265,6 +255,7 @@
 
 ## Rust 
 
+- [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [tre](https://github.com/dduan/tre) - Tree command, improved.
 
 ## Shell 
