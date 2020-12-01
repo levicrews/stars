@@ -212,6 +212,7 @@
 
 ## Python 
 
+- [pympress](https://github.com/Cimbali/pympress) - Pympress is a simple yet powerful PDF reader designed for dual-screen presentations
 - [pulp](https://github.com/coin-or/pulp) - A python Linear Programming API
 - [template](https://github.com/gslab-econ/template) - 
 - [gslab_python](https://github.com/gslab-econ/gslab_python) - Python tools for GSLab
@@ -257,7 +258,6 @@
 
 ## Shell 
 
-- [jjhscripts](https://github.com/johnjosephhorton/jjhscripts) - Bash and AWK scripts I find useful
 - [scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Scripts to Rule Them All
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
@@ -269,6 +269,7 @@
 
 ## TeX 
 
+- [paper_template](https://github.com/rdahis/paper_template) - Template structure for empirical papers.
 - [texsupport.econometricsociety-ecta](https://github.com/vtex-soft/texsupport.econometricsociety-ecta) - LaTeX author support files for the Econometric Society journal Econmetrica.
 - [ResEcon703](https://github.com/woerman/ResEcon703) - Topics in Advanced Econometrics (ResEcon 703). University of Massachusetts Amherst. Taught by Matt Woerman
 - [example_project](https://github.com/hollina/example_project) - An example project using stata and R
