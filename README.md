@@ -59,6 +59,7 @@
 
 ## Emacs Lisp 
 
+- [all-the-icons-dired](https://github.com/jtbm37/all-the-icons-dired) - Adds dired support to all-the-icons
 - [delve](https://github.com/publicimageltd/delve) - Delve into your org-roam zettelkasten.
 - [Academic-Doom-Emacs-Config](https://github.com/sunnyhasija/Academic-Doom-Emacs-Config) - My doom emacs configuration files
 - [org-super-agenda](https://github.com/alphapapa/org-super-agenda) - Supercharge your Org daily/weekly agenda by grouping items
@@ -104,6 +105,7 @@
 
 ## HTML 
 
+- [org-roam-server](https://github.com/org-roam/org-roam-server) - A Web Application to Visualize the Org-Roam Database
 - [EC525S19](https://github.com/edrubin/EC525S19) - 
 - [mrsp](https://github.com/merely-useful/mrsp) - Managing Research Software Projects
 - [data](https://github.com/the-pudding/data) - Data sets created for stories on The Pudding, open to the public.
