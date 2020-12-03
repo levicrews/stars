@@ -59,6 +59,8 @@
 
 ## Emacs Lisp 
 
+- [toml-mode.el](https://github.com/dryman/toml-mode.el) - Emacs Mojor mode for editing TOML files
+- [emacs-toml](https://github.com/gongo/emacs-toml) - TOML (Tom's Obvious, Minimal Language) parser and generator
 - [all-the-icons-dired](https://github.com/jtbm37/all-the-icons-dired) - Adds dired support to all-the-icons
 - [delve](https://github.com/publicimageltd/delve) - Delve into your org-roam zettelkasten.
 - [Academic-Doom-Emacs-Config](https://github.com/sunnyhasija/Academic-Doom-Emacs-Config) - My doom emacs configuration files
@@ -188,6 +190,7 @@
 
 ## Others 
 
+- [dotfiles-ng](https://github.com/pniedzielski/dotfiles-ng) - Literate Dotfiles via Org-Mode
 - [SDC-to-Compustat-Mapping](https://github.com/michaelewens/SDC-to-Compustat-Mapping) - A mapping between SDCs M&A database and the gvkey's in Compustat
 - [cookiecutter-reproducible-science](https://github.com/mkrapp/cookiecutter-reproducible-science) - boilerplate for reproducible and transparent science
 - [awesome-data-engineering-learning](https://github.com/snird/awesome-data-engineering-learning) - Awesome list of data engineering learning materials by subject
@@ -238,6 +241,7 @@
 
 ## R 
 
+- [zaminfluence](https://github.com/rgiordan/zaminfluence) - Tools in R for computing and using Z-estimator approximate influence functions.
 - [gslab_r](https://github.com/gslab-econ/gslab_r) - 
 - [EconData](https://github.com/setzler/EconData) - Data repository and R package to manage publicly-available economics data.
 - [CPS_Microdata](https://github.com/BenCasselman/CPS_Microdata) - Work with Current Population Survey (basic monthly files) microdata.
