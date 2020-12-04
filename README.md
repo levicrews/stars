@@ -59,6 +59,8 @@
 
 ## Emacs Lisp 
 
+- [emacs-dashboard](https://github.com/emacs-dashboard/emacs-dashboard) - An extensible emacs dashboard
+- [ESS](https://github.com/emacs-ess/ESS) - Emacs Speaks Statistics: ESS
 - [toml-mode.el](https://github.com/dryman/toml-mode.el) - Emacs Mojor mode for editing TOML files
 - [emacs-toml](https://github.com/gongo/emacs-toml) - TOML (Tom's Obvious, Minimal Language) parser and generator
 - [all-the-icons-dired](https://github.com/jtbm37/all-the-icons-dired) - Adds dired support to all-the-icons
@@ -127,6 +129,7 @@
 
 ## JavaScript 
 
+- [topojson](https://github.com/topojson/topojson) - An extension of GeoJSON that encodes topology! 🌐
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
@@ -190,6 +193,7 @@
 
 ## Others 
 
+- [vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
 - [dotfiles-ng](https://github.com/pniedzielski/dotfiles-ng) - Literate Dotfiles via Org-Mode
 - [SDC-to-Compustat-Mapping](https://github.com/michaelewens/SDC-to-Compustat-Mapping) - A mapping between SDCs M&A database and the gvkey's in Compustat
 - [cookiecutter-reproducible-science](https://github.com/mkrapp/cookiecutter-reproducible-science) - boilerplate for reproducible and transparent science
@@ -264,6 +268,7 @@
 
 ## Shell 
 
+- [us-atlas](https://github.com/topojson/us-atlas) - Pre-built TopoJSON from the U.S. Census Bureau.
 - [scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Scripts to Rule Them All
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
