@@ -13,7 +13,6 @@
   - [Emacs Lisp](#emacs-lisp)
   - [Gnuplot](#gnuplot)
   - [HTML](#html)
-  - [Java](#java)
   - [JavaScript](#javascript)
   - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
@@ -59,6 +58,7 @@
 
 ## Emacs Lisp 
 
+- [calctex](https://github.com/johnbcoughlin/calctex) - 
 - [emacs-dashboard](https://github.com/emacs-dashboard/emacs-dashboard) - An extensible emacs dashboard
 - [ESS](https://github.com/emacs-ess/ESS) - Emacs Speaks Statistics: ESS
 - [toml-mode.el](https://github.com/dryman/toml-mode.el) - Emacs Mojor mode for editing TOML files
@@ -122,10 +122,6 @@
 - [remaster-the-tidyverse](https://github.com/rstudio-education/remaster-the-tidyverse) - This is a planning repository where I develop Tidyverse-related workshops.
 - [ipypublish](https://github.com/chrisjsewell/ipypublish) - A workflow for creating and editing publication ready scientific reports and presentations, from one or more Jupyter Notebooks, without leaving the browser!
 - [gslab_make](https://github.com/gslab-econ/gslab_make) - Python tools for GSLab
-
-## Java 
-
-- [emacs-documentation-android](https://github.com/Malabarba/emacs-documentation-android) - Emacs Documentation android app. Search emacs variables/functions and view their documentations on android.
 
 ## JavaScript 
 
@@ -221,6 +217,7 @@
 
 ## Python 
 
+- [pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [pympress](https://github.com/Cimbali/pympress) - Pympress is a simple yet powerful PDF reader designed for dual-screen presentations
 - [pulp](https://github.com/coin-or/pulp) - A python Linear Programming API
 - [template](https://github.com/gslab-econ/template) - 
