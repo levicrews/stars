@@ -58,6 +58,9 @@
 
 ## Emacs Lisp 
 
+- [objed](https://github.com/clemera/objed) - Navigate and edit text objects with Emacs. Development on pause.
+- [unpackaged.el](https://github.com/alphapapa/unpackaged.el) - A collection of useful Emacs Lisp code that isn't substantial enough to be packaged
+- [org-roam-bibtex](https://github.com/org-roam/org-roam-bibtex) - Connector between Org-roam, BibTeX-completion, and Org-ref
 - [calctex](https://github.com/johnbcoughlin/calctex) - 
 - [emacs-dashboard](https://github.com/emacs-dashboard/emacs-dashboard) - An extensible emacs dashboard
 - [ESS](https://github.com/emacs-ess/ESS) - Emacs Speaks Statistics: ESS
@@ -265,6 +268,7 @@
 
 ## Shell 
 
+- [org-sidebar](https://github.com/alphapapa/org-sidebar) - A helpful sidebar for Org mode
 - [us-atlas](https://github.com/topojson/us-atlas) - Pre-built TopoJSON from the U.S. Census Bureau.
 - [scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Scripts to Rule Them All
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
