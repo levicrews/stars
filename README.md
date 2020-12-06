@@ -13,7 +13,6 @@
   - [Emacs Lisp](#emacs-lisp)
   - [Gnuplot](#gnuplot)
   - [HTML](#html)
-  - [Java](#java)
   - [JavaScript](#javascript)
   - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
@@ -25,7 +24,6 @@
   - [Python](#python)
   - [R](#r)
   - [Rich Text Format](#rich-text-format)
-  - [Rust](#rust)
   - [Shell](#shell)
   - [Stata](#stata)
   - [TeX](#tex)
@@ -42,6 +40,7 @@
 
 ## C++ 
 
+- [Ipopt](https://github.com/coin-or/Ipopt) - COIN-OR Interior Point Optimizer IPOPT
 - [Parallel_Computing](https://github.com/davidzarruk/Parallel_Computing) - 
 
 ## CSS 
@@ -58,39 +57,32 @@
 
 ## Emacs Lisp 
 
+- [hyperbole](https://github.com/rswgnu/hyperbole) - GNU Hyperbole: The Everyday, Hypertextual Information Manager
+- [objed](https://github.com/clemera/objed) - Navigate and edit text objects with Emacs. Development on pause.
+- [unpackaged.el](https://github.com/alphapapa/unpackaged.el) - A collection of useful Emacs Lisp code that isn't substantial enough to be packaged
+- [org-roam-bibtex](https://github.com/org-roam/org-roam-bibtex) - Connector between Org-roam, BibTeX-completion, and Org-ref
+- [calctex](https://github.com/johnbcoughlin/calctex) - 
+- [emacs-dashboard](https://github.com/emacs-dashboard/emacs-dashboard) - An extensible emacs dashboard
 - [delve](https://github.com/publicimageltd/delve) - Delve into your org-roam zettelkasten.
-- [Academic-Doom-Emacs-Config](https://github.com/sunnyhasija/Academic-Doom-Emacs-Config) - My doom emacs configuration files
 - [org-super-agenda](https://github.com/alphapapa/org-super-agenda) - Supercharge your Org daily/weekly agenda by grouping items
 - [binder](https://github.com/rnkn/binder) - Emacs global minor mode facilitating multi-file writing projects
 - [emacs.d](https://github.com/munen/emacs.d) - My emacs configuration documented in literate programming style
 - [Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
-- [ag.el](https://github.com/Wilfred/ag.el) - An Emacs frontend to The Silver Searcher
 - [tufte-org-mode](https://github.com/tsdye/tufte-org-mode) - An Org mode environment for producing Tufte-LaTeX books and handouts
-- [git-gutter](https://github.com/emacsorphanage/git-gutter) - Emacs port of GitGutter which is Sublime Text Plugin
-- [treemacs](https://github.com/Alexander-Miller/treemacs) - 
 - [hydra](https://github.com/abo-abo/hydra) - make Emacs bindings that stick around
 - [elfeed-org](https://github.com/remyhonig/elfeed-org) - Configure the Elfeed RSS reader with an Orgmode file
 - [keycast](https://github.com/tarsius/keycast) - Show current command and its key in the mode line
 - [emacs-for-writers](https://github.com/frankjonen/emacs-for-writers) - Emacs configuration for writers. Focus on story development and structured writing.
-- [projectile](https://github.com/bbatsov/projectile) - Project Interaction Library for Emacs
-- [swiper](https://github.com/abo-abo/swiper) - Ivy - a generic completion frontend for Emacs, Swiper - isearch with an overview, and more. Oh, man!
 - [elfeed](https://github.com/skeeto/elfeed) - An Emacs web feeds client
 - [pandoc-mode](https://github.com/joostkremers/pandoc-mode) - An Emacs minor mode for interacting with Pandoc.
 - [org-thesis](https://github.com/dangom/org-thesis) - Writing a Ph.D. thesis with Org Mode
-- [org-pdftools](https://github.com/fuxialexander/org-pdftools) - A custom org link type for pdf-tools
 - [org-generate.el](https://github.com/conao3/org-generate.el) - Generate template files/folders from one org document
 - [Zero-to-Emacs-and-Org-roam](https://github.com/nobiot/Zero-to-Emacs-and-Org-roam) - Step by step guide from zero to installing and setting up Emacs and Org-roam on Windows 10
 - [doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs framework for the stubborn martian hacker
 - [org-zettelkasten](https://github.com/l3kn/org-zettelkasten) - An opinionated setup for managing large collections of interlinked org files.
 - [.emacs.d](https://github.com/jethrokuan/.emacs.d) - 
-- [dot-emacs](https://github.com/zamansky/dot-emacs) - 
-- [org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
 - [elegant-emacs](https://github.com/rougier/elegant-emacs) - A very minimal but elegant emacs (I think)
-- [deft](https://github.com/jrblevin/deft) - Deft for Emacs
-- [org-journal](https://github.com/bastibe/org-journal) - A simple org-mode based journaling mode
-- [forge](https://github.com/magit/forge) - Work with Git forges from the comfort of Magit
 - [github-review](https://github.com/charignon/github-review) - Github code reviews with Emacs.
-- [prelude](https://github.com/bbatsov/prelude) - Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
 - [emacs.d](https://github.com/gjstein/emacs.d) - Emacs configuration files
 - [org-ref](https://github.com/jkitchin/org-ref) - org-mode modules for citations, cross-references, bibliographies in org-mode and useful bibtex tools to go with it.
 - [scimax](https://github.com/jkitchin/scimax) - An emacs starterkit for scientists and engineers
@@ -103,6 +95,7 @@
 
 ## HTML 
 
+- [org-roam-server](https://github.com/org-roam/org-roam-server) - A Web Application to Visualize the Org-Roam Database
 - [EC525S19](https://github.com/edrubin/EC525S19) - 
 - [mrsp](https://github.com/merely-useful/mrsp) - Managing Research Software Projects
 - [data](https://github.com/the-pudding/data) - Data sets created for stories on The Pudding, open to the public.
@@ -116,12 +109,9 @@
 - [ipypublish](https://github.com/chrisjsewell/ipypublish) - A workflow for creating and editing publication ready scientific reports and presentations, from one or more Jupyter Notebooks, without leaving the browser!
 - [gslab_make](https://github.com/gslab-econ/gslab_make) - Python tools for GSLab
 
-## Java 
-
-- [emacs-documentation-android](https://github.com/Malabarba/emacs-documentation-android) - Emacs Documentation android app. Search emacs variables/functions and view their documentations on android.
-
 ## JavaScript 
 
+- [topojson](https://github.com/topojson/topojson) - An extension of GeoJSON that encodes topology! 🌐
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
@@ -142,6 +132,7 @@
 
 ## Jupyter Notebook 
 
+- [tradewar-tracker-aws-product-level](https://github.com/mwaugh0328/tradewar-tracker-aws-product-level) - Tradewar Tracker AWS product level code/plots
 - [spopt](https://github.com/pysal/spopt) - Spatial Optimization
 - [CompEcon](https://github.com/fediskhakov/CompEcon) - My "Foundations of Computational Economics" course
 - [data-and-databases](https://github.com/ledeprogram/data-and-databases) - Repository for course materials related to Data and Databases. (Supercedes directories in "courses" repo)
@@ -185,6 +176,8 @@
 
 ## Others 
 
+- [vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
+- [dotfiles-ng](https://github.com/pniedzielski/dotfiles-ng) - Literate Dotfiles via Org-Mode
 - [SDC-to-Compustat-Mapping](https://github.com/michaelewens/SDC-to-Compustat-Mapping) - A mapping between SDCs M&A database and the gvkey's in Compustat
 - [cookiecutter-reproducible-science](https://github.com/mkrapp/cookiecutter-reproducible-science) - boilerplate for reproducible and transparent science
 - [awesome-data-engineering-learning](https://github.com/snird/awesome-data-engineering-learning) - Awesome list of data engineering learning materials by subject
@@ -211,10 +204,13 @@
 
 ## Python 
 
+- [mechanize](https://github.com/python-mechanize/mechanize) - The official source code for the python-mechanize project
+- [pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
+- [pympress](https://github.com/Cimbali/pympress) - Pympress is a simple yet powerful PDF reader designed for dual-screen presentations
+- [pulp](https://github.com/coin-or/pulp) - A python Linear Programming API
 - [template](https://github.com/gslab-econ/template) - 
 - [gslab_python](https://github.com/gslab-econ/gslab_python) - Python tools for GSLab
 - [quadpy](https://github.com/nschloe/quadpy) - Numerical integration (quadrature, cubature) in Python
-- [eg](https://github.com/srsudar/eg) - Useful examples at the command line.
 - [dfply](https://github.com/kieferk/dfply) - dplyr-style piping operations for pandas dataframes
 - [ai-economist](https://github.com/salesforce/ai-economist) - Foundation is a flexible, modular, and composable framework to model socio-economic behaviors and dynamics with both agents and governments. This framework can be used in conjunction with reinforcement learning to learn optimal economic policies, as done by the AI Economist (https://www.einstein.ai/the-ai-economist).
 - [datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
@@ -223,7 +219,6 @@
 - [econtools](https://github.com/dmsul/econtools) - Econometrics and data manipulation functions.
 - [EGLP_Crosswalk](https://github.com/liang-jack-a/EGLP_Crosswalk) - Repository for "A Method to Construct Geographical Crosswalks with an Application to US Counties since 1790"
 - [cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
-- [org-report-summary-graphics](https://github.com/amoghpj/org-report-summary-graphics) - Scripts to generate graphics for org-reports!
 - [create_project](https://github.com/johnjosephhorton/create_project) - This is a python script for building a directory structure and a "hello world" make'able version of a LaTeX paper.
 - [template](https://github.com/gentzkow/template) - 
 - [HARK](https://github.com/econ-ark/HARK) - Heterogenous Agents Resources & toolKit
@@ -233,6 +228,7 @@
 
 ## R 
 
+- [zaminfluence](https://github.com/rgiordan/zaminfluence) - Tools in R for computing and using Z-estimator approximate influence functions.
 - [gslab_r](https://github.com/gslab-econ/gslab_r) - 
 - [EconData](https://github.com/setzler/EconData) - Data repository and R package to manage publicly-available economics data.
 - [CPS_Microdata](https://github.com/BenCasselman/CPS_Microdata) - Work with Current Population Survey (basic monthly files) microdata.
@@ -248,13 +244,10 @@
 
 - [thesis](https://github.com/JulienPascal/thesis) - 
 
-## Rust 
-
-- [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
-- [tre](https://github.com/dduan/tre) - Tree command, improved.
-
 ## Shell 
 
+- [us-atlas](https://github.com/topojson/us-atlas) - Pre-built TopoJSON from the U.S. Census Bureau.
+- [scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Scripts to Rule Them All
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 
@@ -265,6 +258,9 @@
 
 ## TeX 
 
+- [rudin](https://github.com/pjhuxford/rudin) - Solutions to Exercises in Walter Rudin's Principles of Mathematical Analysis
+- [paper_template](https://github.com/rdahis/paper_template) - Template structure for empirical papers.
+- [texsupport.econometricsociety-ecta](https://github.com/vtex-soft/texsupport.econometricsociety-ecta) - LaTeX author support files for the Econometric Society journal Econmetrica.
 - [ResEcon703](https://github.com/woerman/ResEcon703) - Topics in Advanced Econometrics (ResEcon 703). University of Massachusetts Amherst. Taught by Matt Woerman
 - [example_project](https://github.com/hollina/example_project) - An example project using stata and R
 - [open-gat](https://github.com/Robinlovelace/open-gat) - Open source software for geographic transport data analysis and planning
