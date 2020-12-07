@@ -27,23 +27,22 @@
   - [Shell](#shell)
   - [Stata](#stata)
   - [TeX](#tex)
-  - [YASnippet](#yasnippet)
 
-## AMPL
+## AMPL 
 
 - [DSGE_mod](https://github.com/JohannesPfeifer/DSGE_mod) - A collection of Dynare models
 
-## C
+## C 
 
 - [pdf-tools](https://github.com/politza/pdf-tools) - Emacs support library for PDF files.
 - [pyreadr](https://github.com/ofajardo/pyreadr) - Python package to read and write R RData and Rds files into/from pandas dataframes. No R or other external dependencies required.
 
-## C++
+## C++ 
 
 - [Ipopt](https://github.com/coin-or/Ipopt) - COIN-OR Interior Point Optimizer IPOPT
-- [Parallel_Computing](https://github.com/davidzarruk/Parallel_Computing) -
+- [Parallel_Computing](https://github.com/davidzarruk/Parallel_Computing) - 
 
-## CSS
+## CSS 
 
 - [bigfoot](https://github.com/lemonmade/bigfoot) - A jQuery plugin for creating exceptional footnotes.
 - [digital-nesting](https://github.com/devonzuegel/digital-nesting) - Devon's collection of custom CSS
@@ -51,17 +50,17 @@
 - [econr-notes](https://github.com/tlamadon/econr-notes) - Notes on solving and estimating economic model with heterogeneous agents using R and C++
 - [datausa-tutorials](https://github.com/DataUSA/datausa-tutorials) - Holds tutorials for how to build things with the Data USA API and embedded visualizations.
 
-## CoffeeScript
+## CoffeeScript 
 
 - [metime](https://github.com/jdleesmiller/metime) - Time tracker used in my 'How a Technical Co-founder Spends his Time' blog post.
 
-## Emacs Lisp
+## Emacs Lisp 
 
 - [hyperbole](https://github.com/rswgnu/hyperbole) - GNU Hyperbole: The Everyday, Hypertextual Information Manager
 - [objed](https://github.com/clemera/objed) - Navigate and edit text objects with Emacs. Development on pause.
 - [unpackaged.el](https://github.com/alphapapa/unpackaged.el) - A collection of useful Emacs Lisp code that isn't substantial enough to be packaged
 - [org-roam-bibtex](https://github.com/org-roam/org-roam-bibtex) - Connector between Org-roam, BibTeX-completion, and Org-ref
-- [calctex](https://github.com/johnbcoughlin/calctex) -
+- [calctex](https://github.com/johnbcoughlin/calctex) - 
 - [emacs-dashboard](https://github.com/emacs-dashboard/emacs-dashboard) - An extensible emacs dashboard
 - [delve](https://github.com/publicimageltd/delve) - Delve into your org-roam zettelkasten.
 - [org-super-agenda](https://github.com/alphapapa/org-super-agenda) - Supercharge your Org daily/weekly agenda by grouping items
@@ -80,21 +79,19 @@
 - [Zero-to-Emacs-and-Org-roam](https://github.com/nobiot/Zero-to-Emacs-and-Org-roam) - Step by step guide from zero to installing and setting up Emacs and Org-roam on Windows 10
 - [doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs framework for the stubborn martian hacker
 - [org-zettelkasten](https://github.com/l3kn/org-zettelkasten) - An opinionated setup for managing large collections of interlinked org files.
-- [.emacs.d](https://github.com/jethrokuan/.emacs.d) -
-- [emacs.d](https://github.com/gjstein/emacs.d) - Emacs configuration files
+- [.emacs.d](https://github.com/jethrokuan/.emacs.d) - 
+- [github-review](https://github.com/charignon/github-review) - Github code reviews with Emacs.
 - [org-ref](https://github.com/jkitchin/org-ref) - org-mode modules for citations, cross-references, bibliographies in org-mode and useful bibtex tools to go with it.
-- [scimax](https://github.com/jkitchin/scimax) - An emacs starterkit for scientists and engineers
-- [dot-emacs](https://github.com/jwiegley/dot-emacs) - My .emacs.el file and other personal Emacs goodies
 - [elpy](https://github.com/jorgenschaefer/elpy) - Emacs Python Development Environment
 
-## Gnuplot
+## Gnuplot 
 
 - [elfeed-analysis](https://github.com/skeeto/elfeed-analysis) - Generate an analysis of your Elfeed database
 
-## HTML
+## HTML 
 
 - [org-roam-server](https://github.com/org-roam/org-roam-server) - A Web Application to Visualize the Org-Roam Database
-- [EC525S19](https://github.com/edrubin/EC525S19) -
+- [EC525S19](https://github.com/edrubin/EC525S19) - 
 - [mrsp](https://github.com/merely-useful/mrsp) - Managing Research Software Projects
 - [data](https://github.com/the-pudding/data) - Data sets created for stories on The Pudding, open to the public.
 - [spring-2020](https://github.com/AEM7130/spring-2020) - Spring 2020 AEM 7130: Dynamic Optimization/Computational Methods
@@ -102,12 +99,12 @@
 - [sparkline-nb](https://github.com/iiSeymour/sparkline-nb) - Render sparkline style charts in pandas dataframes
 - [testbook](https://github.com/maelle/testbook) - :warning: CONCEPT! :warning: beautiful book as html and PDF using Hugo and paged.js
 - [lectures](https://github.com/uo-ec607/lectures) - Lecture notes for EC 607
-- [course_template](https://github.com/kjhealy/course_template) -
+- [course_template](https://github.com/kjhealy/course_template) - 
 - [remaster-the-tidyverse](https://github.com/rstudio-education/remaster-the-tidyverse) - This is a planning repository where I develop Tidyverse-related workshops.
 - [ipypublish](https://github.com/chrisjsewell/ipypublish) - A workflow for creating and editing publication ready scientific reports and presentations, from one or more Jupyter Notebooks, without leaving the browser!
 - [gslab_make](https://github.com/gslab-econ/gslab_make) - Python tools for GSLab
 
-## JavaScript
+## JavaScript 
 
 - [topojson](https://github.com/topojson/topojson) - An extension of GeoJSON that encodes topology! 🌐
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
@@ -115,20 +112,19 @@
 - [stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [digital-garden](https://github.com/johno/digital-garden) - 🌻[WIP] Gatsby Theme to build your own digital garden 🌻🥀🌸
 - [starter](https://github.com/the-pudding/starter) - A starter template for projects.
-- [fall-2020](https://github.com/OU-PhD-Econometrics/fall-2020) -
+- [fall-2020](https://github.com/OU-PhD-Econometrics/fall-2020) - 
 - [elvis](https://github.com/LeonvanKouwen/elvis) - Combining holoviz panel and golden-layout in pure python.
-- [org-capture-extension](https://github.com/sprig/org-capture-extension) - A Chrome and firefox extension facilitating org-capture in emacs
 - [organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
 - [MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
 
-## Julia
+## Julia 
 
 - [CurrentPopulationSurvey.jl](https://github.com/mthelm85/CurrentPopulationSurvey.jl) - A simple package for easily downloading/parsing CPS microdata files.
 - [PSID.jl](https://github.com/aaowens/PSID.jl) - Quickly assemble data from the Panel Study of Income Dynamics (PSID)
 - [WorldBankData.jl](https://github.com/4gh/WorldBankData.jl) - Access to World Bank data for Julia
 - [DSGE.jl](https://github.com/FRBNY-DSGE/DSGE.jl) - Solve and estimate Dynamic Stochastic General Equilibrium models (including the New York Fed DSGE)
 
-## Jupyter Notebook
+## Jupyter Notebook 
 
 - [tradewar-tracker-aws-product-level](https://github.com/mwaugh0328/tradewar-tracker-aws-product-level) - Tradewar Tracker AWS product level code/plots
 - [spopt](https://github.com/pysal/spopt) - Spatial Optimization
@@ -144,7 +140,7 @@
 - [pandas-cookbook](https://github.com/jvns/pandas-cookbook) - Recipes for using Python's pandas library
 - [cme257-advanced-julia](https://github.com/icme/cme257-advanced-julia) - Advanced Topics in Scientific Computing with Julia
 - [BootCamp2019](https://github.com/OpenSourceEcon/BootCamp2019) - Repository of syllabi, lecture notes, Jupyter notebooks, code, and problem sets for OSE Lab Boot Camp 2019
-- [Numerical_Continuous_Time](https://github.com/jbduarte/Numerical_Continuous_Time) -
+- [Numerical_Continuous_Time](https://github.com/jbduarte/Numerical_Continuous_Time) - 
 - [python_reference](https://github.com/rasbt/python_reference) - Useful functions, tutorials, and other Python-related things
 - [ElementsOfDataScience](https://github.com/AllenDowney/ElementsOfDataScience) - An introduction to data science in Python, for people with no programming experience.
 - [githubtutorial](https://github.com/nyupredocs/githubtutorial) - Tutorial on how to use Git and GitHub an a scalable collaborative workflow and as a medium for open source, transparent, and replicable research by Richard Evans.
@@ -155,27 +151,26 @@
 - [ipynb-website](https://github.com/stephenslab/ipynb-website) - Simple data science website using Jupyter notebooks.
 - [MIT-PythonIntro](https://github.com/soubhikbarari/MIT-PythonIntro) - Jupyter notebooks, slides, codes and other materials from "Introduction to Python and Web Scraping" workshop hosted at the MIT Political Methodology Lab (Mar 17, 2017).
 
-## MATLAB
+## MATLAB 
 
 - [KS_Perturbation_vs_MIT](https://github.com/ralphluet/KS_Perturbation_vs_MIT) - This code solves the Krusell-Smith model in two ways: Perturbation and MIT shock. More details on the model and the solution approach can be found in the paper: Christian Bayer, Ralph Luetticke (2020). Solving heterogeneous agent models in discrete time with many idiosyncratic states by perturbation methods. Quantitative Economics
 - [WageReturnsJOLE](https://github.com/tyleransom/WageReturnsJOLE) - Data and replication files for Ashworth, Hotz, Maurel and Ransom's article in Journal of Labor Economics
 - [BVAR_](https://github.com/naffe15/BVAR_) - Empirical macro toolbox
 - [financial-frictions](https://github.com/jesusfv/financial-frictions) - Interactive guide to Fernández-Villaverde, Hurtado, and Nuño (2019): "Financial Frictions and the Wealth Distribution".
 
-## Mathematica
+## Mathematica 
 
 - [CompEcon2020](https://github.com/KennethJudd/CompEcon2020) - Computational Economics Course 2020 by Kenneth Judd
 
-## Matlab
+## Matlab 
 
-- [continuous_time_methods](https://github.com/jlperla/continuous_time_methods) -
+- [continuous_time_methods](https://github.com/jlperla/continuous_time_methods) - 
 - [BKM_MIT](https://github.com/kurtmitman/BKM_MIT) - Code to Implement the Algorithm in "Exploiting MIT Shocks in Heterogeneous-Agent Economies: The Impulse Response as a Numerical Derivative" by Timo Boppart, Per Krusell and Kurt Mitman
 - [dynare](https://github.com/DynareTeam/dynare) - This project has moved to https://git.dynare.org/Dynare/dynare
 
-## Others
+## Others 
 
 - [vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
-- [dotfiles-ng](https://github.com/pniedzielski/dotfiles-ng) - Literate Dotfiles via Org-Mode
 - [SDC-to-Compustat-Mapping](https://github.com/michaelewens/SDC-to-Compustat-Mapping) - A mapping between SDCs M&A database and the gvkey's in Compustat
 - [cookiecutter-reproducible-science](https://github.com/mkrapp/cookiecutter-reproducible-science) - boilerplate for reproducible and transparent science
 - [awesome-data-engineering-learning](https://github.com/snird/awesome-data-engineering-learning) - Awesome list of data engineering learning materials by subject
@@ -186,27 +181,27 @@
 - [digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [EconomicTracker](https://github.com/OpportunityInsights/EconomicTracker) - Download data from the Opportunity Insights Economic Tracker — https://tracktherecovery.org/
 - [maps_Spain](https://github.com/aaumaitre/maps_Spain) - plotting tutorial for maps of Spain with ggplot2
-- [github-classroom-for-teachers](https://github.com/jfiksel/github-classroom-for-teachers) -
+- [github-classroom-for-teachers](https://github.com/jfiksel/github-classroom-for-teachers) - 
 - [Git_Academic_Benefits](https://github.com/mikecroucher/Git_Academic_Benefits) - Academic Benefits of Using Version Control
 - [awesome](https://github.com/nayafia/awesome) - :sunglasses: Curated list of awesome lists
 - [Awesome-Clean-Code-Resources](https://github.com/abiodunjames/Awesome-Clean-Code-Resources) - An awesome curated list of clean code posts, books and videos
 - [Awesome-Geospatial](https://github.com/sacridini/Awesome-Geospatial) - Long list of geospatial tools and resources
 - [datasharing](https://github.com/jtleek/datasharing) - The Leek group guide to data sharing
 - [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and others.
-- [ra-manual](https://github.com/gentzkow/ra-manual) -
+- [ra-manual](https://github.com/gentzkow/ra-manual) - 
 - [JuliaByExample](https://github.com/johnerichumphries/JuliaByExample) - Collection of Julia (Julia Lang) Examples
 
-## PowerShell
+## PowerShell 
 
 - [tilburg-science-hub](https://github.com/tilburgsciencehub/tilburg-science-hub) - Tilburg Science Hub is an open-source resource repository that supports students and researchers in the social sciences to efficiently manage data- and computation-intensive projects.
 
-## Python
+## Python 
 
 - [mechanize](https://github.com/python-mechanize/mechanize) - The official source code for the python-mechanize project
 - [pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [pympress](https://github.com/Cimbali/pympress) - Pympress is a simple yet powerful PDF reader designed for dual-screen presentations
 - [pulp](https://github.com/coin-or/pulp) - A python Linear Programming API
-- [template](https://github.com/gslab-econ/template) -
+- [template](https://github.com/gslab-econ/template) - 
 - [gslab_python](https://github.com/gslab-econ/gslab_python) - Python tools for GSLab
 - [quadpy](https://github.com/nschloe/quadpy) - Numerical integration (quadrature, cubature) in Python
 - [dfply](https://github.com/kieferk/dfply) - dplyr-style piping operations for pandas dataframes
@@ -218,16 +213,16 @@
 - [EGLP_Crosswalk](https://github.com/liang-jack-a/EGLP_Crosswalk) - Repository for "A Method to Construct Geographical Crosswalks with an Application to US Counties since 1790"
 - [cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 - [create_project](https://github.com/johnjosephhorton/create_project) - This is a python script for building a directory structure and a "hello world" make'able version of a LaTeX paper.
-- [template](https://github.com/gentzkow/template) -
+- [template](https://github.com/gentzkow/template) - 
 - [HARK](https://github.com/econ-ark/HARK) - Heterogenous Agents Resources & toolKit
 - [ConsumptionSaving](https://github.com/NumEconCopenhagen/ConsumptionSaving) - Solve and simulate consumption-saving models in Python (optimized with Numba) and C++
 - [NumEcon](https://github.com/NumEconCopenhagen/NumEcon) - Package for numerical economics
 - [pymaclab](https://github.com/escheffel/pymaclab) - Dynamic Stochastic Equilibrium Models (DSGE) in Python
 
-## R
+## R 
 
 - [zaminfluence](https://github.com/rgiordan/zaminfluence) - Tools in R for computing and using Z-estimator approximate influence functions.
-- [gslab_r](https://github.com/gslab-econ/gslab_r) -
+- [gslab_r](https://github.com/gslab-econ/gslab_r) - 
 - [EconData](https://github.com/setzler/EconData) - Data repository and R package to manage publicly-available economics data.
 - [CPS_Microdata](https://github.com/BenCasselman/CPS_Microdata) - Work with Current Population Survey (basic monthly files) microdata.
 - [RoadColors](https://github.com/erdavis1/RoadColors) - Plot US roads, coloring each by its designation (e.g. Street, Road, Avenue)
@@ -238,23 +233,23 @@
 - [Sweeney_RA_Manual](https://github.com/rlsweeney/Sweeney_RA_Manual) - Setup instructions and general best practices for Prof. Sweeney's research projects
 - [ProgrammingNotes](https://github.com/kbroman/ProgrammingNotes) - My personal notes on various programming languages and tools
 
-## Rich Text Format
+## Rich Text Format 
 
-- [thesis](https://github.com/JulienPascal/thesis) -
+- [thesis](https://github.com/JulienPascal/thesis) - 
 
-## Shell
+## Shell 
 
 - [us-atlas](https://github.com/topojson/us-atlas) - Pre-built TopoJSON from the U.S. Census Bureau.
 - [scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Scripts to Rule Them All
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 
-## Stata
+## Stata 
 
-- [gslab_stata](https://github.com/gslab-econ/gslab_stata) -
+- [gslab_stata](https://github.com/gslab-econ/gslab_stata) - 
 - [mostly-harmless-replication](https://github.com/vikjam/mostly-harmless-replication) - Replication of tables and figures from "Mostly Harmless Econometrics" in Stata, R, Python and Julia.
 
-## TeX
+## TeX 
 
 - [rudin](https://github.com/pjhuxford/rudin) - Solutions to Exercises in Walter Rudin's Principles of Mathematical Analysis
 - [paper_template](https://github.com/rdahis/paper_template) - Template structure for empirical papers.
@@ -267,13 +262,10 @@
 - [micro-metrics](https://github.com/chrisconlon/micro-metrics) - This is a 2nd Year PhD Course In Micro-econometrics
 - [econ35101](https://github.com/jdingel/econ35101) - Public repository for UChicago's Econ 35101 "International Macroeconomics and Trade" PhD class
 
-## YASnippet
-
-- [emacs_doom_private](https://github.com/UndeadKernel/emacs_doom_private) - Configuration files of my personal emacs configuration of DOOM emacs by hlissner
-
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [levicrews](https://github.com/levicrews) has waived all copyright and related or neighboring rights to this work.
+
