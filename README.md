@@ -13,6 +13,7 @@
   - [Emacs Lisp](#emacs-lisp)
   - [Gnuplot](#gnuplot)
   - [HTML](#html)
+  - [Haskell](#haskell)
   - [JavaScript](#javascript)
   - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
@@ -65,7 +66,6 @@
 - [delve](https://github.com/publicimageltd/delve) - Delve into your org-roam zettelkasten.
 - [org-super-agenda](https://github.com/alphapapa/org-super-agenda) - Supercharge your Org daily/weekly agenda by grouping items
 - [binder](https://github.com/rnkn/binder) - Emacs global minor mode facilitating multi-file writing projects
-- [emacs.d](https://github.com/munen/emacs.d) - My emacs configuration documented in literate programming style
 - [Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
 - [tufte-org-mode](https://github.com/tsdye/tufte-org-mode) - An Org mode environment for producing Tufte-LaTeX books and handouts
 - [hydra](https://github.com/abo-abo/hydra) - make Emacs bindings that stick around
@@ -79,8 +79,6 @@
 - [Zero-to-Emacs-and-Org-roam](https://github.com/nobiot/Zero-to-Emacs-and-Org-roam) - Step by step guide from zero to installing and setting up Emacs and Org-roam on Windows 10
 - [doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs framework for the stubborn martian hacker
 - [org-zettelkasten](https://github.com/l3kn/org-zettelkasten) - An opinionated setup for managing large collections of interlinked org files.
-- [.emacs.d](https://github.com/jethrokuan/.emacs.d) - 
-- [github-review](https://github.com/charignon/github-review) - Github code reviews with Emacs.
 - [org-ref](https://github.com/jkitchin/org-ref) - org-mode modules for citations, cross-references, bibliographies in org-mode and useful bibtex tools to go with it.
 - [elpy](https://github.com/jorgenschaefer/elpy) - Emacs Python Development Environment
 
@@ -103,6 +101,10 @@
 - [remaster-the-tidyverse](https://github.com/rstudio-education/remaster-the-tidyverse) - This is a planning repository where I develop Tidyverse-related workshops.
 - [ipypublish](https://github.com/chrisjsewell/ipypublish) - A workflow for creating and editing publication ready scientific reports and presentations, from one or more Jupyter Notebooks, without leaving the browser!
 - [gslab_make](https://github.com/gslab-econ/gslab_make) - Python tools for GSLab
+
+## Haskell 
+
+- [hours](https://github.com/jwiegley/hours) - Utility for showing hours worked within a work month against a target
 
 ## JavaScript 
 
@@ -176,7 +178,6 @@
 - [awesome-data-engineering-learning](https://github.com/snird/awesome-data-engineering-learning) - Awesome list of data engineering learning materials by subject
 - [50-projects-for-react-and-the-static-web](https://github.com/colbyfayock/50-projects-for-react-and-the-static-web) - ⚛ 50 project ideas to learn by doing complete with project briefs, layout ideas, and resources!
 - [FYI](https://github.com/the-pudding/FYI) - Documentation on processes, tips and tricks.
-- [writingwithemacs](https://github.com/thinkhuman/writingwithemacs) - Tips, Examples, and Resources for Writing with Emacs
 - [notes-to-cs-freshmen-from-the-future](https://github.com/nushackers/notes-to-cs-freshmen-from-the-future) - Notes to (NUS) Computer Science Freshmen, From The Future (Original by @ejamesc)
 - [digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [EconomicTracker](https://github.com/OpportunityInsights/EconomicTracker) - Download data from the Opportunity Insights Economic Tracker — https://tracktherecovery.org/
@@ -187,7 +188,6 @@
 - [Awesome-Clean-Code-Resources](https://github.com/abiodunjames/Awesome-Clean-Code-Resources) - An awesome curated list of clean code posts, books and videos
 - [Awesome-Geospatial](https://github.com/sacridini/Awesome-Geospatial) - Long list of geospatial tools and resources
 - [datasharing](https://github.com/jtleek/datasharing) - The Leek group guide to data sharing
-- [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and others.
 - [ra-manual](https://github.com/gentzkow/ra-manual) - 
 - [JuliaByExample](https://github.com/johnerichumphries/JuliaByExample) - Collection of Julia (Julia Lang) Examples
 
