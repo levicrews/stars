@@ -57,6 +57,11 @@
 
 ## Emacs Lisp 
 
+- [crux](https://github.com/bbatsov/crux) - A Collection of Ridiculously Useful eXtensions for Emacs
+- [org-timeline](https://github.com/Fuco1/org-timeline) - Add graphical view of agenda to agenda buffer
+- [color-theme-sanityinc-tomorrow](https://github.com/purcell/color-theme-sanityinc-tomorrow) - A set of comprehensive Emacs color themes based on Chris Kempson's 'tomorrow' themes
+- [elfeed-dashboard](https://github.com/Manoj321/elfeed-dashboard) - A frontend for elfeed
+- [elfeed-score](https://github.com/sp1ff/elfeed-score) - Gnus-style scoring for elfeed
 - [origami.el](https://github.com/gregsexton/origami.el) - A folding minor mode for Emacs
 - [magit-todos](https://github.com/alphapapa/magit-todos) - Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 - [bufler.el](https://github.com/alphapapa/bufler.el) - A butler for your buffers.  Group buffers into workspaces with programmable rules, and easily switch to and manipulate them.
@@ -64,11 +69,8 @@
 - [hyperbole](https://github.com/rswgnu/hyperbole) - GNU Hyperbole: The Everyday, Hypertextual Information Manager
 - [objed](https://github.com/clemera/objed) - Navigate and edit text objects with Emacs. Development on pause.
 - [unpackaged.el](https://github.com/alphapapa/unpackaged.el) - A collection of useful Emacs Lisp code that isn't substantial enough to be packaged
-- [org-roam-bibtex](https://github.com/org-roam/org-roam-bibtex) - Connector between Org-roam, BibTeX-completion, and Org-ref
 - [calctex](https://github.com/johnbcoughlin/calctex) - 
 - [emacs-dashboard](https://github.com/emacs-dashboard/emacs-dashboard) - An extensible emacs dashboard
-- [delve](https://github.com/publicimageltd/delve) - Delve into your org-roam zettelkasten.
-- [org-super-agenda](https://github.com/alphapapa/org-super-agenda) - Supercharge your Org daily/weekly agenda by grouping items
 - [binder](https://github.com/rnkn/binder) - Emacs global minor mode facilitating multi-file writing projects
 - [Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
 - [tufte-org-mode](https://github.com/tsdye/tufte-org-mode) - An Org mode environment for producing Tufte-LaTeX books and handouts
@@ -76,14 +78,10 @@
 - [elfeed-org](https://github.com/remyhonig/elfeed-org) - Configure the Elfeed RSS reader with an Orgmode file
 - [keycast](https://github.com/tarsius/keycast) - Show current command and its key in the mode line
 - [emacs-for-writers](https://github.com/frankjonen/emacs-for-writers) - Emacs configuration for writers. Focus on story development and structured writing.
-- [elfeed](https://github.com/skeeto/elfeed) - An Emacs web feeds client
 - [pandoc-mode](https://github.com/joostkremers/pandoc-mode) - An Emacs minor mode for interacting with Pandoc.
 - [org-thesis](https://github.com/dangom/org-thesis) - Writing a Ph.D. thesis with Org Mode
 - [org-generate.el](https://github.com/conao3/org-generate.el) - Generate template files/folders from one org document
-- [Zero-to-Emacs-and-Org-roam](https://github.com/nobiot/Zero-to-Emacs-and-Org-roam) - Step by step guide from zero to installing and setting up Emacs and Org-roam on Windows 10
 - [doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs framework for the stubborn martian hacker
-- [org-zettelkasten](https://github.com/l3kn/org-zettelkasten) - An opinionated setup for managing large collections of interlinked org files.
-- [org-ref](https://github.com/jkitchin/org-ref) - org-mode modules for citations, cross-references, bibliographies in org-mode and useful bibtex tools to go with it.
 - [elpy](https://github.com/jorgenschaefer/elpy) - Emacs Python Development Environment
 
 ## Gnuplot 
@@ -92,7 +90,6 @@
 
 ## HTML 
 
-- [org-roam-server](https://github.com/org-roam/org-roam-server) - A Web Application to Visualize the Org-Roam Database
 - [EC525S19](https://github.com/edrubin/EC525S19) - 
 - [mrsp](https://github.com/merely-useful/mrsp) - Managing Research Software Projects
 - [data](https://github.com/the-pudding/data) - Data sets created for stories on The Pudding, open to the public.
