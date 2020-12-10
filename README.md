@@ -35,7 +35,6 @@
 
 ## C 
 
-- [pdf-tools](https://github.com/politza/pdf-tools) - Emacs support library for PDF files.
 - [pyreadr](https://github.com/ofajardo/pyreadr) - Python package to read and write R RData and Rds files into/from pandas dataframes. No R or other external dependencies required.
 
 ## C++ 
@@ -57,6 +56,8 @@
 
 ## Emacs Lisp 
 
+- [avy](https://github.com/abo-abo/avy) - Jump to things in Emacs tree-style
+- [general.el](https://github.com/noctuid/general.el) - More convenient key definitions in emacs
 - [crux](https://github.com/bbatsov/crux) - A Collection of Ridiculously Useful eXtensions for Emacs
 - [org-timeline](https://github.com/Fuco1/org-timeline) - Add graphical view of agenda to agenda buffer
 - [color-theme-sanityinc-tomorrow](https://github.com/purcell/color-theme-sanityinc-tomorrow) - A set of comprehensive Emacs color themes based on Chris Kempson's 'tomorrow' themes
@@ -90,10 +91,11 @@
 
 ## HTML 
 
+- [tufte-css](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts.
 - [EC525S19](https://github.com/edrubin/EC525S19) - 
 - [mrsp](https://github.com/merely-useful/mrsp) - Managing Research Software Projects
 - [data](https://github.com/the-pudding/data) - Data sets created for stories on The Pudding, open to the public.
-- [spring-2020](https://github.com/AEM7130/spring-2020) - Spring 2020 AEM 7130: Dynamic Optimization/Computational Methods
+- [class-repo](https://github.com/AEM7130/class-repo) - Spring 2020 AEM 7130: Dynamic Optimization/Computational Methods
 - [lectures](https://github.com/uo-ec510-2020-spring/lectures) - Lecture material for Big Data in Economics (EC 410/510)
 - [sparkline-nb](https://github.com/iiSeymour/sparkline-nb) - Render sparkline style charts in pandas dataframes
 - [testbook](https://github.com/maelle/testbook) - :warning: CONCEPT! :warning: beautiful book as html and PDF using Hugo and paged.js
@@ -252,6 +254,7 @@
 
 ## TeX 
 
+- [pandoc-templates](https://github.com/kjhealy/pandoc-templates) - Some templates for Pandoc.
 - [rudin](https://github.com/pjhuxford/rudin) - Solutions to Exercises in Walter Rudin's Principles of Mathematical Analysis
 - [paper_template](https://github.com/rdahis/paper_template) - Template structure for empirical papers.
 - [texsupport.econometricsociety-ecta](https://github.com/vtex-soft/texsupport.econometricsociety-ecta) - LaTeX author support files for the Econometric Society journal Econmetrica.
