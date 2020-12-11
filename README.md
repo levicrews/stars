@@ -200,6 +200,7 @@
 
 ## Python 
 
+- [GME](https://github.com/USITC-Gravity-Group/GME) - Gravity Modeling Environment by USITC
 - [mechanize](https://github.com/python-mechanize/mechanize) - The official source code for the python-mechanize project
 - [pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [pympress](https://github.com/Cimbali/pympress) - Pympress is a simple yet powerful PDF reader designed for dual-screen presentations
