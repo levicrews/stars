@@ -12,6 +12,7 @@
   - [CoffeeScript](#coffeescript)
   - [Emacs Lisp](#emacs-lisp)
   - [Gnuplot](#gnuplot)
+  - [Go](#go)
   - [HTML](#html)
   - [Haskell](#haskell)
   - [JavaScript](#javascript)
@@ -21,6 +22,7 @@
   - [Mathematica](#mathematica)
   - [Matlab](#matlab)
   - [Others](#others)
+  - [Perl](#perl)
   - [PowerShell](#powershell)
   - [Python](#python)
   - [R](#r)
@@ -56,6 +58,7 @@
 
 ## Emacs Lisp 
 
+- [ivy-feedwrangler](https://github.com/asimpson/ivy-feedwrangler) - 🌿 📡 An ivy interface to https://feedwrangler.net
 - [avy](https://github.com/abo-abo/avy) - Jump to things in Emacs tree-style
 - [general.el](https://github.com/noctuid/general.el) - More convenient key definitions in emacs
 - [crux](https://github.com/bbatsov/crux) - A Collection of Ridiculously Useful eXtensions for Emacs
@@ -88,6 +91,10 @@
 ## Gnuplot 
 
 - [elfeed-analysis](https://github.com/skeeto/elfeed-analysis) - Generate an analysis of your Elfeed database
+
+## Go 
+
+- [harsh](https://github.com/wakatara/harsh) - Habit tracking for geeks. A minimalist, command line tool for tracking and understanding your habits.
 
 ## HTML 
 
@@ -194,6 +201,10 @@
 - [ra-manual](https://github.com/gentzkow/ra-manual) - 
 - [JuliaByExample](https://github.com/johnerichumphries/JuliaByExample) - Collection of Julia (Julia Lang) Examples
 
+## Perl 
+
+- [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
+
 ## PowerShell 
 
 - [tilburg-science-hub](https://github.com/tilburgsciencehub/tilburg-science-hub) - Tilburg Science Hub is an open-source resource repository that supports students and researchers in the social sciences to efficiently manage data- and computation-intensive projects.
@@ -243,6 +254,7 @@
 
 ## Shell 
 
+- [teiler](https://github.com/carnager/teiler) - Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg
 - [us-atlas](https://github.com/topojson/us-atlas) - Pre-built TopoJSON from the U.S. Census Bureau.
 - [scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Scripts to Rule Them All
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
