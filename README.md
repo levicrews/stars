@@ -58,6 +58,7 @@
 
 ## Emacs Lisp 
 
+- [rigpa](https://github.com/countvajhula/rigpa) - Modular editing levels and towers
 - [ivy-feedwrangler](https://github.com/asimpson/ivy-feedwrangler) - 🌿 📡 An ivy interface to https://feedwrangler.net
 - [avy](https://github.com/abo-abo/avy) - Jump to things in Emacs tree-style
 - [general.el](https://github.com/noctuid/general.el) - More convenient key definitions in emacs
@@ -69,7 +70,6 @@
 - [origami.el](https://github.com/gregsexton/origami.el) - A folding minor mode for Emacs
 - [magit-todos](https://github.com/alphapapa/magit-todos) - Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 - [bufler.el](https://github.com/alphapapa/bufler.el) - A butler for your buffers.  Group buffers into workspaces with programmable rules, and easily switch to and manipulate them.
-- [org-ql](https://github.com/alphapapa/org-ql) - An Org-mode query language, including search commands and saved views
 - [hyperbole](https://github.com/rswgnu/hyperbole) - GNU Hyperbole: The Everyday, Hypertextual Information Manager
 - [objed](https://github.com/clemera/objed) - Navigate and edit text objects with Emacs. Development on pause.
 - [unpackaged.el](https://github.com/alphapapa/unpackaged.el) - A collection of useful Emacs Lisp code that isn't substantial enough to be packaged
