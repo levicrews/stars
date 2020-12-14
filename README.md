@@ -58,6 +58,8 @@
 
 ## Emacs Lisp 
 
+- [nord-emacs](https://github.com/arcticicestudio/nord-emacs) - An arctic, north-bluish clean and elegant Emacs theme.
+- [eev](https://github.com/edrx/eev) - a tool for automating almost everything (with Emacs)
 - [rigpa](https://github.com/countvajhula/rigpa) - Modular editing levels and towers
 - [ivy-feedwrangler](https://github.com/asimpson/ivy-feedwrangler) - 🌿 📡 An ivy interface to https://feedwrangler.net
 - [avy](https://github.com/abo-abo/avy) - Jump to things in Emacs tree-style
@@ -118,6 +120,7 @@
 
 ## JavaScript 
 
+- [nord-visual-studio-code](https://github.com/arcticicestudio/nord-visual-studio-code) - An arctic, north-bluish clean and elegant Visual Studio Code theme.
 - [topojson](https://github.com/topojson/topojson) - An extension of GeoJSON that encodes topology! 🌐
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
@@ -126,7 +129,6 @@
 - [starter](https://github.com/the-pudding/starter) - A starter template for projects.
 - [fall-2020](https://github.com/OU-PhD-Econometrics/fall-2020) - 
 - [elvis](https://github.com/LeonvanKouwen/elvis) - Combining holoviz panel and golden-layout in pure python.
-- [organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
 - [MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
 
 ## Julia 
@@ -254,6 +256,7 @@
 
 ## Shell 
 
+- [nord-gnome-terminal](https://github.com/arcticicestudio/nord-gnome-terminal) - An arctic, north-bluish clean and elegant GNOME Terminal color theme.
 - [teiler](https://github.com/carnager/teiler) - Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg
 - [us-atlas](https://github.com/topojson/us-atlas) - Pre-built TopoJSON from the U.S. Census Bureau.
 - [scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Scripts to Rule Them All
