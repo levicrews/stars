@@ -22,7 +22,6 @@
   - [Mathematica](#mathematica)
   - [Matlab](#matlab)
   - [Others](#others)
-  - [Perl](#perl)
   - [PowerShell](#powershell)
   - [Python](#python)
   - [R](#r)
@@ -104,7 +103,7 @@
 - [EC525S19](https://github.com/edrubin/EC525S19) - 
 - [mrsp](https://github.com/merely-useful/mrsp) - Managing Research Software Projects
 - [data](https://github.com/the-pudding/data) - Data sets created for stories on The Pudding, open to the public.
-- [class-repo](https://github.com/AEM7130/class-repo) - Spring 2020 AEM 7130: Dynamic Optimization/Computational Methods
+- [class-repo](https://github.com/AEM7130/class-repo) - AEM 7130: Dynamic Optimization/Computational Methods
 - [lectures](https://github.com/uo-ec510-2020-spring/lectures) - Lecture material for Big Data in Economics (EC 410/510)
 - [sparkline-nb](https://github.com/iiSeymour/sparkline-nb) - Render sparkline style charts in pandas dataframes
 - [testbook](https://github.com/maelle/testbook) - :warning: CONCEPT! :warning: beautiful book as html and PDF using Hugo and paged.js
@@ -120,7 +119,6 @@
 
 ## JavaScript 
 
-- [nord-visual-studio-code](https://github.com/arcticicestudio/nord-visual-studio-code) - An arctic, north-bluish clean and elegant Visual Studio Code theme.
 - [topojson](https://github.com/topojson/topojson) - An extension of GeoJSON that encodes topology! 🌐
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
@@ -159,7 +157,6 @@
 - [ElementsOfDataScience](https://github.com/AllenDowney/ElementsOfDataScience) - An introduction to data science in Python, for people with no programming experience.
 - [githubtutorial](https://github.com/nyupredocs/githubtutorial) - Tutorial on how to use Git and GitHub an a scalable collaborative workflow and as a medium for open source, transparent, and replicable research by Richard Evans.
 - [lectures-on-trade-and-distributional-effects](https://github.com/mwaugh0328/lectures-on-trade-and-distributional-effects) - lectures on trade and distributional effects given at CEMFI
-- [ox-ipynb](https://github.com/jkitchin/ox-ipynb) - org-mode exporter to Jupyter notebooks
 - [dealing_with_data](https://github.com/johnjosephhorton/dealing_with_data) - Material that I use for a variety of classes and tutorials
 - [KnowledgeDiffusionSimulations.jl](https://github.com/jlperla/KnowledgeDiffusionSimulations.jl) - Simulations for Models of Knowledge Diffusion/Idea Flows with exogenous innovation/adoption and finite numbers of agents
 - [ipynb-website](https://github.com/stephenslab/ipynb-website) - Simple data science website using Jupyter notebooks.
@@ -203,16 +200,13 @@
 - [ra-manual](https://github.com/gentzkow/ra-manual) - 
 - [JuliaByExample](https://github.com/johnerichumphries/JuliaByExample) - Collection of Julia (Julia Lang) Examples
 
-## Perl 
-
-- [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
-
 ## PowerShell 
 
 - [tilburg-science-hub](https://github.com/tilburgsciencehub/tilburg-science-hub) - Tilburg Science Hub is an open-source resource repository that supports students and researchers in the social sciences to efficiently manage data- and computation-intensive projects.
 
 ## Python 
 
+- [python-bibtexparser](https://github.com/sciunto-org/python-bibtexparser) - Bibtex parser for Python 3.3+
 - [GME](https://github.com/USITC-Gravity-Group/GME) - Gravity Modeling Environment by USITC
 - [mechanize](https://github.com/python-mechanize/mechanize) - The official source code for the python-mechanize project
 - [pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
@@ -256,7 +250,6 @@
 
 ## Shell 
 
-- [nord-gnome-terminal](https://github.com/arcticicestudio/nord-gnome-terminal) - An arctic, north-bluish clean and elegant GNOME Terminal color theme.
 - [teiler](https://github.com/carnager/teiler) - Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg
 - [us-atlas](https://github.com/topojson/us-atlas) - Pre-built TopoJSON from the U.S. Census Bureau.
 - [scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Scripts to Rule Them All
