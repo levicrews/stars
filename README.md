@@ -57,6 +57,7 @@
 
 ## Emacs Lisp 
 
+- [elmacro](https://github.com/Silex/elmacro) - Package to display keyboard macros or latest interactive commands as emacs lisp.
 - [nord-emacs](https://github.com/arcticicestudio/nord-emacs) - An arctic, north-bluish clean and elegant Emacs theme.
 - [eev](https://github.com/edrx/eev) - a tool for automating almost everything (with Emacs)
 - [rigpa](https://github.com/countvajhula/rigpa) - Modular editing levels and towers
@@ -181,6 +182,8 @@
 
 ## Others 
 
+- [plain-text-bibles](https://github.com/bc-abe/plain-text-bibles) - Plain text bibles of KJV and WEB versions for .md and .org
+- [ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) - List of Data Science Cheatsheets to rule the world
 - [vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
 - [SDC-to-Compustat-Mapping](https://github.com/michaelewens/SDC-to-Compustat-Mapping) - A mapping between SDCs M&A database and the gvkey's in Compustat
 - [cookiecutter-reproducible-science](https://github.com/mkrapp/cookiecutter-reproducible-science) - boilerplate for reproducible and transparent science
