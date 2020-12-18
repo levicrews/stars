@@ -209,6 +209,7 @@
 
 ## Python 
 
+- [poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [python-bibtexparser](https://github.com/sciunto-org/python-bibtexparser) - Bibtex parser for Python 3.3+
 - [GME](https://github.com/USITC-Gravity-Group/GME) - Gravity Modeling Environment by USITC
 - [mechanize](https://github.com/python-mechanize/mechanize) - The official source code for the python-mechanize project
