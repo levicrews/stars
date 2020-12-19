@@ -57,6 +57,7 @@
 
 ## Emacs Lisp 
 
+- [org-super-links](https://github.com/toshism/org-super-links) - Package to create links with auto backlinks
 - [elmacro](https://github.com/Silex/elmacro) - Package to display keyboard macros or latest interactive commands as emacs lisp.
 - [nord-emacs](https://github.com/arcticicestudio/nord-emacs) - An arctic, north-bluish clean and elegant Emacs theme.
 - [eev](https://github.com/edrx/eev) - a tool for automating almost everything (with Emacs)
@@ -120,6 +121,7 @@
 
 ## JavaScript 
 
+- [how2](https://github.com/gillescastel/how2) - stackoverflow from the terminal
 - [topojson](https://github.com/topojson/topojson) - An extension of GeoJSON that encodes topology! 🌐
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
@@ -209,6 +211,9 @@
 
 ## Python 
 
+- [university-setup](https://github.com/gillescastel/university-setup) - My note taking setup scripts.
+- [inkscape-shortcut-manager](https://github.com/gillescastel/inkscape-shortcut-manager) - Inkscape shorcut manager
+- [inkscape-figures](https://github.com/gillescastel/inkscape-figures) - Inkscape figure manager
 - [poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [python-bibtexparser](https://github.com/sciunto-org/python-bibtexparser) - Bibtex parser for Python 3.3+
 - [GME](https://github.com/USITC-Gravity-Group/GME) - Gravity Modeling Environment by USITC
