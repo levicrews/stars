@@ -86,7 +86,6 @@
 - [keycast](https://github.com/tarsius/keycast) - Show current command and its key in the mode line
 - [emacs-for-writers](https://github.com/frankjonen/emacs-for-writers) - Emacs configuration for writers. Focus on story development and structured writing.
 - [pandoc-mode](https://github.com/joostkremers/pandoc-mode) - An Emacs minor mode for interacting with Pandoc.
-- [org-thesis](https://github.com/dangom/org-thesis) - Writing a Ph.D. thesis with Org Mode
 - [org-generate.el](https://github.com/conao3/org-generate.el) - Generate template files/folders from one org document
 - [doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs framework for the stubborn martian hacker
 - [elpy](https://github.com/jorgenschaefer/elpy) - Emacs Python Development Environment
@@ -211,6 +210,7 @@
 
 ## Python 
 
+- [pydsge](https://github.com/gboehl/pydsge) - A package to simulate, filter, and estimate DSGE models with occasionally binding constraints
 - [university-setup](https://github.com/gillescastel/university-setup) - My note taking setup scripts.
 - [inkscape-shortcut-manager](https://github.com/gillescastel/inkscape-shortcut-manager) - Inkscape shorcut manager
 - [inkscape-figures](https://github.com/gillescastel/inkscape-figures) - Inkscape figure manager
