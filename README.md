@@ -9,6 +9,7 @@
   - [C](#c)
   - [C++](#c++)
   - [CSS](#css)
+  - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
   - [Emacs Lisp](#emacs-lisp)
   - [Gnuplot](#gnuplot)
@@ -45,11 +46,16 @@
 
 ## CSS 
 
+- [cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [bigfoot](https://github.com/lemonmade/bigfoot) - A jQuery plugin for creating exceptional footnotes.
 - [digital-nesting](https://github.com/devonzuegel/digital-nesting) - Devon's collection of custom CSS
 - [org-html-themes](https://github.com/fniessen/org-html-themes) - How to export Org mode files into awesome HTML in 2 minutes
 - [econr-notes](https://github.com/tlamadon/econr-notes) - Notes on solving and estimating economic model with heterogeneous agents using R and C++
 - [datausa-tutorials](https://github.com/DataUSA/datausa-tutorials) - Holds tutorials for how to build things with the Data USA API and embedded visualizations.
+
+## Clojure 
+
+- [clj-org-analyzer](https://github.com/rksm/clj-org-analyzer) - Fun with org data
 
 ## CoffeeScript 
 
