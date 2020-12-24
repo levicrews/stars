@@ -46,7 +46,6 @@
 
 ## CSS 
 
-- [cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [bigfoot](https://github.com/lemonmade/bigfoot) - A jQuery plugin for creating exceptional footnotes.
 - [digital-nesting](https://github.com/devonzuegel/digital-nesting) - Devon's collection of custom CSS
 - [org-html-themes](https://github.com/fniessen/org-html-themes) - How to export Org mode files into awesome HTML in 2 minutes
@@ -183,12 +182,14 @@
 
 ## Matlab 
 
+- [hadsge](https://github.com/jeromematthewcelestine/hadsge) - Code for Bayesian estimation of a heterogeneous agent DSGE model (MATLAB) using the Reiter (2009) solution method.
 - [continuous_time_methods](https://github.com/jlperla/continuous_time_methods) - 
 - [BKM_MIT](https://github.com/kurtmitman/BKM_MIT) - Code to Implement the Algorithm in "Exploiting MIT Shocks in Heterogeneous-Agent Economies: The Impulse Response as a Numerical Derivative" by Timo Boppart, Per Krusell and Kurt Mitman
 - [dynare](https://github.com/DynareTeam/dynare) - This project has moved to https://git.dynare.org/Dynare/dynare
 
 ## Others 
 
+- [what-is](https://github.com/higham/what-is) - Important concepts in numerical analysis and related areas
 - [plain-text-bibles](https://github.com/bc-abe/plain-text-bibles) - Plain text bibles of KJV and WEB versions for .md and .org
 - [ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) - List of Data Science Cheatsheets to rule the world
 - [vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
