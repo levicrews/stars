@@ -279,6 +279,7 @@
 
 ## TeX 
 
+- [the-turing-way](https://github.com/alan-turing-institute/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
 - [pandoc-templates](https://github.com/kjhealy/pandoc-templates) - Some templates for Pandoc.
 - [rudin](https://github.com/pjhuxford/rudin) - Solutions to Exercises in Walter Rudin's Principles of Mathematical Analysis
 - [paper_template](https://github.com/rdahis/paper_template) - Template structure for empirical papers.
