@@ -11,6 +11,7 @@
   - [CSS](#css)
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
+  - [Common Lisp](#common-lisp)
   - [Emacs Lisp](#emacs-lisp)
   - [Gnuplot](#gnuplot)
   - [Go](#go)
@@ -60,8 +61,13 @@
 
 - [metime](https://github.com/jdleesmiller/metime) - Time tracker used in my 'How a Technical Co-founder Spends his Time' blog post.
 
+## Common Lisp 
+
+- [nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the internet on your terms.
+
 ## Emacs Lisp 
 
+- [dumb-jump](https://github.com/jacktasia/dumb-jump) - an Emacs "jump to definition" package for 40+ languages
 - [org-super-links](https://github.com/toshism/org-super-links) - Package to create links with auto backlinks
 - [elmacro](https://github.com/Silex/elmacro) - Package to display keyboard macros or latest interactive commands as emacs lisp.
 - [nord-emacs](https://github.com/arcticicestudio/nord-emacs) - An arctic, north-bluish clean and elegant Emacs theme.
@@ -125,6 +131,8 @@
 
 ## JavaScript 
 
+- [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer) - HTML5 based online tool to extract numerical data from plot images.
+- [wikum](https://github.com/amyxzhang/wikum) - tool for collectively summarizing large discussions
 - [how2](https://github.com/gillescastel/how2) - stackoverflow from the terminal
 - [topojson](https://github.com/topojson/topojson) - An extension of GeoJSON that encodes topology! 🌐
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
@@ -138,6 +146,7 @@
 
 ## Julia 
 
+- [Gadfly.jl](https://github.com/GiovineItalia/Gadfly.jl) - Crafty statistical graphics for Julia.
 - [CurrentPopulationSurvey.jl](https://github.com/mthelm85/CurrentPopulationSurvey.jl) - A simple package for easily downloading/parsing CPS microdata files.
 - [PSID.jl](https://github.com/aaowens/PSID.jl) - Quickly assemble data from the Panel Study of Income Dynamics (PSID)
 - [WorldBankData.jl](https://github.com/4gh/WorldBankData.jl) - Access to World Bank data for Julia
@@ -217,6 +226,8 @@
 
 ## Python 
 
+- [patents](https://github.com/iamlemec/patents) - Parse and cluster USPTO patent data. Includes applications, grants, assignments, and maintenance.
+- [litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
 - [pydsge](https://github.com/gboehl/pydsge) - A package to simulate, filter, and estimate DSGE models with occasionally binding constraints
 - [university-setup](https://github.com/gillescastel/university-setup) - My note taking setup scripts.
 - [inkscape-shortcut-manager](https://github.com/gillescastel/inkscape-shortcut-manager) - Inkscape shorcut manager
