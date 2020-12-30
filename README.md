@@ -67,6 +67,9 @@
 
 ## Emacs Lisp 
 
+- [roam-block](https://github.com/Kinneyzhang/roam-block) - An all-purpose block ref and block embed implement in emacs.
+- [org-clock-budget](https://github.com/Fuco1/org-clock-budget) - Budget your time with org!
+- [cheatsheet](https://github.com/darksmile/cheatsheet) - 
 - [dumb-jump](https://github.com/jacktasia/dumb-jump) - an Emacs "jump to definition" package for 40+ languages
 - [org-super-links](https://github.com/toshism/org-super-links) - Package to create links with auto backlinks
 - [elmacro](https://github.com/Silex/elmacro) - Package to display keyboard macros or latest interactive commands as emacs lisp.
