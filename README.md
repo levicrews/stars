@@ -9,14 +9,10 @@
   - [C](#c)
   - [C++](#c++)
   - [CSS](#css)
-  - [Clojure](#clojure)
-  - [CoffeeScript](#coffeescript)
   - [Common Lisp](#common-lisp)
   - [Emacs Lisp](#emacs-lisp)
-  - [Gnuplot](#gnuplot)
   - [Go](#go)
   - [HTML](#html)
-  - [Haskell](#haskell)
   - [JavaScript](#javascript)
   - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
@@ -53,22 +49,17 @@
 - [econr-notes](https://github.com/tlamadon/econr-notes) - Notes on solving and estimating economic model with heterogeneous agents using R and C++
 - [datausa-tutorials](https://github.com/DataUSA/datausa-tutorials) - Holds tutorials for how to build things with the Data USA API and embedded visualizations.
 
-## Clojure 
-
-- [clj-org-analyzer](https://github.com/rksm/clj-org-analyzer) - Fun with org data
-
-## CoffeeScript 
-
-- [metime](https://github.com/jdleesmiller/metime) - Time tracker used in my 'How a Technical Co-founder Spends his Time' blog post.
-
 ## Common Lisp 
 
 - [nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the internet on your terms.
 
 ## Emacs Lisp 
 
-- [roam-block](https://github.com/Kinneyzhang/roam-block) - An all-purpose block ref and block embed implement in emacs.
-- [org-clock-budget](https://github.com/Fuco1/org-clock-budget) - Budget your time with org!
+- [doct](https://github.com/progfolio/doct) - DOCT: Declarative Org Capture Templates for Emacs
+- [smog](https://github.com/zzkt/smog) - Analyse the writing style, word use and readability of prose in Emacs.
+- [mathpix.el](https://github.com/jethrokuan/mathpix.el) - Mathpix Emacs Plugin
+- [anaconda-mode](https://github.com/pythonic-emacs/anaconda-mode) - Code navigation, documentation lookup and completion for Python.
+- [emacs-scrum](https://github.com/ianxm/emacs-scrum) - dynamic scrum report generation for org-mode buffers
 - [cheatsheet](https://github.com/darksmile/cheatsheet) - 
 - [dumb-jump](https://github.com/jacktasia/dumb-jump) - an Emacs "jump to definition" package for 40+ languages
 - [org-super-links](https://github.com/toshism/org-super-links) - Package to create links with auto backlinks
@@ -76,14 +67,10 @@
 - [nord-emacs](https://github.com/arcticicestudio/nord-emacs) - An arctic, north-bluish clean and elegant Emacs theme.
 - [eev](https://github.com/edrx/eev) - a tool for automating almost everything (with Emacs)
 - [rigpa](https://github.com/countvajhula/rigpa) - Modular editing levels and towers
-- [ivy-feedwrangler](https://github.com/asimpson/ivy-feedwrangler) - 🌿 📡 An ivy interface to https://feedwrangler.net
 - [avy](https://github.com/abo-abo/avy) - Jump to things in Emacs tree-style
 - [general.el](https://github.com/noctuid/general.el) - More convenient key definitions in emacs
 - [crux](https://github.com/bbatsov/crux) - A Collection of Ridiculously Useful eXtensions for Emacs
-- [org-timeline](https://github.com/Fuco1/org-timeline) - Add graphical view of agenda to agenda buffer
 - [color-theme-sanityinc-tomorrow](https://github.com/purcell/color-theme-sanityinc-tomorrow) - A set of comprehensive Emacs color themes based on Chris Kempson's 'tomorrow' themes
-- [elfeed-dashboard](https://github.com/Manoj321/elfeed-dashboard) - A frontend for elfeed
-- [elfeed-score](https://github.com/sp1ff/elfeed-score) - Gnus-style scoring for elfeed
 - [origami.el](https://github.com/gregsexton/origami.el) - A folding minor mode for Emacs
 - [magit-todos](https://github.com/alphapapa/magit-todos) - Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 - [bufler.el](https://github.com/alphapapa/bufler.el) - A butler for your buffers.  Group buffers into workspaces with programmable rules, and easily switch to and manipulate them.
@@ -96,17 +83,12 @@
 - [Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
 - [tufte-org-mode](https://github.com/tsdye/tufte-org-mode) - An Org mode environment for producing Tufte-LaTeX books and handouts
 - [hydra](https://github.com/abo-abo/hydra) - make Emacs bindings that stick around
-- [elfeed-org](https://github.com/remyhonig/elfeed-org) - Configure the Elfeed RSS reader with an Orgmode file
 - [keycast](https://github.com/tarsius/keycast) - Show current command and its key in the mode line
 - [emacs-for-writers](https://github.com/frankjonen/emacs-for-writers) - Emacs configuration for writers. Focus on story development and structured writing.
 - [pandoc-mode](https://github.com/joostkremers/pandoc-mode) - An Emacs minor mode for interacting with Pandoc.
 - [org-generate.el](https://github.com/conao3/org-generate.el) - Generate template files/folders from one org document
 - [doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs framework for the stubborn martian hacker
 - [elpy](https://github.com/jorgenschaefer/elpy) - Emacs Python Development Environment
-
-## Gnuplot 
-
-- [elfeed-analysis](https://github.com/skeeto/elfeed-analysis) - Generate an analysis of your Elfeed database
 
 ## Go 
 
@@ -128,10 +110,6 @@
 - [ipypublish](https://github.com/chrisjsewell/ipypublish) - A workflow for creating and editing publication ready scientific reports and presentations, from one or more Jupyter Notebooks, without leaving the browser!
 - [gslab_make](https://github.com/gslab-econ/gslab_make) - Python tools for GSLab
 
-## Haskell 
-
-- [hours](https://github.com/jwiegley/hours) - Utility for showing hours worked within a work month against a target
-
 ## JavaScript 
 
 - [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer) - HTML5 based online tool to extract numerical data from plot images.
@@ -149,7 +127,6 @@
 
 ## Julia 
 
-- [Gadfly.jl](https://github.com/GiovineItalia/Gadfly.jl) - Crafty statistical graphics for Julia.
 - [CurrentPopulationSurvey.jl](https://github.com/mthelm85/CurrentPopulationSurvey.jl) - A simple package for easily downloading/parsing CPS microdata files.
 - [PSID.jl](https://github.com/aaowens/PSID.jl) - Quickly assemble data from the Panel Study of Income Dynamics (PSID)
 - [WorldBankData.jl](https://github.com/4gh/WorldBankData.jl) - Access to World Bank data for Julia
@@ -157,6 +134,7 @@
 
 ## Jupyter Notebook 
 
+- [data_science](https://github.com/iamlemec/data_science) - Getting started working with data, with applications to economics
 - [tradewar-tracker-aws-product-level](https://github.com/mwaugh0328/tradewar-tracker-aws-product-level) - Tradewar Tracker AWS product level code/plots
 - [spopt](https://github.com/pysal/spopt) - Spatial Optimization
 - [CompEcon](https://github.com/fediskhakov/CompEcon) - My "Foundations of Computational Economics" course
@@ -202,7 +180,6 @@
 ## Others 
 
 - [what-is](https://github.com/higham/what-is) - Important concepts in numerical analysis and related areas
-- [plain-text-bibles](https://github.com/bc-abe/plain-text-bibles) - Plain text bibles of KJV and WEB versions for .md and .org
 - [ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) - List of Data Science Cheatsheets to rule the world
 - [vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
 - [SDC-to-Compustat-Mapping](https://github.com/michaelewens/SDC-to-Compustat-Mapping) - A mapping between SDCs M&A database and the gvkey's in Compustat
@@ -229,6 +206,9 @@
 
 ## Python 
 
+- [pythontex](https://github.com/gpoore/pythontex) - A LaTeX package that executes Python and other code in LaTeX documents, and includes the output
+- [dolo.py](https://github.com/EconForge/dolo.py) - Economic modelling in python
+- [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
 - [patents](https://github.com/iamlemec/patents) - Parse and cluster USPTO patent data. Includes applications, grants, assignments, and maintenance.
 - [litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
 - [pydsge](https://github.com/gboehl/pydsge) - A package to simulate, filter, and estimate DSGE models with occasionally binding constraints
@@ -293,6 +273,7 @@
 
 ## TeX 
 
+- [tufte_algorithms_book](https://github.com/sisl/tufte_algorithms_book) - A template for textbooks in the same style as Algorithms for Optimization
 - [the-turing-way](https://github.com/alan-turing-institute/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
 - [pandoc-templates](https://github.com/kjhealy/pandoc-templates) - Some templates for Pandoc.
 - [rudin](https://github.com/pjhuxford/rudin) - Solutions to Exercises in Walter Rudin's Principles of Mathematical Analysis
