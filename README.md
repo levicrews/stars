@@ -55,6 +55,8 @@
 
 ## Emacs Lisp 
 
+- [writeroom-mode](https://github.com/joostkremers/writeroom-mode) - Writeroom-mode: distraction-free writing for Emacs.
+- [visual-fill-column](https://github.com/joostkremers/visual-fill-column) - Emacs mode for wrapping visual-line-mode buffers at fill-column.
 - [doct](https://github.com/progfolio/doct) - DOCT: Declarative Org Capture Templates for Emacs
 - [smog](https://github.com/zzkt/smog) - Analyse the writing style, word use and readability of prose in Emacs.
 - [mathpix.el](https://github.com/jethrokuan/mathpix.el) - Mathpix Emacs Plugin
