@@ -27,6 +27,7 @@
   - [Shell](#shell)
   - [Stata](#stata)
   - [TeX](#tex)
+  - [TypeScript](#typescript)
 
 ## AMPL 
 
@@ -98,6 +99,7 @@
 
 ## HTML 
 
+- [Guide2EconRA](https://github.com/Alalalalaki/Guide2EconRA) - 
 - [tufte-css](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts.
 - [EC525S19](https://github.com/edrubin/EC525S19) - 
 - [mrsp](https://github.com/merely-useful/mrsp) - Managing Research Software Projects
@@ -114,6 +116,7 @@
 
 ## JavaScript 
 
+- [TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
 - [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer) - HTML5 based online tool to extract numerical data from plot images.
 - [wikum](https://github.com/amyxzhang/wikum) - tool for collectively summarizing large discussions
 - [how2](https://github.com/gillescastel/how2) - stackoverflow from the terminal
@@ -190,7 +193,6 @@
 - [50-projects-for-react-and-the-static-web](https://github.com/colbyfayock/50-projects-for-react-and-the-static-web) - ⚛ 50 project ideas to learn by doing complete with project briefs, layout ideas, and resources!
 - [FYI](https://github.com/the-pudding/FYI) - Documentation on processes, tips and tricks.
 - [notes-to-cs-freshmen-from-the-future](https://github.com/nushackers/notes-to-cs-freshmen-from-the-future) - Notes to (NUS) Computer Science Freshmen, From The Future (Original by @ejamesc)
-- [digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [EconomicTracker](https://github.com/OpportunityInsights/EconomicTracker) - Download data from the Opportunity Insights Economic Tracker — https://tracktherecovery.org/
 - [maps_Spain](https://github.com/aaumaitre/maps_Spain) - plotting tutorial for maps of Spain with ggplot2
 - [github-classroom-for-teachers](https://github.com/jfiksel/github-classroom-for-teachers) - 
@@ -208,6 +210,7 @@
 
 ## Python 
 
+- [Requests-NBER](https://github.com/erinhengel/Requests-NBER) - Custom Requests class to log onto NBER.org.
 - [pythontex](https://github.com/gpoore/pythontex) - A LaTeX package that executes Python and other code in LaTeX documents, and includes the output
 - [dolo.py](https://github.com/EconForge/dolo.py) - Economic modelling in python
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
@@ -288,6 +291,10 @@
 - [mandown](https://github.com/knaaptime/mandown) - Scholarly Manuscripts in Markdown
 - [micro-metrics](https://github.com/chrisconlon/micro-metrics) - This is a 2nd Year PhD Course In Micro-econometrics
 - [econ35101](https://github.com/jdingel/econ35101) - Public repository for UChicago's Econ 35101 "International Macroeconomics and Trade" PhD class
+
+## TypeScript 
+
+- [vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
 
 
 ## License
