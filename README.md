@@ -13,6 +13,7 @@
   - [Emacs Lisp](#emacs-lisp)
   - [Go](#go)
   - [HTML](#html)
+  - [Java](#java)
   - [JavaScript](#javascript)
   - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
@@ -56,6 +57,7 @@
 
 ## Emacs Lisp 
 
+- [orca](https://github.com/abo-abo/orca) - ORg CApture
 - [writeroom-mode](https://github.com/joostkremers/writeroom-mode) - Writeroom-mode: distraction-free writing for Emacs.
 - [visual-fill-column](https://github.com/joostkremers/visual-fill-column) - Emacs mode for wrapping visual-line-mode buffers at fill-column.
 - [doct](https://github.com/progfolio/doct) - DOCT: Declarative Org Capture Templates for Emacs
@@ -114,8 +116,13 @@
 - [ipypublish](https://github.com/chrisjsewell/ipypublish) - A workflow for creating and editing publication ready scientific reports and presentations, from one or more Jupyter Notebooks, without leaving the browser!
 - [gslab_make](https://github.com/gslab-econ/gslab_make) - Python tools for GSLab
 
+## Java 
+
+- [Jabref-plugins](https://github.com/korv/Jabref-plugins) - 
+
 ## JavaScript 
 
+- [JabRef-Browser-Extension](https://github.com/JabRef/JabRef-Browser-Extension) - Browser extension for JabRef to allow importing of new items directly from the browser.
 - [TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
 - [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer) - HTML5 based online tool to extract numerical data from plot images.
 - [wikum](https://github.com/amyxzhang/wikum) - tool for collectively summarizing large discussions
@@ -294,6 +301,7 @@
 
 ## TypeScript 
 
+- [zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex) - Make Zotero effective for us LaTeX holdouts
 - [vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
 
 
