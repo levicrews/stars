@@ -57,6 +57,9 @@
 
 ## Emacs Lisp 
 
+- [engine-mode](https://github.com/hrs/engine-mode) - Minor mode for defining and querying search engines through Emacs.
+- [math-delimiters](https://github.com/oantolin/math-delimiters) - Insert math delimiters in TeX, LaTeX and Org buffers
+- [yequake](https://github.com/alphapapa/yequake) - Drop-down Emacs frames, like Yakuake
 - [orca](https://github.com/abo-abo/orca) - ORg CApture
 - [writeroom-mode](https://github.com/joostkremers/writeroom-mode) - Writeroom-mode: distraction-free writing for Emacs.
 - [visual-fill-column](https://github.com/joostkremers/visual-fill-column) - Emacs mode for wrapping visual-line-mode buffers at fill-column.
@@ -122,6 +125,7 @@
 
 ## JavaScript 
 
+- [grasp](https://github.com/karlicoss/grasp) - A reliable org-capture browser extension for Chrome/Firefox
 - [JabRef-Browser-Extension](https://github.com/JabRef/JabRef-Browser-Extension) - Browser extension for JabRef to allow importing of new items directly from the browser.
 - [TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
 - [WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer) - HTML5 based online tool to extract numerical data from plot images.
@@ -154,7 +158,6 @@
 - [PerlaTonettiWaugh.jl](https://github.com/jlperla/PerlaTonettiWaugh.jl) - Code and algorithms for "Equilibrium Technology Diffusion, Trade, and Growth"
 - [comp-econ-sp19](https://github.com/jmbejara/comp-econ-sp19) - Main Course Repository for Computational Methods in Economics (Econ 21410, Spring 2019)
 - [DScourseS19](https://github.com/tyleransom/DScourseS19) - ECON 5253: Data Science for Economists, University of Oklahoma (Spring 2019)
-- [mec_optim_2020-01](https://github.com/math-econ-code/mec_optim_2020-01) - 'math+econ+code' masterclass on optimal transport and economic applications
 - [python-causality-handbook](https://github.com/matheusfacure/python-causality-handbook) - Causal Inference for the Brave and True. A light-hearted yet rigorous approach to learning about impact estimation and sensitivity analysis.
 - [ConsumptionSavingNotebooks](https://github.com/NumEconCopenhagen/ConsumptionSavingNotebooks) - Jupyter Notebook examples of the ConSav package
 - [Minimally-Sufficient-Pandas](https://github.com/tdpetrou/Minimally-Sufficient-Pandas) - There are always multiple ways to complete a task in Pandas. A minimal subset of the library is sufficient for almost everything.
