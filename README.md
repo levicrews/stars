@@ -220,6 +220,7 @@
 
 ## Python 
 
+- [alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real time throughput, eta and very cool animations!
 - [Requests-NBER](https://github.com/erinhengel/Requests-NBER) - Custom Requests class to log onto NBER.org.
 - [pythontex](https://github.com/gpoore/pythontex) - A LaTeX package that executes Python and other code in LaTeX documents, and includes the output
 - [dolo.py](https://github.com/EconForge/dolo.py) - Economic modelling in python
