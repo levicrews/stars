@@ -57,6 +57,8 @@
 
 ## Emacs Lisp 
 
+- [org-clock-convenience](https://github.com/dfeich/org-clock-convenience) - Convenience functions to work with emacs org mode clocking
+- [helm-swoop](https://github.com/emacsorphanage/helm-swoop) - Efficiently hopping squeezed lines powered by Emacs helm interface
 - [engine-mode](https://github.com/hrs/engine-mode) - Minor mode for defining and querying search engines through Emacs.
 - [math-delimiters](https://github.com/oantolin/math-delimiters) - Insert math delimiters in TeX, LaTeX and Org buffers
 - [yequake](https://github.com/alphapapa/yequake) - Drop-down Emacs frames, like Yakuake
@@ -90,7 +92,6 @@
 - [binder](https://github.com/rnkn/binder) - Emacs global minor mode facilitating multi-file writing projects
 - [Emacs-wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Writable grep buffer and apply the changes to files
 - [tufte-org-mode](https://github.com/tsdye/tufte-org-mode) - An Org mode environment for producing Tufte-LaTeX books and handouts
-- [hydra](https://github.com/abo-abo/hydra) - make Emacs bindings that stick around
 - [keycast](https://github.com/tarsius/keycast) - Show current command and its key in the mode line
 - [emacs-for-writers](https://github.com/frankjonen/emacs-for-writers) - Emacs configuration for writers. Focus on story development and structured writing.
 - [pandoc-mode](https://github.com/joostkremers/pandoc-mode) - An Emacs minor mode for interacting with Pandoc.
