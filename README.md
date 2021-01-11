@@ -57,6 +57,8 @@
 
 ## Emacs Lisp 
 
+- [org-mru-clock](https://github.com/unhammer/org-mru-clock) - ⏲️ Effortlessly clock in/out of org-mode tasks, with completion and persistent history
+- [parsenv](https://github.com/articuluxe/parsenv) - Parse .env files in lisp!  Or don't, it's up to you.
 - [org-clock-convenience](https://github.com/dfeich/org-clock-convenience) - Convenience functions to work with emacs org mode clocking
 - [helm-swoop](https://github.com/emacsorphanage/helm-swoop) - Efficiently hopping squeezed lines powered by Emacs helm interface
 - [engine-mode](https://github.com/hrs/engine-mode) - Minor mode for defining and querying search engines through Emacs.
