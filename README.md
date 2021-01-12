@@ -57,6 +57,9 @@
 
 ## Emacs Lisp 
 
+- [org-fragtog](https://github.com/io12/org-fragtog) - Automatically toggle Org mode LaTeX fragment previews as the cursor enters and exits them
+- [ess-view-data](https://github.com/ShuguangSun/ess-view-data) - View data support for ESS
+- [notdeft](https://github.com/hasu/notdeft) - NotDeft note manager for Emacs
 - [org-mru-clock](https://github.com/unhammer/org-mru-clock) - ⏲️ Effortlessly clock in/out of org-mode tasks, with completion and persistent history
 - [parsenv](https://github.com/articuluxe/parsenv) - Parse .env files in lisp!  Or don't, it's up to you.
 - [org-clock-convenience](https://github.com/dfeich/org-clock-convenience) - Convenience functions to work with emacs org mode clocking
@@ -107,6 +110,7 @@
 
 ## HTML 
 
+- [org-roam-server-light](https://github.com/AloisJanicek/org-roam-server-light) - compatible org-roam-server written in python for better performance with large network graphs
 - [Guide2EconRA](https://github.com/Alalalalaki/Guide2EconRA) - 
 - [tufte-css](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts.
 - [EC525S19](https://github.com/edrubin/EC525S19) - 
