@@ -57,6 +57,7 @@
 
 ## Emacs Lisp 
 
+- [xenops](https://github.com/dandavison/xenops) - A LaTeX editing environment for mathematical documents in Emacs
 - [org-fragtog](https://github.com/io12/org-fragtog) - Automatically toggle Org mode LaTeX fragment previews as the cursor enters and exits them
 - [ess-view-data](https://github.com/ShuguangSun/ess-view-data) - View data support for ESS
 - [notdeft](https://github.com/hasu/notdeft) - NotDeft note manager for Emacs
@@ -132,6 +133,7 @@
 
 ## JavaScript 
 
+- [gatsby-theme-andy](https://github.com/aravindballa/gatsby-theme-andy) - A Gatsby theme to build Andy style websites. 📑
 - [grasp](https://github.com/karlicoss/grasp) - A reliable org-capture browser extension for Chrome/Firefox
 - [JabRef-Browser-Extension](https://github.com/JabRef/JabRef-Browser-Extension) - Browser extension for JabRef to allow importing of new items directly from the browser.
 - [TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
@@ -283,6 +285,7 @@
 
 ## Shell 
 
+- [org-protocol-github-lines](https://github.com/kidd/org-protocol-github-lines) - Add links in github code views that open files in the given line.
 - [teiler](https://github.com/carnager/teiler) - Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg
 - [us-atlas](https://github.com/topojson/us-atlas) - Pre-built TopoJSON from the U.S. Census Bureau.
 - [scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Scripts to Rule Them All
