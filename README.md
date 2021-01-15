@@ -57,6 +57,8 @@
 
 ## Emacs Lisp 
 
+- [pdf-continuous-scroll-mode.el](https://github.com/dalanicolai/pdf-continuous-scroll-mode.el) - A minor mode for Emacs that implements a two-buffer hack to provide continuous scrolling in pdf-tools
+- [ptemplate](https://github.com/nbfalcon/ptemplate) - Powerful project (directory) templates for Emacs
 - [xenops](https://github.com/dandavison/xenops) - A LaTeX editing environment for mathematical documents in Emacs
 - [org-fragtog](https://github.com/io12/org-fragtog) - Automatically toggle Org mode LaTeX fragment previews as the cursor enters and exits them
 - [ess-view-data](https://github.com/ShuguangSun/ess-view-data) - View data support for ESS
