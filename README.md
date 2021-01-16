@@ -20,6 +20,7 @@
   - [MATLAB](#matlab)
   - [Mathematica](#mathematica)
   - [Matlab](#matlab)
+  - [Objective-C](#objective-c)
   - [Others](#others)
   - [PowerShell](#powershell)
   - [Python](#python)
@@ -57,6 +58,8 @@
 
 ## Emacs Lisp 
 
+- [nano-emacs](https://github.com/rougier/nano-emacs) - GNU Emacs / N Λ N O - Emacs made simple
+- [emacs4cl](https://github.com/susam/emacs4cl) - A 35 line ~/.emacs to quickly set up vanilla Emacs for Common Lisp programming
 - [pdf-continuous-scroll-mode.el](https://github.com/dalanicolai/pdf-continuous-scroll-mode.el) - A minor mode for Emacs that implements a two-buffer hack to provide continuous scrolling in pdf-tools
 - [ptemplate](https://github.com/nbfalcon/ptemplate) - Powerful project (directory) templates for Emacs
 - [xenops](https://github.com/dandavison/xenops) - A LaTeX editing environment for mathematical documents in Emacs
@@ -202,6 +205,10 @@
 - [continuous_time_methods](https://github.com/jlperla/continuous_time_methods) - 
 - [BKM_MIT](https://github.com/kurtmitman/BKM_MIT) - Code to Implement the Algorithm in "Exploiting MIT Shocks in Heterogeneous-Agent Economies: The Impulse Response as a Numerical Derivative" by Timo Boppart, Per Krusell and Kurt Mitman
 - [dynare](https://github.com/DynareTeam/dynare) - This project has moved to https://git.dynare.org/Dynare/dynare
+
+## Objective-C 
+
+- [blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 
 ## Others 
 
