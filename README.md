@@ -58,6 +58,7 @@
 
 ## Emacs Lisp 
 
+- [org-elp](https://github.com/guanyilun/org-elp) - Preview equations live in org-mode
 - [org-appear](https://github.com/awth13/org-appear) - Toggle visibility of hidden Org mode fragment parts upon entering and leaving a fragment
 - [nano-emacs](https://github.com/rougier/nano-emacs) - GNU Emacs / N Λ N O - Emacs made simple
 - [emacs4cl](https://github.com/susam/emacs4cl) - A 35 line ~/.emacs to quickly set up vanilla Emacs for Common Lisp programming
