@@ -20,6 +20,7 @@
   - [MATLAB](#matlab)
   - [Mathematica](#mathematica)
   - [Matlab](#matlab)
+  - [Objective-C](#objective-c)
   - [Others](#others)
   - [PowerShell](#powershell)
   - [Python](#python)
@@ -27,7 +28,6 @@
   - [Rich Text Format](#rich-text-format)
   - [Shell](#shell)
   - [Stata](#stata)
-  - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
 
@@ -208,6 +208,10 @@
 - [BKM_MIT](https://github.com/kurtmitman/BKM_MIT) - Code to Implement the Algorithm in "Exploiting MIT Shocks in Heterogeneous-Agent Economies: The Impulse Response as a Numerical Derivative" by Timo Boppart, Per Krusell and Kurt Mitman
 - [dynare](https://github.com/DynareTeam/dynare) - This project has moved to https://git.dynare.org/Dynare/dynare
 
+## Objective-C 
+
+- [blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
+
 ## Others 
 
 - [what-is](https://github.com/higham/what-is) - Important concepts in numerical analysis and related areas
@@ -305,10 +309,6 @@
 
 - [gslab_stata](https://github.com/gslab-econ/gslab_stata) - 
 - [mostly-harmless-replication](https://github.com/vikjam/mostly-harmless-replication) - Replication of tables and figures from "Mostly Harmless Econometrics" in Stata, R, Python and Julia.
-
-## Swift 
-
-- [blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 
 ## TeX 
 
