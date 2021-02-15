@@ -166,6 +166,7 @@
 
 ## Jupyter Notebook 
 
+- [san](https://github.com/GDSL-UL/san) - Spatial Analysis Notes
 - [data_science](https://github.com/iamlemec/data_science) - Getting started working with data, with applications to economics
 - [tradewar-tracker-aws-product-level](https://github.com/mwaugh0328/tradewar-tracker-aws-product-level) - Tradewar Tracker AWS product level code/plots
 - [spopt](https://github.com/pysal/spopt) - Spatial Optimization
@@ -240,6 +241,8 @@
 
 ## Python 
 
+- [binscatter](https://github.com/esantorella/binscatter) - 
+- [agenda](https://github.com/rougier/agenda) - Org agenda in the console
 - [math-with-slack](https://github.com/thisiscam/math-with-slack) - Rendered math (MathJax) with Slack's desktop client
 - [alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real time throughput, eta and very cool animations!
 - [Requests-NBER](https://github.com/erinhengel/Requests-NBER) - Custom Requests class to log onto NBER.org.
