@@ -58,6 +58,7 @@
 
 ## Emacs Lisp 
 
+- [org-media-note](https://github.com/yuchen-lea/org-media-note) - Taking notes when watching videos or listening to audios in org-mode.
 - [org-elp](https://github.com/guanyilun/org-elp) - Preview equations live in org-mode
 - [org-appear](https://github.com/awth13/org-appear) - Toggle visibility of hidden Org mode fragment parts upon entering and leaving a fragment
 - [nano-emacs](https://github.com/rougier/nano-emacs) - GNU Emacs / N Λ N O - Emacs made simple
