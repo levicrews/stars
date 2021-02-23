@@ -58,6 +58,7 @@
 
 ## Emacs Lisp 
 
+- [nroam](https://github.com/NicolasPetton/nroam) - Org-roam backlinks within org-mode buffers
 - [org-media-note](https://github.com/yuchen-lea/org-media-note) - Taking notes when watching videos or listening to audios in org-mode.
 - [org-elp](https://github.com/guanyilun/org-elp) - Preview equations live in org-mode
 - [org-appear](https://github.com/awth13/org-appear) - Toggle visibility of hidden Org mode fragment parts upon entering and leaving a fragment
