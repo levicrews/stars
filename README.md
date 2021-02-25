@@ -58,6 +58,8 @@
 
 ## Emacs Lisp 
 
+- [code-compass](https://github.com/ag91/code-compass) - A set of code analyses that assist you in tackling software complexity
+- [org-ir](https://github.com/mskorzhinskiy/org-ir) - 
 - [nroam](https://github.com/NicolasPetton/nroam) - Org-roam backlinks within org-mode buffers
 - [org-media-note](https://github.com/yuchen-lea/org-media-note) - Taking notes when watching videos or listening to audios in org-mode.
 - [org-elp](https://github.com/guanyilun/org-elp) - Preview equations live in org-mode
@@ -243,6 +245,7 @@
 
 ## Python 
 
+- [org-knit-action](https://github.com/tecosaur/org-knit-action) - Let someone else take care of keeping up to date tangled/woven versions of your Org files for public consumption.
 - [binscatter](https://github.com/esantorella/binscatter) - 
 - [agenda](https://github.com/rougier/agenda) - Org agenda in the console
 - [math-with-slack](https://github.com/thisiscam/math-with-slack) - Rendered math (MathJax) with Slack's desktop client
