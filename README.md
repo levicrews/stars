@@ -287,6 +287,7 @@
 
 ## R 
 
+- [benchmark-stata-r](https://github.com/matthieugomez/benchmark-stata-r) - Speed benchmark of Stata and R on common data manipulations
 - [zaminfluence](https://github.com/rgiordan/zaminfluence) - Tools in R for computing and using Z-estimator approximate influence functions.
 - [gslab_r](https://github.com/gslab-econ/gslab_r) - 
 - [EconData](https://github.com/setzler/EconData) - Data repository and R package to manage publicly-available economics data.
