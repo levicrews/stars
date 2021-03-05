@@ -306,6 +306,7 @@
 
 ## Shell 
 
+- [org-popup](https://github.com/Parveshdhull/org-popup) - Take notes for emacs org-mode using pop-ups
 - [mu-wizard](https://github.com/cemkeylan/mu-wizard) - Shell script to easily setup mu4e on Emacs
 - [org-protocol-github-lines](https://github.com/kidd/org-protocol-github-lines) - Add links in github code views that open files in the given line.
 - [teiler](https://github.com/carnager/teiler) - Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg
