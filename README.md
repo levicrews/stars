@@ -88,7 +88,7 @@
 - [anaconda-mode](https://github.com/pythonic-emacs/anaconda-mode) - Code navigation, documentation lookup and completion for Python.
 - [emacs-scrum](https://github.com/ianxm/emacs-scrum) - dynamic scrum report generation for org-mode buffers
 - [cheatsheet](https://github.com/darksmile/cheatsheet) - 
-- [dumb-jump](https://github.com/jacktasia/dumb-jump) - an Emacs "jump to definition" package for 40+ languages
+- [dumb-jump](https://github.com/jacktasia/dumb-jump) - an Emacs "jump to definition" package for 50+ languages
 - [org-super-links](https://github.com/toshism/org-super-links) - Package to create links with auto backlinks
 - [elmacro](https://github.com/Silex/elmacro) - Package to display keyboard macros or latest interactive commands as emacs lisp.
 - [nord-emacs](https://github.com/arcticicestudio/nord-emacs) - An arctic, north-bluish clean and elegant Emacs theme.
