@@ -58,6 +58,9 @@
 
 ## Emacs Lisp 
 
+- [org-ql-planning](https://github.com/mskorzhinskiy/org-ql-planning) - 
+- [ink](https://github.com/foxfriday/ink) - LaTeX + Inkscape
+- [vulpea](https://github.com/d12frosted/vulpea) - A collection of functions for note taking based on `org` and `org-roam`.
 - [code-compass](https://github.com/ag91/code-compass) - A set of code analyses that assist you in tackling software complexity
 - [org-ir](https://github.com/mskorzhinskiy/org-ir) - 
 - [nroam](https://github.com/NicolasPetton/nroam) - Org-roam backlinks within org-mode buffers
