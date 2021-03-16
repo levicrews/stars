@@ -166,6 +166,7 @@
 
 ## Julia 
 
+- [Binscatters.jl](https://github.com/matthieugomez/Binscatters.jl) - 
 - [CurrentPopulationSurvey.jl](https://github.com/mthelm85/CurrentPopulationSurvey.jl) - A simple package for easily downloading/parsing CPS microdata files.
 - [PSID.jl](https://github.com/aaowens/PSID.jl) - Quickly assemble data from the Panel Study of Income Dynamics (PSID)
 - [WorldBankData.jl](https://github.com/4gh/WorldBankData.jl) - Access to World Bank data for Julia
@@ -244,7 +245,7 @@
 
 ## PowerShell 
 
-- [tilburg-science-hub](https://github.com/tilburgsciencehub/tilburg-science-hub) - Tilburg Science Hub is an open-source resource repository that supports students and researchers in the social sciences to efficiently manage data- and computation-intensive projects.
+- [deprecated-website](https://github.com/tilburgsciencehub/deprecated-website) - Tilburg Science Hub is an open-source resource repository that supports students and researchers in the social sciences to efficiently manage data- and computation-intensive projects.
 
 ## Python 
 
@@ -325,6 +326,7 @@
 
 ## TeX 
 
+- [tex](https://github.com/agoldst/tex) - Miscellaneous tex-related files
 - [applied-methods-phd](https://github.com/paulgp/applied-methods-phd) - Repo for Yale Applied Empirical Methods PHD Course
 - [tufte_algorithms_book](https://github.com/sisl/tufte_algorithms_book) - A template for textbooks in the same style as Algorithms for Optimization
 - [the-turing-way](https://github.com/alan-turing-institute/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
