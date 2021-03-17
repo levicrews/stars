@@ -11,6 +11,7 @@
   - [CSS](#css)
   - [Common Lisp](#common-lisp)
   - [Emacs Lisp](#emacs-lisp)
+  - [Fortran](#fortran)
   - [Go](#go)
   - [HTML](#html)
   - [Java](#java)
@@ -66,7 +67,7 @@
 - [nroam](https://github.com/NicolasPetton/nroam) - Org-roam backlinks within org-mode buffers
 - [org-media-note](https://github.com/yuchen-lea/org-media-note) - Taking notes when watching videos or listening to audios in org-mode.
 - [org-elp](https://github.com/guanyilun/org-elp) - Preview equations live in org-mode
-- [org-appear](https://github.com/awth13/org-appear) - Toggle visibility of hidden Org mode fragment parts upon entering and leaving a fragment
+- [org-appear](https://github.com/awth13/org-appear) - Toggle visibility of hidden Org mode element parts upon entering and leaving an element
 - [nano-emacs](https://github.com/rougier/nano-emacs) - GNU Emacs / N Λ N O - Emacs made simple
 - [emacs4cl](https://github.com/susam/emacs4cl) - A 40 line ~/.emacs to quickly set up vanilla Emacs for Common Lisp programming
 - [pdf-continuous-scroll-mode.el](https://github.com/dalanicolai/pdf-continuous-scroll-mode.el) - A minor mode for Emacs that implements a two-buffer hack to provide continuous scrolling in pdf-tools
@@ -118,6 +119,10 @@
 - [org-generate.el](https://github.com/conao3/org-generate.el) - Generate template files/folders from one org document
 - [doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs framework for the stubborn martian hacker
 - [elpy](https://github.com/jorgenschaefer/elpy) - Emacs Python Development Environment
+
+## Fortran 
+
+- [TikTak](https://github.com/serdarozkan/TikTak) - TikTak: A multistart global optimization algorithm
 
 ## Go 
 
