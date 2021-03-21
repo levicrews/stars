@@ -331,7 +331,6 @@
 
 ## TeX 
 
-- [gitinfo2](https://github.com/Hightor/gitinfo2) - CTAN - gitinfo2.sty: Use git repository metadata in LaTeX documents
 - [tex](https://github.com/agoldst/tex) - Miscellaneous tex-related files
 - [applied-methods-phd](https://github.com/paulgp/applied-methods-phd) - Repo for Yale Applied Empirical Methods PHD Course
 - [tufte_algorithms_book](https://github.com/sisl/tufte_algorithms_book) - A template for textbooks in the same style as Algorithms for Optimization
