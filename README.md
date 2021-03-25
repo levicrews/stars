@@ -254,6 +254,7 @@
 
 ## Python 
 
+- [carpentries-incubator/geospatial-python](https://github.com/carpentries-incubator/geospatial-python) - Introduction to Geospatial Raster and Vector Data with Python
 - [tecosaur/org-knit-action](https://github.com/tecosaur/org-knit-action) - Let someone else take care of keeping up to date tangled/woven versions of your Org files for public consumption.
 - [esantorella/binscatter](https://github.com/esantorella/binscatter) - 
 - [rougier/agenda](https://github.com/rougier/agenda) - Org agenda in the console
@@ -315,6 +316,7 @@
 
 ## Shell 
 
+- [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows 10 Linux Subsystems
 - [Parveshdhull/org-popup](https://github.com/Parveshdhull/org-popup) - Take notes for emacs org-mode using pop-ups
 - [cemkeylan/mu-wizard](https://github.com/cemkeylan/mu-wizard) - Shell script to easily setup mu4e on Emacs
 - [kidd/org-protocol-github-lines](https://github.com/kidd/org-protocol-github-lines) - Add links in github code views that open files in the given line.
