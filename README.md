@@ -254,6 +254,7 @@
 
 ## Python 
 
+- [riceissa/spaced-inbox](https://github.com/riceissa/spaced-inbox) - A minimal spaced writing inbox
 - [carpentries-incubator/geospatial-python](https://github.com/carpentries-incubator/geospatial-python) - Introduction to Geospatial Raster and Vector Data with Python
 - [tecosaur/org-knit-action](https://github.com/tecosaur/org-knit-action) - Let someone else take care of keeping up to date tangled/woven versions of your Org files for public consumption.
 - [esantorella/binscatter](https://github.com/esantorella/binscatter) - 
@@ -263,7 +264,7 @@
 - [erinhengel/Requests-NBER](https://github.com/erinhengel/Requests-NBER) - Custom Requests class to log onto NBER.org.
 - [gpoore/pythontex](https://github.com/gpoore/pythontex) - A LaTeX package that executes Python and other code in LaTeX documents, and includes the output
 - [EconForge/dolo.py](https://github.com/EconForge/dolo.py) - Economic modelling in python
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs such as http://ipstack.com, http://fixer.io/, https://numverify.com/, etc. for use in software and web development.
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [iamlemec/patents](https://github.com/iamlemec/patents) - Parse and cluster USPTO patent data. Includes applications, grants, assignments, and maintenance.
 - [dbcli/litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
 - [gboehl/pydsge](https://github.com/gboehl/pydsge) - A package to simulate, filter, and estimate DSGE models with occasionally binding constraints
@@ -328,6 +329,7 @@
 
 ## Stata 
 
+- [DHSProgram/DHS-Indicators-Stata](https://github.com/DHSProgram/DHS-Indicators-Stata) - Stata code to produce Demographic and Health Survey Indicators
 - [gslab-econ/gslab_stata](https://github.com/gslab-econ/gslab_stata) - 
 - [vikjam/mostly-harmless-replication](https://github.com/vikjam/mostly-harmless-replication) - Replication of tables and figures from "Mostly Harmless Econometrics" in Stata, R, Python and Julia.
 
