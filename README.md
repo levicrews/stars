@@ -185,7 +185,6 @@
 - [pysal/spopt](https://github.com/pysal/spopt) - Spatial Optimization
 - [fediskhakov/CompEcon](https://github.com/fediskhakov/CompEcon) - My "Foundations of Computational Economics" course
 - [ledeprogram/data-and-databases](https://github.com/ledeprogram/data-and-databases) - Repository for course materials related to Data and Databases. (Supercedes directories in "courses" repo)
-- [jlperla/PerlaTonettiWaugh.jl](https://github.com/jlperla/PerlaTonettiWaugh.jl) - Code and algorithms for "Equilibrium Technology Diffusion, Trade, and Growth"
 - [jmbejara/comp-econ-sp19](https://github.com/jmbejara/comp-econ-sp19) - Main Course Repository for Computational Methods in Economics (Econ 21410, Spring 2019)
 - [tyleransom/DScourseS19](https://github.com/tyleransom/DScourseS19) - ECON 5253: Data Science for Economists, University of Oklahoma (Spring 2019)
 - [matheusfacure/python-causality-handbook](https://github.com/matheusfacure/python-causality-handbook) - Causal Inference for the Brave and True. A light-hearted yet rigorous approach to learning about impact estimation and sensitivity analysis.
