@@ -126,6 +126,7 @@
 
 ## Go 
 
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [wakatara/harsh](https://github.com/wakatara/harsh) - Habit tracking for geeks. A minimalist, command line tool for tracking and understanding your habits.
 
 ## HTML 
@@ -152,6 +153,7 @@
 
 ## JavaScript 
 
+- [gopasspw/gopassbridge](https://github.com/gopasspw/gopassbridge) - A web extension for firefox and chrome to insert login credentials from gopass
 - [aravindballa/gatsby-theme-andy](https://github.com/aravindballa/gatsby-theme-andy) - A Gatsby theme to build Andy style websites. 📑
 - [karlicoss/grasp](https://github.com/karlicoss/grasp) - A reliable org-capture browser extension for Chrome/Firefox
 - [JabRef/JabRef-Browser-Extension](https://github.com/JabRef/JabRef-Browser-Extension) - Browser extension for JabRef to allow importing of new items directly from the browser.
@@ -334,6 +336,7 @@
 
 ## TeX 
 
+- [bdarcus/bibtex-actions](https://github.com/bdarcus/bibtex-actions) - A package to quickly find and act on bibtex entries using default Emacs completion; especially selectrum with embark.
 - [agoldst/tex](https://github.com/agoldst/tex) - Miscellaneous tex-related files
 - [paulgp/applied-methods-phd](https://github.com/paulgp/applied-methods-phd) - Repo for Yale Applied Empirical Methods PHD Course
 - [sisl/tufte_algorithms_book](https://github.com/sisl/tufte_algorithms_book) - A template for textbooks in the same style as Algorithms for Optimization
