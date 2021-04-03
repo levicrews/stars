@@ -246,7 +246,7 @@
 - [abiodunjames/Awesome-Clean-Code-Resources](https://github.com/abiodunjames/Awesome-Clean-Code-Resources) - An awesome curated list of clean code posts, books and videos
 - [sacridini/Awesome-Geospatial](https://github.com/sacridini/Awesome-Geospatial) - Long list of geospatial tools and resources
 - [jtleek/datasharing](https://github.com/jtleek/datasharing) - The Leek group guide to data sharing
-- [gentzkow/ra-manual](https://github.com/gentzkow/ra-manual) - 
+- [gslab-econ/ra-manual](https://github.com/gslab-econ/ra-manual) - 
 - [johnerichumphries/JuliaByExample](https://github.com/johnerichumphries/JuliaByExample) - Collection of Julia (Julia Lang) Examples
 
 ## PowerShell 
