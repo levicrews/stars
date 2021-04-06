@@ -27,6 +27,7 @@
   - [Python](#python)
   - [R](#r)
   - [Rich Text Format](#rich-text-format)
+  - [Ruby](#ruby)
   - [Shell](#shell)
   - [Stata](#stata)
   - [TeX](#tex)
@@ -174,7 +175,7 @@
 
 ## Julia 
 
-- [matthieugomez/Binscatters.jl](https://github.com/matthieugomez/Binscatters.jl) - 
+- [matthieugomez/Binscatters.jl](https://github.com/matthieugomez/Binscatters.jl) - Stata's Binscatter for Julia
 - [mthelm85/CurrentPopulationSurvey.jl](https://github.com/mthelm85/CurrentPopulationSurvey.jl) - A simple package for easily downloading/parsing CPS microdata files.
 - [aaowens/PSID.jl](https://github.com/aaowens/PSID.jl) - Quickly assemble data from the Panel Study of Income Dynamics (PSID)
 - [4gh/WorldBankData.jl](https://github.com/4gh/WorldBankData.jl) - Access to World Bank data for Julia
@@ -318,6 +319,10 @@
 
 - [JulienPascal/thesis](https://github.com/JulienPascal/thesis) - 
 
+## Ruby 
+
+- [samg/timetrap](https://github.com/samg/timetrap) - Simple command line timetracker
+
 ## Shell 
 
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows 10 Linux Subsystems
@@ -338,6 +343,7 @@
 
 ## TeX 
 
+- [rebekahanne/LaTeX-templates](https://github.com/rebekahanne/LaTeX-templates) - 
 - [bdarcus/bibtex-actions](https://github.com/bdarcus/bibtex-actions) - A package to quickly find and act on bibtex entries using default Emacs completion; especially selectrum with embark.
 - [agoldst/tex](https://github.com/agoldst/tex) - Miscellaneous tex-related files
 - [paulgp/applied-methods-phd](https://github.com/paulgp/applied-methods-phd) - Repo for Yale Applied Empirical Methods PHD Course
