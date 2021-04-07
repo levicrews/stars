@@ -343,6 +343,8 @@
 
 ## TeX 
 
+- [mossr/julia-tufte-beamer](https://github.com/mossr/julia-tufte-beamer) - Tufte-style beamer template with Julia integration
+- [NicDuquette/Beamer-template](https://github.com/NicDuquette/Beamer-template) - Beamer Template
 - [rebekahanne/LaTeX-templates](https://github.com/rebekahanne/LaTeX-templates) - 
 - [bdarcus/bibtex-actions](https://github.com/bdarcus/bibtex-actions) - A package to quickly find and act on bibtex entries using default Emacs completion; especially selectrum with embark.
 - [agoldst/tex](https://github.com/agoldst/tex) - Miscellaneous tex-related files
