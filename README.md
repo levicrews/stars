@@ -258,6 +258,7 @@
 
 ## Python 
 
+- [Layout-Parser/layout-parser](https://github.com/Layout-Parser/layout-parser) - A Python Library for Document Layout Understanding
 - [riceissa/spaced-inbox](https://github.com/riceissa/spaced-inbox) - A minimal spaced writing inbox
 - [carpentries-incubator/geospatial-python](https://github.com/carpentries-incubator/geospatial-python) - Introduction to Geospatial Raster and Vector Data with Python
 - [tecosaur/org-knit-action](https://github.com/tecosaur/org-knit-action) - Let someone else take care of keeping up to date tangled/woven versions of your Org files for public consumption.
