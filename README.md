@@ -338,6 +338,7 @@
 
 ## Stata 
 
+- [lydreiner/Statapackagesearch](https://github.com/lydreiner/Statapackagesearch) - Search for (missing) packages in Stata code using Stata or R
 - [DHSProgram/DHS-Indicators-Stata](https://github.com/DHSProgram/DHS-Indicators-Stata) - Stata code to produce Demographic and Health Survey Indicators
 - [gslab-econ/gslab_stata](https://github.com/gslab-econ/gslab_stata) - 
 - [vikjam/mostly-harmless-replication](https://github.com/vikjam/mostly-harmless-replication) - Replication of tables and figures from "Mostly Harmless Econometrics" in Stata, R, Python and Julia.
