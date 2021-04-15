@@ -39,6 +39,7 @@
 
 ## C 
 
+- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [ofajardo/pyreadr](https://github.com/ofajardo/pyreadr) - Python package to read and write R RData and Rds files into/from pandas dataframes. No R or other external dependencies required.
 
 ## C++ 
@@ -258,7 +259,7 @@
 
 ## Python 
 
-- [Layout-Parser/layout-parser](https://github.com/Layout-Parser/layout-parser) - A Python Library for Document Layout Understanding
+- [Layout-Parser/layout-parser](https://github.com/Layout-Parser/layout-parser) - A unified toolkit for Deep Learning Based Document Image Analysis
 - [riceissa/spaced-inbox](https://github.com/riceissa/spaced-inbox) - A minimal spaced writing inbox
 - [carpentries-incubator/geospatial-python](https://github.com/carpentries-incubator/geospatial-python) - Introduction to Geospatial Raster and Vector Data with Python
 - [tecosaur/org-knit-action](https://github.com/tecosaur/org-knit-action) - Let someone else take care of keeping up to date tangled/woven versions of your Org files for public consumption.
@@ -303,6 +304,7 @@
 
 ## R 
 
+- [AEADataEditor/docker-r-starter](https://github.com/AEADataEditor/docker-r-starter) - This repo provides instructions on how to build an R docker image that can serve as the basis for interactive or automated reproducible processing
 - [matthieugomez/benchmark-stata-r](https://github.com/matthieugomez/benchmark-stata-r) - Speed benchmark of Stata and R on common data manipulations
 - [rgiordan/zaminfluence](https://github.com/rgiordan/zaminfluence) - Tools in R for computing and using Z-estimator approximate influence functions.
 - [gslab-econ/gslab_r](https://github.com/gslab-econ/gslab_r) - 
@@ -338,6 +340,7 @@
 
 ## Stata 
 
+- [AEADataEditor/replication-template](https://github.com/AEADataEditor/replication-template) - A template for starting a replication/ reproducibility exercise. Note that this repository always contains only the latest version. For specific releases, see https://github.com/AEADataEditor/replication-template-development
 - [lydreiner/Statapackagesearch](https://github.com/lydreiner/Statapackagesearch) - Search for (missing) packages in Stata code using Stata or R
 - [DHSProgram/DHS-Indicators-Stata](https://github.com/DHSProgram/DHS-Indicators-Stata) - Stata code to produce Demographic and Health Survey Indicators
 - [gslab-econ/gslab_stata](https://github.com/gslab-econ/gslab_stata) - 
