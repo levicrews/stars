@@ -176,6 +176,7 @@
 
 ## Julia 
 
+- [floswald/Zurcher.jl](https://github.com/floswald/Zurcher.jl) - Zurcher Package
 - [matthieugomez/Binscatters.jl](https://github.com/matthieugomez/Binscatters.jl) - Stata's Binscatter for Julia
 - [mthelm85/CurrentPopulationSurvey.jl](https://github.com/mthelm85/CurrentPopulationSurvey.jl) - A simple package for easily downloading/parsing CPS microdata files.
 - [aaowens/PSID.jl](https://github.com/aaowens/PSID.jl) - Quickly assemble data from the Panel Study of Income Dynamics (PSID)
