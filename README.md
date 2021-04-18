@@ -185,6 +185,7 @@
 
 ## Jupyter Notebook 
 
+- [floswald/NumericalMethods](https://github.com/floswald/NumericalMethods) - website for numerical methods course
 - [aeturrell/coding-for-economists](https://github.com/aeturrell/coding-for-economists) - This repository hosts the code behind the online book, Coding for Economists.
 - [GDSL-UL/san](https://github.com/GDSL-UL/san) - Spatial Analysis Notes
 - [iamlemec/data_science](https://github.com/iamlemec/data_science) - Getting started working with data, with applications to economics
