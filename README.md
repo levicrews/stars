@@ -351,6 +351,9 @@
 
 ## TeX 
 
+- [sm-miller/DiffNDiff](https://github.com/sm-miller/DiffNDiff) - 
+- [sm-miller/RCT](https://github.com/sm-miller/RCT) - 
+- [sm-miller/RDD](https://github.com/sm-miller/RDD) - 
 - [mossr/julia-tufte-beamer](https://github.com/mossr/julia-tufte-beamer) - Tufte-style beamer template with Julia integration
 - [NicDuquette/Beamer-template](https://github.com/NicDuquette/Beamer-template) - Beamer Template
 - [rebekahanne/LaTeX-templates](https://github.com/rebekahanne/LaTeX-templates) - 
