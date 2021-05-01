@@ -176,6 +176,7 @@
 
 ## Julia 
 
+- [jkrumbiegel/Chain.jl](https://github.com/jkrumbiegel/Chain.jl) - A Julia package for piping a value through a series of transformation expressions using a more convenient syntax than Julia's native piping functionality.
 - [floswald/Zurcher.jl](https://github.com/floswald/Zurcher.jl) - Zurcher Package
 - [matthieugomez/Binscatters.jl](https://github.com/matthieugomez/Binscatters.jl) - Stata's Binscatter for Julia
 - [mthelm85/CurrentPopulationSurvey.jl](https://github.com/mthelm85/CurrentPopulationSurvey.jl) - A simple package for easily downloading/parsing CPS microdata files.
