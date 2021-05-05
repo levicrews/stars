@@ -61,6 +61,7 @@
 
 ## Emacs Lisp 
 
+- [ffevotte/slurm.el](https://github.com/ffevotte/slurm.el) - Emacs extension to interact with the SLURM jobs scheduler
 - [mskorzhinskiy/org-ql-planning](https://github.com/mskorzhinskiy/org-ql-planning) - 
 - [foxfriday/ink](https://github.com/foxfriday/ink) - LaTeX + Inkscape
 - [d12frosted/vulpea](https://github.com/d12frosted/vulpea) - A collection of functions for note taking based on `org` and `org-roam`.
