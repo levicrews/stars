@@ -50,8 +50,6 @@
 ## CSS 
 
 - [lemonmade/bigfoot](https://github.com/lemonmade/bigfoot) - A jQuery plugin for creating exceptional footnotes.
-- [devonzuegel/digital-nesting](https://github.com/devonzuegel/digital-nesting) - Devon's collection of custom CSS
-- [fniessen/org-html-themes](https://github.com/fniessen/org-html-themes) - How to export Org mode files into awesome HTML in 2 minutes
 - [tlamadon/econr-notes](https://github.com/tlamadon/econr-notes) - Notes on solving and estimating economic model with heterogeneous agents using R and C++
 - [DataUSA/datausa-tutorials](https://github.com/DataUSA/datausa-tutorials) - Holds tutorials for how to build things with the Data USA API and embedded visualizations.
 
@@ -61,6 +59,7 @@
 
 ## Emacs Lisp 
 
+- [mm--/dot-emacs](https://github.com/mm--/dot-emacs) - My Emacs configuration files
 - [ffevotte/slurm.el](https://github.com/ffevotte/slurm.el) - Emacs extension to interact with the SLURM jobs scheduler
 - [mskorzhinskiy/org-ql-planning](https://github.com/mskorzhinskiy/org-ql-planning) - 
 - [foxfriday/ink](https://github.com/foxfriday/ink) - LaTeX + Inkscape
@@ -381,7 +380,6 @@
 
 - [andymatuschak/orbit](https://github.com/andymatuschak/orbit) - 
 - [rasendubi/uniorg](https://github.com/rasendubi/uniorg) - An accurate Org-mode parser
-- [retorquere/zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex) - Make Zotero effective for us LaTeX holdouts
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
 
 
