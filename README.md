@@ -59,6 +59,7 @@
 
 ## Emacs Lisp 
 
+- [abo-abo/pamparam](https://github.com/abo-abo/pamparam) - Simple and fast flashcards for Emacs
 - [mm--/dot-emacs](https://github.com/mm--/dot-emacs) - My Emacs configuration files
 - [ffevotte/slurm.el](https://github.com/ffevotte/slurm.el) - Emacs extension to interact with the SLURM jobs scheduler
 - [mskorzhinskiy/org-ql-planning](https://github.com/mskorzhinskiy/org-ql-planning) - 
