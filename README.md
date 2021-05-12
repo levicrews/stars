@@ -187,6 +187,7 @@
 
 ## Jupyter Notebook 
 
+- [FuZhiyu/FTPL_in_cnts_time](https://github.com/FuZhiyu/FTPL_in_cnts_time) - 
 - [mwaugh0328/julia-eaton-kortum](https://github.com/mwaugh0328/julia-eaton-kortum) - julia version of eaton and kortum (2002)
 - [microsoft/gather](https://github.com/microsoft/gather) - Spit shine for Jupyter notebooks 🧽✨
 - [floswald/NumericalMethods](https://github.com/floswald/NumericalMethods) - website for numerical methods course
@@ -265,6 +266,7 @@
 
 ## Python 
 
+- [medialab/minet](https://github.com/medialab/minet) - A webmining CLI tool & library for python.
 - [johnjosephhorton/texscrap](https://github.com/johnjosephhorton/texscrap) - Python utility for making PDFs out of scraps of LaTeX.
 - [Layout-Parser/layout-parser](https://github.com/Layout-Parser/layout-parser) - A unified toolkit for Deep Learning Based Document Image Analysis
 - [riceissa/spaced-inbox](https://github.com/riceissa/spaced-inbox) - A minimal spaced writing inbox
