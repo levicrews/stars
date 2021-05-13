@@ -44,6 +44,7 @@
 
 ## C++ 
 
+- [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [coin-or/Ipopt](https://github.com/coin-or/Ipopt) - COIN-OR Interior Point Optimizer IPOPT
 - [davidzarruk/Parallel_Computing](https://github.com/davidzarruk/Parallel_Computing) - 
 
@@ -382,7 +383,7 @@
 
 ## TypeScript 
 
-- [andymatuschak/orbit](https://github.com/andymatuschak/orbit) - 
+- [andymatuschak/orbit](https://github.com/andymatuschak/orbit) - Experimental spaced repetition platform for exploring new ideas in memory augmentation and programmable attention
 - [rasendubi/uniorg](https://github.com/rasendubi/uniorg) - An accurate Org-mode parser
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
 
