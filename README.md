@@ -60,6 +60,8 @@
 
 ## Emacs Lisp 
 
+- [bbatsov/guru-mode](https://github.com/bbatsov/guru-mode) - Learn to use Emacs the way it was meant to be used (the Emacs guru way)
+- [bazelbuild/emacs-bazel-mode](https://github.com/bazelbuild/emacs-bazel-mode) - Emacs mode for Bazel
 - [abo-abo/pamparam](https://github.com/abo-abo/pamparam) - Simple and fast flashcards for Emacs
 - [mm--/dot-emacs](https://github.com/mm--/dot-emacs) - My Emacs configuration files
 - [ffevotte/slurm.el](https://github.com/ffevotte/slurm.el) - Emacs extension to interact with the SLURM jobs scheduler
@@ -297,7 +299,7 @@
 - [coin-or/pulp](https://github.com/coin-or/pulp) - A python Linear Programming API
 - [gslab-econ/template](https://github.com/gslab-econ/template) - 
 - [gslab-econ/gslab_python](https://github.com/gslab-econ/gslab_python) - Python tools for GSLab
-- [nschloe/quadpy](https://github.com/nschloe/quadpy) - Numerical integration (quadrature, cubature) in Python
+- [nschloe/quadpy](https://github.com/nschloe/quadpy) - :triangular_ruler: Numerical integration (quadrature, cubature) in Python
 - [kieferk/dfply](https://github.com/kieferk/dfply) - dplyr-style piping operations for pandas dataframes
 - [salesforce/ai-economist](https://github.com/salesforce/ai-economist) - Foundation is a flexible, modular, and composable framework to model socio-economic behaviors and dynamics with both agents and governments. This framework can be used in conjunction with reinforcement learning to learn optimal economic policies, as done by the AI Economist (https://www.einstein.ai/the-ai-economist).
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
