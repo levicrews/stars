@@ -181,6 +181,7 @@
 
 ## Julia 
 
+- [HariharanJayashankar/Rendahl.jl](https://github.com/HariharanJayashankar/Rendahl.jl) - A DSGE Solver based on Rendahl (2017)
 - [jkrumbiegel/Chain.jl](https://github.com/jkrumbiegel/Chain.jl) - A Julia package for piping a value through a series of transformation expressions using a more convenient syntax than Julia's native piping functionality.
 - [floswald/Zurcher.jl](https://github.com/floswald/Zurcher.jl) - Zurcher Package
 - [matthieugomez/Binscatters.jl](https://github.com/matthieugomez/Binscatters.jl) - Stata's Binscatter for Julia
@@ -270,6 +271,7 @@
 
 ## Python 
 
+- [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker) - Turn repositories into Jupyter-enabled Docker images
 - [medialab/minet](https://github.com/medialab/minet) - A webmining CLI tool & library for python.
 - [johnjosephhorton/texscrap](https://github.com/johnjosephhorton/texscrap) - Python utility for making PDFs out of scraps of LaTeX.
 - [Layout-Parser/layout-parser](https://github.com/Layout-Parser/layout-parser) - A unified toolkit for Deep Learning Based Document Image Analysis
