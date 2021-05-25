@@ -60,6 +60,7 @@
 
 ## Emacs Lisp 
 
+- [lepisma/oca](https://github.com/lepisma/oca) - Org Capture Anywhere
 - [bbatsov/guru-mode](https://github.com/bbatsov/guru-mode) - Learn to use Emacs the way it was meant to be used (the Emacs guru way)
 - [bazelbuild/emacs-bazel-mode](https://github.com/bazelbuild/emacs-bazel-mode) - Emacs mode for Bazel
 - [abo-abo/pamparam](https://github.com/abo-abo/pamparam) - Simple and fast flashcards for Emacs
