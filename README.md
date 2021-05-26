@@ -312,7 +312,6 @@
 - [liang-jack-a/EGLP_Crosswalk](https://github.com/liang-jack-a/EGLP_Crosswalk) - Repository for "A Method to Construct Geographical Crosswalks with an Application to US Counties since 1790"
 - [drivendata/cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 - [johnjosephhorton/create_project](https://github.com/johnjosephhorton/create_project) - This is a python script for building a directory structure and a "hello world" make'able version of a LaTeX paper.
-- [gentzkow/template](https://github.com/gentzkow/template) - 
 - [econ-ark/HARK](https://github.com/econ-ark/HARK) - Heterogenous Agents Resources & toolKit
 - [NumEconCopenhagen/ConsumptionSaving](https://github.com/NumEconCopenhagen/ConsumptionSaving) - Solve and simulate consumption-saving models in Python (optimized with Numba) and C++
 - [NumEconCopenhagen/NumEcon](https://github.com/NumEconCopenhagen/NumEcon) - Package for numerical economics
@@ -385,6 +384,7 @@
 - [ms486/Methods](https://github.com/ms486/Methods) - Notes and Codes for Computational Methods in Econ
 - [knaaptime/mandown](https://github.com/knaaptime/mandown) - Scholarly Manuscripts in Markdown
 - [chrisconlon/micro-metrics](https://github.com/chrisconlon/micro-metrics) - This is a 2nd Year PhD Course In Micro-econometrics
+- [gentzkow/template](https://github.com/gentzkow/template) - 
 - [jdingel/econ35101](https://github.com/jdingel/econ35101) - Public repository for UChicago's Econ 35101 "International Macroeconomics and Trade" PhD class
 
 ## TypeScript 
