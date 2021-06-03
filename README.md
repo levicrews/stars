@@ -60,6 +60,7 @@
 
 ## Emacs Lisp 
 
+- [tecosaur/emacs-everywhere](https://github.com/tecosaur/emacs-everywhere) - System-wide popup Emacs windows for quick edits
 - [lepisma/oca](https://github.com/lepisma/oca) - Org Capture Anywhere
 - [bbatsov/guru-mode](https://github.com/bbatsov/guru-mode) - Learn to use Emacs the way it was meant to be used (the Emacs guru way)
 - [bazelbuild/emacs-bazel-mode](https://github.com/bazelbuild/emacs-bazel-mode) - Emacs mode for Bazel
@@ -389,7 +390,7 @@
 
 ## TypeScript 
 
-- [andymatuschak/orbit](https://github.com/andymatuschak/orbit) - Experimental spaced repetition platform for exploring new ideas in memory augmentation and programmable attention
+- [andymatuschak/orbit](https://github.com/andymatuschak/orbit) - Experimental spaced repetition platform for exploring ideas in memory augmentation and programmable attention
 - [rasendubi/uniorg](https://github.com/rasendubi/uniorg) - An accurate Org-mode parser
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
 
