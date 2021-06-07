@@ -316,7 +316,6 @@
 - [johnjosephhorton/create_project](https://github.com/johnjosephhorton/create_project) - This is a python script for building a directory structure and a "hello world" make'able version of a LaTeX paper.
 - [econ-ark/HARK](https://github.com/econ-ark/HARK) - Heterogenous Agents Resources & toolKit
 - [NumEconCopenhagen/ConsumptionSaving](https://github.com/NumEconCopenhagen/ConsumptionSaving) - Solve and simulate consumption-saving models in Python (optimized with Numba) and C++
-- [NumEconCopenhagen/NumEcon](https://github.com/NumEconCopenhagen/NumEcon) - Package for numerical economics
 - [escheffel/pymaclab](https://github.com/escheffel/pymaclab) - Dynamic Stochastic Equilibrium Models (DSGE) in Python
 
 ## R 
