@@ -44,6 +44,7 @@
 
 ## C++ 
 
+- [qgis/QGIS](https://github.com/qgis/QGIS) - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [coin-or/Ipopt](https://github.com/coin-or/Ipopt) - COIN-OR Interior Point Optimizer IPOPT
 - [davidzarruk/Parallel_Computing](https://github.com/davidzarruk/Parallel_Computing) - 
