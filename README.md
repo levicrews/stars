@@ -61,6 +61,7 @@
 
 ## Emacs Lisp 
 
+- [emacsorphanage/anzu](https://github.com/emacsorphanage/anzu) - Emacs Port of anzu.vim
 - [alphapapa/org-web-tools](https://github.com/alphapapa/org-web-tools) - View, capture, and archive Web pages in Org-mode
 - [tecosaur/emacs-everywhere](https://github.com/tecosaur/emacs-everywhere) - System-wide popup Emacs windows for quick edits
 - [lepisma/oca](https://github.com/lepisma/oca) - Org Capture Anywhere
@@ -322,6 +323,7 @@
 
 ## R 
 
+- [alastairrushworth/free-data-science](https://github.com/alastairrushworth/free-data-science) - 🛠️ 🌐  Thematic list of high-quality data science resources
 - [AEADataEditor/docker-r-starter](https://github.com/AEADataEditor/docker-r-starter) - This repo provides instructions on how to build an R docker image that can serve as the basis for interactive or automated reproducible processing
 - [matthieugomez/benchmark-stata-r](https://github.com/matthieugomez/benchmark-stata-r) - Speed benchmark of Stata and R on common data manipulations
 - [rgiordan/zaminfluence](https://github.com/rgiordan/zaminfluence) - Tools in R for computing and using Z-estimator approximate influence functions.
