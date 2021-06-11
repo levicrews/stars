@@ -11,7 +11,6 @@
   - [CSS](#css)
   - [Common Lisp](#common-lisp)
   - [Emacs Lisp](#emacs-lisp)
-  - [Fortran](#fortran)
   - [Go](#go)
   - [HTML](#html)
   - [Java](#java)
@@ -131,12 +130,9 @@
 - [hlissner/doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs framework for the stubborn martian hacker
 - [jorgenschaefer/elpy](https://github.com/jorgenschaefer/elpy) - Emacs Python Development Environment
 
-## Fortran 
-
-- [serdarozkan/TikTak](https://github.com/serdarozkan/TikTak) - TikTak: A multistart global optimization algorithm
-
 ## Go 
 
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [wakatara/harsh](https://github.com/wakatara/harsh) - Habit tracking for geeks. A minimalist, command line tool for tracking and understanding your habits.
 
@@ -190,9 +186,6 @@
 - [jkrumbiegel/Chain.jl](https://github.com/jkrumbiegel/Chain.jl) - A Julia package for piping a value through a series of transformation expressions using a more convenient syntax than Julia's native piping functionality.
 - [floswald/Zurcher.jl](https://github.com/floswald/Zurcher.jl) - Zurcher Package
 - [matthieugomez/Binscatters.jl](https://github.com/matthieugomez/Binscatters.jl) - Stata's Binscatter for Julia
-- [mthelm85/CurrentPopulationSurvey.jl](https://github.com/mthelm85/CurrentPopulationSurvey.jl) - A simple package for easily downloading/parsing CPS microdata files.
-- [aaowens/PSID.jl](https://github.com/aaowens/PSID.jl) - Quickly assemble data from the Panel Study of Income Dynamics (PSID)
-- [4gh/WorldBankData.jl](https://github.com/4gh/WorldBankData.jl) - Access to World Bank data for Julia
 - [FRBNY-DSGE/DSGE.jl](https://github.com/FRBNY-DSGE/DSGE.jl) - Solve and estimate Dynamic Stochastic General Equilibrium models (including the New York Fed DSGE)
 
 ## Jupyter Notebook 
@@ -241,7 +234,6 @@
 
 - [jeromematthewcelestine/hadsge](https://github.com/jeromematthewcelestine/hadsge) - Code for Bayesian estimation of a heterogeneous agent DSGE model (MATLAB) using the Reiter (2009) solution method.
 - [jlperla/continuous_time_methods](https://github.com/jlperla/continuous_time_methods) - 
-- [kurtmitman/BKM_MIT](https://github.com/kurtmitman/BKM_MIT) - Code to Implement the Algorithm in "Exploiting MIT Shocks in Heterogeneous-Agent Economies: The Impulse Response as a Numerical Derivative" by Timo Boppart, Per Krusell and Kurt Mitman
 - [DynareTeam/dynare](https://github.com/DynareTeam/dynare) - This project has moved to https://git.dynare.org/Dynare/dynare
 
 ## Objective-C 
@@ -254,7 +246,6 @@
 - [higham/what-is](https://github.com/higham/what-is) - Important concepts in numerical analysis and related areas
 - [FavioVazquez/ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) - List of Data Science Cheatsheets to rule the world
 - [microsoft/vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
-- [michaelewens/SDC-to-Compustat-Mapping](https://github.com/michaelewens/SDC-to-Compustat-Mapping) - A mapping between SDCs M&A database and the gvkey's in Compustat
 - [mkrapp/cookiecutter-reproducible-science](https://github.com/mkrapp/cookiecutter-reproducible-science) - boilerplate for reproducible and transparent science
 - [snird/awesome-data-engineering-learning](https://github.com/snird/awesome-data-engineering-learning) - Awesome list of data engineering learning materials by subject
 - [colbyfayock/50-projects-for-react-and-the-static-web](https://github.com/colbyfayock/50-projects-for-react-and-the-static-web) - ⚛ 50 project ideas to learn by doing complete with project briefs, layout ideas, and resources!
@@ -277,6 +268,7 @@
 
 ## Python 
 
+- [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
 - [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker) - Turn repositories into Jupyter-enabled Docker images
 - [medialab/minet](https://github.com/medialab/minet) - A webmining CLI tool & library for python.
 - [johnjosephhorton/texscrap](https://github.com/johnjosephhorton/texscrap) - Python utility for making PDFs out of scraps of LaTeX.
@@ -300,7 +292,6 @@
 - [gillescastel/inkscape-figures](https://github.com/gillescastel/inkscape-figures) - Inkscape figure manager
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [sciunto-org/python-bibtexparser](https://github.com/sciunto-org/python-bibtexparser) - Bibtex parser for Python 3.3+
-- [USITC-Gravity-Group/GME](https://github.com/USITC-Gravity-Group/GME) - Gravity Modeling Environment by USITC
 - [python-mechanize/mechanize](https://github.com/python-mechanize/mechanize) - The official source code for the python-mechanize project
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [Cimbali/pympress](https://github.com/Cimbali/pympress) - Pympress is a simple yet powerful PDF reader designed for dual-screen presentations
@@ -311,10 +302,8 @@
 - [kieferk/dfply](https://github.com/kieferk/dfply) - dplyr-style piping operations for pandas dataframes
 - [salesforce/ai-economist](https://github.com/salesforce/ai-economist) - Foundation is a flexible, modular, and composable framework to model socio-economic behaviors and dynamics with both agents and governments. This framework can be used in conjunction with reinforcement learning to learn optimal economic policies, as done by the AI Economist (https://www.einstein.ai/the-ai-economist).
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
-- [ejokeeffe/tradedownloader](https://github.com/ejokeeffe/tradedownloader) - Download trade data from Comtrade using the exposed Comtrade API
 - [machow/siuba](https://github.com/machow/siuba) - Python library for using dplyr like syntax with pandas and SQL
 - [dmsul/econtools](https://github.com/dmsul/econtools) - Econometrics and data manipulation functions.
-- [liang-jack-a/EGLP_Crosswalk](https://github.com/liang-jack-a/EGLP_Crosswalk) - Repository for "A Method to Construct Geographical Crosswalks with an Application to US Counties since 1790"
 - [drivendata/cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 - [johnjosephhorton/create_project](https://github.com/johnjosephhorton/create_project) - This is a python script for building a directory structure and a "hello world" make'able version of a LaTeX paper.
 - [econ-ark/HARK](https://github.com/econ-ark/HARK) - Heterogenous Agents Resources & toolKit
@@ -329,11 +318,9 @@
 - [rgiordan/zaminfluence](https://github.com/rgiordan/zaminfluence) - Tools in R for computing and using Z-estimator approximate influence functions.
 - [gslab-econ/gslab_r](https://github.com/gslab-econ/gslab_r) - 
 - [setzler/EconData](https://github.com/setzler/EconData) - Data repository and R package to manage publicly-available economics data.
-- [BenCasselman/CPS_Microdata](https://github.com/BenCasselman/CPS_Microdata) - Work with Current Population Survey (basic monthly files) microdata.
 - [erdavis1/RoadColors](https://github.com/erdavis1/RoadColors) - Plot US roads, coloring each by its designation (e.g. Street, Road, Avenue)
 - [alfredgalichon/OTME](https://github.com/alfredgalichon/OTME) - Programs for Optimal Transport Methods in Economics
 - [bcgov/elucidate](https://github.com/bcgov/elucidate) - convenience functions to help researchers elucidate patterns in their data
-- [ropensci/comtradr](https://github.com/ropensci/comtradr) - Functions for Interacting with the UN Comtrade API
 - [munterfinger/hereR](https://github.com/munterfinger/hereR) - R package that provides an interface to the HERE REST APIs: Geocoder API, Routing API, Traffic API, Public Transit API and Destination Weather API. Locations and routes are returned as 'sf' objects.
 - [rlsweeney/Sweeney_RA_Manual](https://github.com/rlsweeney/Sweeney_RA_Manual) - Setup instructions and general best practices for Prof. Sweeney's research projects
 - [kbroman/ProgrammingNotes](https://github.com/kbroman/ProgrammingNotes) - My personal notes on various programming languages and tools
@@ -362,7 +349,6 @@
 
 - [AEADataEditor/replication-template](https://github.com/AEADataEditor/replication-template) - A template for starting a replication/ reproducibility exercise. Note that this repository always contains only the latest version. For specific releases, see https://github.com/AEADataEditor/replication-template-development
 - [lydreiner/Statapackagesearch](https://github.com/lydreiner/Statapackagesearch) - Search for (missing) packages in Stata code using Stata or R
-- [DHSProgram/DHS-Indicators-Stata](https://github.com/DHSProgram/DHS-Indicators-Stata) - Stata code to produce Demographic and Health Survey Indicators
 - [gslab-econ/gslab_stata](https://github.com/gslab-econ/gslab_stata) - 
 - [vikjam/mostly-harmless-replication](https://github.com/vikjam/mostly-harmless-replication) - Replication of tables and figures from "Mostly Harmless Econometrics" in Stata, R, Python and Julia.
 
