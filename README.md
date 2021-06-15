@@ -340,7 +340,7 @@
 - [cemkeylan/mu-wizard](https://github.com/cemkeylan/mu-wizard) - Shell script to easily setup mu4e on Emacs
 - [kidd/org-protocol-github-lines](https://github.com/kidd/org-protocol-github-lines) - Add links in github code views that open files in the given line.
 - [topojson/us-atlas](https://github.com/topojson/us-atlas) - Pre-built TopoJSON from the U.S. Census Bureau.
-- [github/scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Scripts to Rule Them All
+- [github/scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Set of boilerplate scripts describing the normalized script pattern that GitHub uses in its projects.
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 
