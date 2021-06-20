@@ -38,6 +38,7 @@
 
 ## C 
 
+- [visit1985/mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [ofajardo/pyreadr](https://github.com/ofajardo/pyreadr) - Python package to read and write R RData and Rds files into/from pandas dataframes. No R or other external dependencies required.
 
@@ -182,7 +183,7 @@
 
 ## Julia 
 
-- [HariharanJayashankar/Rendahl.jl](https://github.com/HariharanJayashankar/Rendahl.jl) - A DSGE Solver based on Rendahl (2017)
+- [HariharanJayashankar/Rendahl.jl](https://github.com/HariharanJayashankar/Rendahl.jl) - A solver for Linear Rational Expectation Models
 - [jkrumbiegel/Chain.jl](https://github.com/jkrumbiegel/Chain.jl) - A Julia package for piping a value through a series of transformation expressions using a more convenient syntax than Julia's native piping functionality.
 - [floswald/Zurcher.jl](https://github.com/floswald/Zurcher.jl) - Zurcher Package
 - [matthieugomez/Binscatters.jl](https://github.com/matthieugomez/Binscatters.jl) - Stata's Binscatter for Julia
@@ -242,6 +243,7 @@
 
 ## Others 
 
+- [code-econ/awesome-econ](https://github.com/code-econ/awesome-econ) - Curated list of links related to coding in economics
 - [skhiggins/Python_guide](https://github.com/skhiggins/Python_guide) - Python instructions for research projects
 - [higham/what-is](https://github.com/higham/what-is) - Important concepts in numerical analysis and related areas
 - [FavioVazquez/ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) - List of Data Science Cheatsheets to rule the world
@@ -312,6 +314,7 @@
 
 ## R 
 
+- [tidyverse/reprex](https://github.com/tidyverse/reprex) - Render bits of R code for sharing, e.g., on GitHub or StackOverflow.
 - [alastairrushworth/free-data-science](https://github.com/alastairrushworth/free-data-science) - 🛠️ 🌐  Thematic list of high-quality data science resources
 - [AEADataEditor/docker-r-starter](https://github.com/AEADataEditor/docker-r-starter) - This repo provides instructions on how to build an R docker image that can serve as the basis for interactive or automated reproducible processing
 - [matthieugomez/benchmark-stata-r](https://github.com/matthieugomez/benchmark-stata-r) - Speed benchmark of Stata and R on common data manipulations
