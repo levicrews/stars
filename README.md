@@ -199,7 +199,6 @@
 - [GDSL-UL/san](https://github.com/GDSL-UL/san) - Spatial Analysis Notes
 - [iamlemec/data_science](https://github.com/iamlemec/data_science) - Getting started working with data, with applications to economics
 - [mwaugh0328/tradewar-tracker-aws-product-level](https://github.com/mwaugh0328/tradewar-tracker-aws-product-level) - Tradewar Tracker AWS product level code/plots
-- [pysal/spopt](https://github.com/pysal/spopt) - Spatial Optimization
 - [fediskhakov/CompEcon](https://github.com/fediskhakov/CompEcon) - My "Foundations of Computational Economics" course
 - [ledeprogram/data-and-databases](https://github.com/ledeprogram/data-and-databases) - Repository for course materials related to Data and Databases. (Supercedes directories in "courses" repo)
 - [jmbejara/comp-econ-sp19](https://github.com/jmbejara/comp-econ-sp19) - Main Course Repository for Computational Methods in Economics (Econ 21410, Spring 2019)
@@ -243,6 +242,7 @@
 
 ## Others 
 
+- [yangycpku/macro_ML](https://github.com/yangycpku/macro_ML) - Course Website on Macroeconomic Analysis with Machine Learning and Big Data
 - [code-econ/awesome-econ](https://github.com/code-econ/awesome-econ) - Curated list of links related to coding in economics
 - [skhiggins/Python_guide](https://github.com/skhiggins/Python_guide) - Python instructions for research projects
 - [higham/what-is](https://github.com/higham/what-is) - Important concepts in numerical analysis and related areas
@@ -301,6 +301,7 @@
 - [gslab-econ/template](https://github.com/gslab-econ/template) - 
 - [gslab-econ/gslab_python](https://github.com/gslab-econ/gslab_python) - Python tools for GSLab
 - [nschloe/quadpy](https://github.com/nschloe/quadpy) - :triangular_ruler: Numerical integration (quadrature, cubature) in Python
+- [pysal/spopt](https://github.com/pysal/spopt) - Spatial Optimization
 - [kieferk/dfply](https://github.com/kieferk/dfply) - dplyr-style piping operations for pandas dataframes
 - [salesforce/ai-economist](https://github.com/salesforce/ai-economist) - Foundation is a flexible, modular, and composable framework to model socio-economic behaviors and dynamics with both agents and governments. This framework can be used in conjunction with reinforcement learning to learn optimal economic policies, as done by the AI Economist (https://www.einstein.ai/the-ai-economist).
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
