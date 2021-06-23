@@ -242,6 +242,7 @@
 
 ## Others 
 
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - 📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG.
 - [yangycpku/macro_ML](https://github.com/yangycpku/macro_ML) - Course Website on Macroeconomic Analysis with Machine Learning and Big Data
 - [code-econ/awesome-econ](https://github.com/code-econ/awesome-econ) - Curated list of links related to coding in economics
 - [skhiggins/Python_guide](https://github.com/skhiggins/Python_guide) - Python instructions for research projects
@@ -351,7 +352,7 @@
 ## Stata 
 
 - [AEADataEditor/replication-template](https://github.com/AEADataEditor/replication-template) - A template for starting a replication/ reproducibility exercise. Note that this repository always contains only the latest version. For specific releases, see https://github.com/AEADataEditor/replication-template-development
-- [lydreiner/Statapackagesearch](https://github.com/lydreiner/Statapackagesearch) - Search for (missing) packages in Stata code using Stata or R
+- [lydreiner/Statapackagesearch](https://github.com/lydreiner/Statapackagesearch) - Program that searches for (missing) SSC packages used in Stata code
 - [gslab-econ/gslab_stata](https://github.com/gslab-econ/gslab_stata) - 
 - [vikjam/mostly-harmless-replication](https://github.com/vikjam/mostly-harmless-replication) - Replication of tables and figures from "Mostly Harmless Econometrics" in Stata, R, Python and Julia.
 
