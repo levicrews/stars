@@ -27,6 +27,7 @@
   - [R](#r)
   - [Rich Text Format](#rich-text-format)
   - [Ruby](#ruby)
+  - [Rust](#rust)
   - [Shell](#shell)
   - [Stata](#stata)
   - [TeX](#tex)
@@ -70,6 +71,7 @@
 - [abo-abo/pamparam](https://github.com/abo-abo/pamparam) - Simple and fast flashcards for Emacs
 - [mm--/dot-emacs](https://github.com/mm--/dot-emacs) - My Emacs configuration files
 - [ffevotte/slurm.el](https://github.com/ffevotte/slurm.el) - Emacs extension to interact with the SLURM jobs scheduler
+- [bdarcus/bibtex-actions](https://github.com/bdarcus/bibtex-actions) - A package to quickly find and act on bibtex entries using default Emacs completion; especially selectrum with embark.
 - [mskorzhinskiy/org-ql-planning](https://github.com/mskorzhinskiy/org-ql-planning) - 
 - [foxfriday/ink](https://github.com/foxfriday/ink) - LaTeX + Inkscape
 - [d12frosted/vulpea](https://github.com/d12frosted/vulpea) - A collection of functions for note taking based on `org` and `org-roam`.
@@ -242,6 +244,7 @@
 
 ## Others 
 
+- [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - ❗️WIP❗️An open access book on scientific visualization using python and matplotlib
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - 📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG.
 - [yangycpku/macro_ML](https://github.com/yangycpku/macro_ML) - Course Website on Macroeconomic Analysis with Machine Learning and Big Data
 - [code-econ/awesome-econ](https://github.com/code-econ/awesome-econ) - Curated list of links related to coding in economics
@@ -338,6 +341,10 @@
 
 - [samg/timetrap](https://github.com/samg/timetrap) - Simple command line timetracker
 
+## Rust 
+
+- [jblindsay/whitebox-tools](https://github.com/jblindsay/whitebox-tools) - An advanced geospatial data analysis platform
+
 ## Shell 
 
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows 10 Linux Subsystems
@@ -364,7 +371,6 @@
 - [mossr/julia-tufte-beamer](https://github.com/mossr/julia-tufte-beamer) - Tufte-style beamer template with Julia integration
 - [NicDuquette/Beamer-template](https://github.com/NicDuquette/Beamer-template) - Beamer Template
 - [rebekahanne/LaTeX-templates](https://github.com/rebekahanne/LaTeX-templates) - 
-- [bdarcus/bibtex-actions](https://github.com/bdarcus/bibtex-actions) - A package to quickly find and act on bibtex entries using default Emacs completion; especially selectrum with embark.
 - [agoldst/tex](https://github.com/agoldst/tex) - Miscellaneous tex-related files
 - [paulgp/applied-methods-phd](https://github.com/paulgp/applied-methods-phd) - Repo for Yale Applied Empirical Methods PHD Course
 - [sisl/tufte_algorithms_book](https://github.com/sisl/tufte_algorithms_book) - A template for textbooks in the same style as Algorithms for Optimization
