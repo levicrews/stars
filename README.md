@@ -372,7 +372,6 @@
 - [NicDuquette/Beamer-template](https://github.com/NicDuquette/Beamer-template) - Beamer Template
 - [rebekahanne/LaTeX-templates](https://github.com/rebekahanne/LaTeX-templates) - 
 - [agoldst/tex](https://github.com/agoldst/tex) - Miscellaneous tex-related files
-- [paulgp/applied-methods-phd](https://github.com/paulgp/applied-methods-phd) - Repo for Yale Applied Empirical Methods PHD Course
 - [sisl/tufte_algorithms_book](https://github.com/sisl/tufte_algorithms_book) - A template for textbooks in the same style as Algorithms for Optimization
 - [alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
 - [kjhealy/pandoc-templates](https://github.com/kjhealy/pandoc-templates) - Some templates for Pandoc.
