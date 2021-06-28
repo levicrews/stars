@@ -358,6 +358,7 @@
 
 ## Stata 
 
+- [haghish/github](https://github.com/haghish/github) - a module for building, searching, installing, managing, and mining Stata packages from GitHub
 - [AEADataEditor/replication-template](https://github.com/AEADataEditor/replication-template) - A template for starting a replication/ reproducibility exercise. Note that this repository always contains only the latest version. For specific releases, see https://github.com/AEADataEditor/replication-template-development
 - [lydreiner/Statapackagesearch](https://github.com/lydreiner/Statapackagesearch) - Program that searches for (missing) SSC packages used in Stata code
 - [gslab-econ/gslab_stata](https://github.com/gslab-econ/gslab_stata) - 
@@ -389,6 +390,7 @@
 
 ## TypeScript 
 
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [andymatuschak/orbit](https://github.com/andymatuschak/orbit) - Experimental spaced repetition platform for exploring ideas in memory augmentation and programmable attention
 - [rasendubi/uniorg](https://github.com/rasendubi/uniorg) - An accurate Org-mode parser
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
