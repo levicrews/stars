@@ -193,6 +193,7 @@
 
 ## Jupyter Notebook 
 
+- [keplergl/kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
 - [FuZhiyu/FTPL_in_cnts_time](https://github.com/FuZhiyu/FTPL_in_cnts_time) - 
 - [mwaugh0328/julia-eaton-kortum](https://github.com/mwaugh0328/julia-eaton-kortum) - julia version of eaton and kortum (2002)
 - [microsoft/gather](https://github.com/microsoft/gather) - Spit shine for Jupyter notebooks 🧽✨
@@ -274,6 +275,7 @@
 
 ## Python 
 
+- [cverluise/patentcity](https://github.com/cverluise/patentcity) - Innovation across ages
 - [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
 - [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker) - Turn repositories into Jupyter-enabled Docker images
 - [medialab/minet](https://github.com/medialab/minet) - A webmining CLI tool & library for python.
