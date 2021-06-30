@@ -9,6 +9,7 @@
   - [C](#c)
   - [C++](#c++)
   - [CSS](#css)
+  - [CartoCSS](#cartocss)
   - [Common Lisp](#common-lisp)
   - [Emacs Lisp](#emacs-lisp)
   - [Go](#go)
@@ -32,6 +33,7 @@
   - [Stata](#stata)
   - [TeX](#tex)
   - [TypeScript](#typescript)
+  - [XSLT](#xslt)
 
 ## AMPL 
 
@@ -55,6 +57,10 @@
 - [lemonmade/bigfoot](https://github.com/lemonmade/bigfoot) - A jQuery plugin for creating exceptional footnotes.
 - [tlamadon/econr-notes](https://github.com/tlamadon/econr-notes) - Notes on solving and estimating economic model with heterogeneous agents using R and C++
 - [DataUSA/datausa-tutorials](https://github.com/DataUSA/datausa-tutorials) - Holds tutorials for how to build things with the Data USA API and embedded visualizations.
+
+## CartoCSS 
+
+- [gravitystorm/openstreetmap-carto](https://github.com/gravitystorm/openstreetmap-carto) - A general-purpose OpenStreetMap mapnik style, in CartoCSS
 
 ## Common Lisp 
 
@@ -275,6 +281,10 @@
 
 ## Python 
 
+- [onyxfish/workbench-census-bureau](https://github.com/onyxfish/workbench-census-bureau) - A workbench module to load data for the US Census Bureau API
+- [wireservice/csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats.
+- [wireservice/proof](https://github.com/wireservice/proof) - A Python library for creating fast, repeatable and self-documenting data analysis pipelines.
+- [wireservice/agate](https://github.com/wireservice/agate) - A Python data analysis library that is optimized for humans instead of machines.
 - [cverluise/patentcity](https://github.com/cverluise/patentcity) - Innovation across ages
 - [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
 - [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker) - Turn repositories into Jupyter-enabled Docker images
@@ -396,6 +406,10 @@
 - [andymatuschak/orbit](https://github.com/andymatuschak/orbit) - Experimental spaced repetition platform for exploring ideas in memory augmentation and programmable attention
 - [rasendubi/uniorg](https://github.com/rasendubi/uniorg) - An accurate Org-mode parser
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
+
+## XSLT 
+
+- [mapnik/mapnik](https://github.com/mapnik/mapnik) - Mapnik is an open source toolkit for developing mapping applications
 
 
 ## License
