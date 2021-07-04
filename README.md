@@ -6,10 +6,8 @@
 ## Contents
 
   - [AMPL](#ampl)
-  - [C](#c)
   - [C++](#c++)
   - [CSS](#css)
-  - [CartoCSS](#cartocss)
   - [Common Lisp](#common-lisp)
   - [Emacs Lisp](#emacs-lisp)
   - [Go](#go)
@@ -38,12 +36,6 @@
 
 - [JohannesPfeifer/DSGE_mod](https://github.com/JohannesPfeifer/DSGE_mod) - A collection of Dynare models
 
-## C 
-
-- [visit1985/mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
-- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
-- [ofajardo/pyreadr](https://github.com/ofajardo/pyreadr) - Python package to read and write R RData and Rds files into/from pandas dataframes. No R or other external dependencies required.
-
 ## C++ 
 
 - [mapnik/mapnik](https://github.com/mapnik/mapnik) - Mapnik is an open source toolkit for developing mapping applications
@@ -58,16 +50,13 @@
 - [tlamadon/econr-notes](https://github.com/tlamadon/econr-notes) - Notes on solving and estimating economic model with heterogeneous agents using R and C++
 - [DataUSA/datausa-tutorials](https://github.com/DataUSA/datausa-tutorials) - Holds tutorials for how to build things with the Data USA API and embedded visualizations.
 
-## CartoCSS 
-
-- [gravitystorm/openstreetmap-carto](https://github.com/gravitystorm/openstreetmap-carto) - A general-purpose OpenStreetMap mapnik style, in CartoCSS
-
 ## Common Lisp 
 
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the Internet on your terms.
 
 ## Emacs Lisp 
 
+- [veelenga/carbon-now-sh.el](https://github.com/veelenga/carbon-now-sh.el) - Emacs to https://carbon.now.sh integration
 - [emacsorphanage/anzu](https://github.com/emacsorphanage/anzu) - Emacs Port of anzu.vim
 - [alphapapa/org-web-tools](https://github.com/alphapapa/org-web-tools) - View, capture, and archive Web pages in Org-mode
 - [tecosaur/emacs-everywhere](https://github.com/tecosaur/emacs-everywhere) - System-wide popup Emacs windows for quick edits
@@ -143,7 +132,6 @@
 
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
-- [wakatara/harsh](https://github.com/wakatara/harsh) - Habit tracking for geeks. A minimalist, command line tool for tracking and understanding your habits.
 
 ## HTML 
 
@@ -166,7 +154,6 @@
 ## Java 
 
 - [sylvainhalle/textidote](https://github.com/sylvainhalle/textidote) - Spelling, grammar and style checking on LaTeX documents
-- [korv/Jabref-plugins](https://github.com/korv/Jabref-plugins) - 
 
 ## JavaScript 
 
@@ -178,10 +165,7 @@
 - [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
 - [ankitrohatgi/WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer) - HTML5 based online tool to extract numerical data from plot images.
 - [amyxzhang/wikum](https://github.com/amyxzhang/wikum) - tool for collectively summarizing large discussions
-- [gillescastel/how2](https://github.com/gillescastel/how2) - stackoverflow from the terminal
 - [topojson/topojson](https://github.com/topojson/topojson) - An extension of GeoJSON that encodes topology! 🌐
-- [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
-- [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [johno/digital-garden](https://github.com/johno/digital-garden) - 🌻[WIP] Gatsby Theme to build your own digital garden 🌻🥀🌸
 - [the-pudding/starter](https://github.com/the-pudding/starter) - A starter template for projects.
@@ -252,7 +236,6 @@
 ## Others 
 
 - [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - ❗️WIP❗️An open access book on scientific visualization using python and matplotlib
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - 📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG.
 - [yangycpku/macro_ML](https://github.com/yangycpku/macro_ML) - Course Website on Macroeconomic Analysis with Machine Learning and Big Data
 - [code-econ/awesome-econ](https://github.com/code-econ/awesome-econ) - Curated list of links related to coding in economics
 - [skhiggins/Python_guide](https://github.com/skhiggins/Python_guide) - Python instructions for research projects
@@ -264,7 +247,6 @@
 - [colbyfayock/50-projects-for-react-and-the-static-web](https://github.com/colbyfayock/50-projects-for-react-and-the-static-web) - ⚛ 50 project ideas to learn by doing complete with project briefs, layout ideas, and resources!
 - [the-pudding/FYI](https://github.com/the-pudding/FYI) - Documentation on processes, tips and tricks.
 - [nushackers/notes-to-cs-freshmen-from-the-future](https://github.com/nushackers/notes-to-cs-freshmen-from-the-future) - Notes to (NUS) Computer Science Freshmen, From The Future (Original by @ejamesc)
-- [OpportunityInsights/EconomicTracker](https://github.com/OpportunityInsights/EconomicTracker) - Download data from the Opportunity Insights Economic Tracker — https://tracktherecovery.org/
 - [aaumaitre/maps_Spain](https://github.com/aaumaitre/maps_Spain) - plotting tutorial for maps of Spain with ggplot2
 - [jfiksel/github-classroom-for-teachers](https://github.com/jfiksel/github-classroom-for-teachers) - 
 - [mikecroucher/Git_Academic_Benefits](https://github.com/mikecroucher/Git_Academic_Benefits) - Academic Benefits of Using Version Control
@@ -288,7 +270,6 @@
 - [cverluise/patentcity](https://github.com/cverluise/patentcity) - Innovation across ages
 - [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
 - [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker) - Turn repositories into Jupyter-enabled Docker images
-- [medialab/minet](https://github.com/medialab/minet) - A webmining CLI tool & library for python.
 - [johnjosephhorton/texscrap](https://github.com/johnjosephhorton/texscrap) - Python utility for making PDFs out of scraps of LaTeX.
 - [Layout-Parser/layout-parser](https://github.com/Layout-Parser/layout-parser) - A unified toolkit for Deep Learning Based Document Image Analysis
 - [riceissa/spaced-inbox](https://github.com/riceissa/spaced-inbox) - A minimal spaced writing inbox
