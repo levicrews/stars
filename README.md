@@ -56,6 +56,7 @@
 
 ## Emacs Lisp 
 
+- [mclear-tools/bespoke-themes](https://github.com/mclear-tools/bespoke-themes) - 
 - [veelenga/carbon-now-sh.el](https://github.com/veelenga/carbon-now-sh.el) - Emacs to https://carbon.now.sh integration
 - [emacsorphanage/anzu](https://github.com/emacsorphanage/anzu) - Emacs Port of anzu.vim
 - [alphapapa/org-web-tools](https://github.com/alphapapa/org-web-tools) - View, capture, and archive Web pages in Org-mode
