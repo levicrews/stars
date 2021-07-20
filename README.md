@@ -38,6 +38,7 @@
 
 ## C++ 
 
+- [GeoDaCenter/geoda](https://github.com/GeoDaCenter/geoda) - GeoDa: An introduction to spatial data analysis
 - [mapnik/mapnik](https://github.com/mapnik/mapnik) - Mapnik is an open source toolkit for developing mapping applications
 - [qgis/QGIS](https://github.com/qgis/QGIS) - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
@@ -354,6 +355,7 @@
 
 ## Stata 
 
+- [sergiocorreia/stata-require](https://github.com/sergiocorreia/stata-require) - Ensure package requirements are met
 - [haghish/github](https://github.com/haghish/github) - a module for building, searching, installing, managing, and mining Stata packages from GitHub
 - [AEADataEditor/replication-template](https://github.com/AEADataEditor/replication-template) - A template for starting a replication/ reproducibility exercise. Note that this repository always contains only the latest version. For specific releases, see https://github.com/AEADataEditor/replication-template-development
 - [lydreiner/Statapackagesearch](https://github.com/lydreiner/Statapackagesearch) - Program that searches for (missing) SSC packages used in Stata code
