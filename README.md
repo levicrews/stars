@@ -6,6 +6,7 @@
 ## Contents
 
   - [AMPL](#ampl)
+  - [C](#c)
   - [C++](#c++)
   - [CSS](#css)
   - [Common Lisp](#common-lisp)
@@ -35,6 +36,10 @@
 ## AMPL 
 
 - [JohannesPfeifer/DSGE_mod](https://github.com/JohannesPfeifer/DSGE_mod) - A collection of Dynare models
+
+## C 
+
+- [vedang/pdf-tools](https://github.com/vedang/pdf-tools) - Emacs support library for PDF files.
 
 ## C++ 
 
@@ -388,6 +393,7 @@
 
 ## TypeScript 
 
+- [andymatuschak/note-link-janitor](https://github.com/andymatuschak/note-link-janitor) - Maintains backlink structure among interlinked Markdown notes
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [andymatuschak/orbit](https://github.com/andymatuschak/orbit) - Experimental spaced repetition platform for exploring ideas in memory augmentation and programmable attention
 - [rasendubi/uniorg](https://github.com/rasendubi/uniorg) - An accurate Org-mode parser
