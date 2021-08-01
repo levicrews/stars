@@ -39,6 +39,7 @@
 
 ## C 
 
+- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [vedang/pdf-tools](https://github.com/vedang/pdf-tools) - Emacs support library for PDF files.
 
 ## C++ 
@@ -347,6 +348,7 @@
 
 ## Rust 
 
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [jblindsay/whitebox-tools](https://github.com/jblindsay/whitebox-tools) - An advanced geospatial data analysis platform
 
 ## Shell 
@@ -362,6 +364,7 @@
 
 ## Stata 
 
+- [reifjulian/my-project](https://github.com/reifjulian/my-project) - Sample Replication Package
 - [sergiocorreia/stata-require](https://github.com/sergiocorreia/stata-require) - Ensure package requirements are met
 - [haghish/github](https://github.com/haghish/github) - a module for building, searching, installing, managing, and mining Stata packages from GitHub
 - [AEADataEditor/replication-template](https://github.com/AEADataEditor/replication-template) - A template for starting a replication/ reproducibility exercise. Note that this repository always contains only the latest version. For specific releases, see https://github.com/AEADataEditor/replication-template-development
