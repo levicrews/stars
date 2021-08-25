@@ -196,6 +196,8 @@
 
 ## Jupyter Notebook 
 
+- [ruhl0029/us-import-data](https://github.com/ruhl0029/us-import-data) - 
+- [dseconf/DSE2021](https://github.com/dseconf/DSE2021) - 
 - [keplergl/kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
 - [FuZhiyu/FTPL_in_cnts_time](https://github.com/FuZhiyu/FTPL_in_cnts_time) - 
 - [mwaugh0328/julia-eaton-kortum](https://github.com/mwaugh0328/julia-eaton-kortum) - julia version of eaton and kortum (2002)
