@@ -189,6 +189,7 @@
 
 ## Julia 
 
+- [jo-fleck/Taxsim.jl](https://github.com/jo-fleck/Taxsim.jl) - Connecting Julia to the Tax Calculator of the National Bureau of Economic Research (NBER)
 - [JuliaIntervals/IntervalRootFinding.jl](https://github.com/JuliaIntervals/IntervalRootFinding.jl) - Find all roots of a function in a guaranteed way with Julia
 - [HariharanJayashankar/Rendahl.jl](https://github.com/HariharanJayashankar/Rendahl.jl) - A solver for Linear Rational Expectation Models
 - [jkrumbiegel/Chain.jl](https://github.com/jkrumbiegel/Chain.jl) - A Julia package for piping a value through a series of transformation expressions using a more convenient syntax than Julia's native piping functionality.
