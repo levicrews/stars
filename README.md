@@ -63,6 +63,7 @@
 
 ## Emacs Lisp 
 
+- [kiwanami/emacs-calfw](https://github.com/kiwanami/emacs-calfw) - A calendar framework for Emacs
 - [jkitchin/org-ref-cite](https://github.com/jkitchin/org-ref-cite) - An org-cite processor that is like org-ref.
 - [ag91/emacs-with-nyxt](https://github.com/ag91/emacs-with-nyxt) - Some code to make Emacs interact with Nyxt
 - [mclear-tools/bespoke-themes](https://github.com/mclear-tools/bespoke-themes) - 
