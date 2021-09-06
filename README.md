@@ -18,10 +18,12 @@
   - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
   - [MATLAB](#matlab)
+  - [Makefile](#makefile)
   - [Mathematica](#mathematica)
   - [Matlab](#matlab)
   - [Objective-C](#objective-c)
   - [Others](#others)
+  - [PostScript](#postscript)
   - [PowerShell](#powershell)
   - [Python](#python)
   - [R](#r)
@@ -148,6 +150,7 @@
 
 ## HTML 
 
+- [bschlagel/canonize](https://github.com/bschlagel/canonize) - Template for a "personal canon" website page.
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [AloisJanicek/org-roam-server-light](https://github.com/AloisJanicek/org-roam-server-light) - compatible org-roam-server written in python for better performance with large network graphs
 - [Alalalalaki/Guide2EconRA](https://github.com/Alalalalaki/Guide2EconRA) - 
@@ -201,6 +204,7 @@
 
 ## Jupyter Notebook 
 
+- [rickecon/StructEst_W20](https://github.com/rickecon/StructEst_W20) - MACS 40200 (Winter 2020): Structural Estimation
 - [ruhl0029/us-import-data](https://github.com/ruhl0029/us-import-data) - 
 - [dseconf/DSE2021](https://github.com/dseconf/DSE2021) - 
 - [keplergl/kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
@@ -239,6 +243,10 @@
 - [naffe15/BVAR_](https://github.com/naffe15/BVAR_) - Empirical macro toolbox
 - [jesusfv/financial-frictions](https://github.com/jesusfv/financial-frictions) - Interactive guide to Fernández-Villaverde, Hurtado, and Nuño (2019): "Financial Frictions and the Wealth Distribution".
 
+## Makefile 
+
+- [jduckles/dsskills](https://github.com/jduckles/dsskills) - A skills matrix for Applied Data Science in Research
+
 ## Mathematica 
 
 - [KennethJudd/CompEcon2020](https://github.com/KennethJudd/CompEcon2020) - Computational Economics Course 2020 by Kenneth Judd
@@ -255,6 +263,7 @@
 
 ## Others 
 
+- [dianakimball/mentoring](https://github.com/dianakimball/mentoring) - The source of a distributed mentoring movement.
 - [cs-books/influential-cs-books](https://github.com/cs-books/influential-cs-books) - Most influential books on Computer Science/programming
 - [chrisdone/elisp-guide](https://github.com/chrisdone/elisp-guide) - A quick guide to Emacs Lisp programming
 - [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
@@ -279,6 +288,10 @@
 - [jtleek/datasharing](https://github.com/jtleek/datasharing) - The Leek group guide to data sharing
 - [gslab-econ/ra-manual](https://github.com/gslab-econ/ra-manual) - 
 - [johnerichumphries/JuliaByExample](https://github.com/johnerichumphries/JuliaByExample) - Collection of Julia (Julia Lang) Examples
+
+## PostScript 
+
+- [skhiggins/R_guide](https://github.com/skhiggins/R_guide) - R instructions for our research projects
 
 ## PowerShell 
 
