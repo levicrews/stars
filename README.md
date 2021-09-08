@@ -263,6 +263,7 @@
 
 ## Others 
 
+- [pascalmichaillat/intermediate-macro](https://github.com/pascalmichaillat/intermediate-macro) - This repository contains all the material for a one-semester intermediate-macro course. No textbook required.
 - [dianakimball/mentoring](https://github.com/dianakimball/mentoring) - The source of a distributed mentoring movement.
 - [cs-books/influential-cs-books](https://github.com/cs-books/influential-cs-books) - Most influential books on Computer Science/programming
 - [chrisdone/elisp-guide](https://github.com/chrisdone/elisp-guide) - A quick guide to Emacs Lisp programming
