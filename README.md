@@ -194,6 +194,7 @@
 
 ## Julia 
 
+- [mossr/BeautifulAlgorithms.jl](https://github.com/mossr/BeautifulAlgorithms.jl) - Concise and beautiful algorithms written in Julia
 - [jo-fleck/Taxsim.jl](https://github.com/jo-fleck/Taxsim.jl) - Connecting Julia to the Tax Calculator of the National Bureau of Economic Research (NBER)
 - [JuliaIntervals/IntervalRootFinding.jl](https://github.com/JuliaIntervals/IntervalRootFinding.jl) - Find all roots of a function in a guaranteed way with Julia
 - [HariharanJayashankar/Rendahl.jl](https://github.com/HariharanJayashankar/Rendahl.jl) - A solver for Linear Rational Expectation Models
@@ -287,7 +288,6 @@
 - [abiodunjames/Awesome-Clean-Code-Resources](https://github.com/abiodunjames/Awesome-Clean-Code-Resources) - An awesome curated list of clean code posts, books and videos
 - [sacridini/Awesome-Geospatial](https://github.com/sacridini/Awesome-Geospatial) - Long list of geospatial tools and resources
 - [jtleek/datasharing](https://github.com/jtleek/datasharing) - The Leek group guide to data sharing
-- [gslab-econ/ra-manual](https://github.com/gslab-econ/ra-manual) - 
 - [johnerichumphries/JuliaByExample](https://github.com/johnerichumphries/JuliaByExample) - Collection of Julia (Julia Lang) Examples
 
 ## PostScript 
@@ -300,6 +300,7 @@
 
 ## Python 
 
+- [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [anishathalye/git-remote-dropbox](https://github.com/anishathalye/git-remote-dropbox) - A transparent bridge between Git and Dropbox - use a Dropbox (shared) folder as a Git remote! 🎁
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [knaaptime/incseg_app](https://github.com/knaaptime/incseg_app) - 
@@ -338,8 +339,6 @@
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [Cimbali/pympress](https://github.com/Cimbali/pympress) - Pympress is a simple yet powerful PDF reader designed for dual-screen presentations
 - [coin-or/pulp](https://github.com/coin-or/pulp) - A python Linear Programming API
-- [gslab-econ/template](https://github.com/gslab-econ/template) - 
-- [gslab-econ/gslab_python](https://github.com/gslab-econ/gslab_python) - Python tools for GSLab
 - [nschloe/quadpy](https://github.com/nschloe/quadpy) - :triangular_ruler: Numerical integration (quadrature, cubature) in Python
 - [pysal/spopt](https://github.com/pysal/spopt) - Spatial Optimization
 - [kieferk/dfply](https://github.com/kieferk/dfply) - dplyr-style piping operations for pandas dataframes
@@ -361,7 +360,6 @@
 - [AEADataEditor/docker-r-starter](https://github.com/AEADataEditor/docker-r-starter) - This repo provides instructions on how to build an R docker image that can serve as the basis for interactive or automated reproducible processing
 - [matthieugomez/benchmark-stata-r](https://github.com/matthieugomez/benchmark-stata-r) - Speed benchmark of Stata and R on common data manipulations
 - [rgiordan/zaminfluence](https://github.com/rgiordan/zaminfluence) - Tools in R for computing and using Z-estimator approximate influence functions.
-- [gslab-econ/gslab_r](https://github.com/gslab-econ/gslab_r) - 
 - [setzler/EconData](https://github.com/setzler/EconData) - Data repository and R package to manage publicly-available economics data.
 - [erdavis1/RoadColors](https://github.com/erdavis1/RoadColors) - Plot US roads, coloring each by its designation (e.g. Street, Road, Avenue)
 - [alfredgalichon/OTME](https://github.com/alfredgalichon/OTME) - Programs for Optimal Transport Methods in Economics
@@ -404,7 +402,6 @@
 - [haghish/github](https://github.com/haghish/github) - a module for building, searching, installing, managing, and mining Stata packages from GitHub
 - [AEADataEditor/replication-template](https://github.com/AEADataEditor/replication-template) - A template for starting a replication/ reproducibility exercise. Note that this repository always contains only the latest version. For specific releases, see https://github.com/AEADataEditor/replication-template-development
 - [lydreiner/Statapackagesearch](https://github.com/lydreiner/Statapackagesearch) - Program that searches for (missing) SSC packages used in Stata code
-- [gslab-econ/gslab_stata](https://github.com/gslab-econ/gslab_stata) - 
 - [vikjam/mostly-harmless-replication](https://github.com/vikjam/mostly-harmless-replication) - Replication of tables and figures from "Mostly Harmless Econometrics" in Stata, R, Python and Julia.
 
 ## TeX 
