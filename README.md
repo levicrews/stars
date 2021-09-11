@@ -309,7 +309,6 @@
 - [jupyter/nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
 - [onyxfish/workbench-census-bureau](https://github.com/onyxfish/workbench-census-bureau) - A workbench module to load data for the US Census Bureau API
 - [wireservice/csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats.
-- [wireservice/proof](https://github.com/wireservice/proof) - A Python library for creating fast, repeatable and self-documenting data analysis pipelines.
 - [wireservice/agate](https://github.com/wireservice/agate) - A Python data analysis library that is optimized for humans instead of machines.
 - [cverluise/patentcity](https://github.com/cverluise/patentcity) - Innovation across ages
 - [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
