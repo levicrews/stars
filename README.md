@@ -176,6 +176,7 @@
 
 - [thesephist/monocle](https://github.com/thesephist/monocle) - Universal personal search engine, powered by a full text search algorithm written in pure Ink, indexing Linus's blogs and private note archives, contacts, tweets, and over a decade of journals.
 - [distillpub/template](https://github.com/distillpub/template) - This is the repository for the distill web framework
+- [keplergl/kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
 - [stsquad/emacs_chrome](https://github.com/stsquad/emacs_chrome) - A Chromium "clone" of It's All Text for spawning an editor to edit text areas in browsers. Based on David Hilley's original Chromium extension.
 - [gopasspw/gopassbridge](https://github.com/gopasspw/gopassbridge) - A web extension for firefox and chrome to insert login credentials from gopass
 - [aravindballa/gatsby-theme-andy](https://github.com/aravindballa/gatsby-theme-andy) - A Gatsby theme to build Andy style websites. 📑
@@ -208,7 +209,6 @@
 - [rickecon/StructEst_W20](https://github.com/rickecon/StructEst_W20) - MACS 40200 (Winter 2020): Structural Estimation
 - [ruhl0029/us-import-data](https://github.com/ruhl0029/us-import-data) - 
 - [dseconf/DSE2021](https://github.com/dseconf/DSE2021) - 
-- [keplergl/kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
 - [FuZhiyu/FTPL_in_cnts_time](https://github.com/FuZhiyu/FTPL_in_cnts_time) - 
 - [mwaugh0328/julia-eaton-kortum](https://github.com/mwaugh0328/julia-eaton-kortum) - julia version of eaton and kortum (2002)
 - [microsoft/gather](https://github.com/microsoft/gather) - Spit shine for Jupyter notebooks 🧽✨
