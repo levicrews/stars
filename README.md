@@ -393,6 +393,7 @@
 
 ## Stata 
 
+- [jankabatek/statapack](https://github.com/jankabatek/statapack) - A collection of handy Stata programs for empirical analyses
 - [nppackages/binsreg](https://github.com/nppackages/binsreg) - Partition selection, point estimation, pointwise and uniform inference, and graphical procedures using binscatter methods.
 - [reifjulian/my-project](https://github.com/reifjulian/my-project) - Sample Replication Package
 - [sergiocorreia/stata-require](https://github.com/sergiocorreia/stata-require) - Ensure package requirements are met
