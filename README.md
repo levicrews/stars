@@ -46,6 +46,7 @@
 
 ## C++ 
 
+- [sischei/global_solution_yale19](https://github.com/sischei/global_solution_yale19) - 
 - [GeoDaCenter/geoda](https://github.com/GeoDaCenter/geoda) - GeoDa: An introduction to spatial data analysis
 - [mapnik/mapnik](https://github.com/mapnik/mapnik) - Mapnik is an open source toolkit for developing mapping applications
 - [qgis/QGIS](https://github.com/qgis/QGIS) - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
@@ -173,6 +174,7 @@
 
 ## JavaScript 
 
+- [astefanutti/decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations
 - [thesephist/monocle](https://github.com/thesephist/monocle) - Universal personal search engine, powered by a full text search algorithm written in pure Ink, indexing Linus's blogs and private note archives, contacts, tweets, and over a decade of journals.
 - [distillpub/template](https://github.com/distillpub/template) - This is the repository for the distill web framework
 - [keplergl/kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
@@ -194,6 +196,7 @@
 
 ## Julia 
 
+- [tlienart/Franklin.jl](https://github.com/tlienart/Franklin.jl) - (yet another) static site generator. Simple, customisable, fast, maths with KaTeX, code evaluation, optional pre-rendering, in Julia.
 - [mossr/BeautifulAlgorithms.jl](https://github.com/mossr/BeautifulAlgorithms.jl) - Concise and beautiful algorithms written in Julia
 - [jo-fleck/Taxsim.jl](https://github.com/jo-fleck/Taxsim.jl) - Connecting Julia to the Tax Calculator of the National Bureau of Economic Research (NBER)
 - [JuliaIntervals/IntervalRootFinding.jl](https://github.com/JuliaIntervals/IntervalRootFinding.jl) - Find all roots of a function in a guaranteed way with Julia
