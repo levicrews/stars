@@ -209,7 +209,6 @@
 
 ## Jupyter Notebook 
 
-- [pandas-profiling/pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 - [rickecon/StructEst_W20](https://github.com/rickecon/StructEst_W20) - MACS 40200 (Winter 2020): Structural Estimation
 - [ruhl0029/us-import-data](https://github.com/ruhl0029/us-import-data) - 
 - [dseconf/DSE2021](https://github.com/dseconf/DSE2021) - 
