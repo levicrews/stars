@@ -120,7 +120,7 @@
 - [Silex/elmacro](https://github.com/Silex/elmacro) - Package to display keyboard macros or latest interactive commands as emacs lisp.
 - [arcticicestudio/nord-emacs](https://github.com/arcticicestudio/nord-emacs) - An arctic, north-bluish clean and elegant Emacs theme.
 - [edrx/eev](https://github.com/edrx/eev) - a tool for automating almost everything (with Emacs)
-- [countvajhula/rigpa](https://github.com/countvajhula/rigpa) - Modular editing levels and towers
+- [countvajhula/rigpa](https://github.com/countvajhula/rigpa) - A metacircular modal interface framework.
 - [abo-abo/avy](https://github.com/abo-abo/avy) - Jump to things in Emacs tree-style
 - [noctuid/general.el](https://github.com/noctuid/general.el) - More convenient key definitions in emacs
 - [bbatsov/crux](https://github.com/bbatsov/crux) - A Collection of Ridiculously Useful eXtensions for Emacs
@@ -303,6 +303,7 @@
 
 ## Python 
 
+- [leo-editor/leo-editor](https://github.com/leo-editor/leo-editor) - Leo is an Outliner, Editor, IDE and PIM written in 100% Python.
 - [aeturrell/skimpy](https://github.com/aeturrell/skimpy) - skimpy is a light weight tool that provides summary statistics about variables in data frames within the console.
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
 - [pandera-dev/pandera](https://github.com/pandera-dev/pandera) - A light-weight, flexible, and expressive pandas data validation library
@@ -385,6 +386,7 @@
 
 ## Rust 
 
+- [adam-mcdaniel/dune](https://github.com/adam-mcdaniel/dune) - A shell by the beach!
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [jblindsay/whitebox-tools](https://github.com/jblindsay/whitebox-tools) - An advanced geospatial data analysis platform
