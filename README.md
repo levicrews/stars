@@ -67,6 +67,7 @@
 
 ## Emacs Lisp 
 
+- [ThomasFKJorna/org-roam-timestamps](https://github.com/ThomasFKJorna/org-roam-timestamps) - Add modified and creation timestamps to the org-roam property drawer
 - [kiwanami/emacs-calfw](https://github.com/kiwanami/emacs-calfw) - A calendar framework for Emacs
 - [jkitchin/org-ref-cite](https://github.com/jkitchin/org-ref-cite) - An org-cite processor that is like org-ref.
 - [ag91/emacs-with-nyxt](https://github.com/ag91/emacs-with-nyxt) - Some code to make Emacs interact with Nyxt
@@ -120,7 +121,7 @@
 - [Silex/elmacro](https://github.com/Silex/elmacro) - Package to display keyboard macros or latest interactive commands as emacs lisp.
 - [arcticicestudio/nord-emacs](https://github.com/arcticicestudio/nord-emacs) - An arctic, north-bluish clean and elegant Emacs theme.
 - [edrx/eev](https://github.com/edrx/eev) - a tool for automating almost everything (with Emacs)
-- [countvajhula/rigpa](https://github.com/countvajhula/rigpa) - A metacircular modal interface framework.
+- [countvajhula/rigpa](https://github.com/countvajhula/rigpa) - A metacircular modal UI framework.
 - [abo-abo/avy](https://github.com/abo-abo/avy) - Jump to things in Emacs tree-style
 - [noctuid/general.el](https://github.com/noctuid/general.el) - More convenient key definitions in emacs
 - [bbatsov/crux](https://github.com/bbatsov/crux) - A Collection of Ridiculously Useful eXtensions for Emacs
@@ -171,6 +172,7 @@
 
 ## Java 
 
+- [metafacture/metafacture-core](https://github.com/metafacture/metafacture-core) - Core package of the Metafacture tool suite for metadata processing.
 - [sylvainhalle/textidote](https://github.com/sylvainhalle/textidote) - Spelling, grammar and style checking on LaTeX documents
 
 ## JavaScript 
