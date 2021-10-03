@@ -372,7 +372,7 @@
 - [erdavis1/RoadColors](https://github.com/erdavis1/RoadColors) - Plot US roads, coloring each by its designation (e.g. Street, Road, Avenue)
 - [alfredgalichon/OTME](https://github.com/alfredgalichon/OTME) - Programs for Optimal Transport Methods in Economics
 - [bcgov/elucidate](https://github.com/bcgov/elucidate) - convenience functions to help researchers elucidate patterns in their data
-- [munterfinger/hereR](https://github.com/munterfinger/hereR) - R package that provides an interface to the HERE REST APIs: Geocoder API, Routing API, Traffic API, Public Transit API and Destination Weather API. Locations and routes are returned as 'sf' objects.
+- [munterfi/hereR](https://github.com/munterfi/hereR) - R package that provides an interface to the HERE REST APIs: Geocoder API, Routing API, Traffic API, Public Transit API and Destination Weather API. Locations and routes are returned as 'sf' objects.
 - [rlsweeney/Sweeney_RA_Manual](https://github.com/rlsweeney/Sweeney_RA_Manual) - Setup instructions and general best practices for Prof. Sweeney's research projects
 - [kbroman/ProgrammingNotes](https://github.com/kbroman/ProgrammingNotes) - My personal notes on various programming languages and tools
 
