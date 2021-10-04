@@ -387,7 +387,7 @@
 
 ## Rust 
 
-- [adam-mcdaniel/dune](https://github.com/adam-mcdaniel/dune) - A shell by the beach!
+- [adam-mcdaniel/dune](https://github.com/adam-mcdaniel/dune) - A shell🐚 by the beach🏖️!
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [jblindsay/whitebox-tools](https://github.com/jblindsay/whitebox-tools) - An advanced geospatial data analysis platform
