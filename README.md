@@ -82,7 +82,7 @@
 - [abo-abo/pamparam](https://github.com/abo-abo/pamparam) - Simple and fast flashcards for Emacs
 - [mm--/dot-emacs](https://github.com/mm--/dot-emacs) - My Emacs configuration files
 - [ffevotte/slurm.el](https://github.com/ffevotte/slurm.el) - Emacs extension to interact with the SLURM jobs scheduler
-- [bdarcus/bibtex-actions](https://github.com/bdarcus/bibtex-actions) - A package to quickly find and act on bibtex entries using default Emacs completion; especially selectrum/vertico with embark.
+- [bdarcus/bibtex-actions](https://github.com/bdarcus/bibtex-actions) - A package to quickly find and act on BibTeX, BibLaTeX and CSL JSON entries using default Emacs completion; especially Selectrum/Vertico with Consult and Embark.
 - [mskorzhinskiy/org-ql-planning](https://github.com/mskorzhinskiy/org-ql-planning) - 
 - [foxfriday/ink](https://github.com/foxfriday/ink) - LaTeX + Inkscape
 - [d12frosted/vulpea](https://github.com/d12frosted/vulpea) - A collection of functions for note taking based on `org` and `org-roam`.
