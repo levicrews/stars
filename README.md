@@ -306,6 +306,7 @@
 
 ## Python 
 
+- [mwouts/jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 - [aeturrell/skimpy](https://github.com/aeturrell/skimpy) - skimpy is a light weight tool that provides summary statistics about variables in data frames within the console.
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
 - [pandera-dev/pandera](https://github.com/pandera-dev/pandera) - A light-weight, flexible, and expressive pandas data validation library
@@ -398,7 +399,7 @@
 - [ddvk/remarkable-hacks](https://github.com/ddvk/remarkable-hacks) - additional functionality via binary patching
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows 10 Linux Subsystems
 - [Parveshdhull/org-popup](https://github.com/Parveshdhull/org-popup) - Take notes for emacs org-mode using pop-ups
-- [cemkeylan/mu-wizard](https://github.com/cemkeylan/mu-wizard) - Shell script to easily setup mu4e on Emacs
+- [cemkeylan/mu-wizard](https://github.com/cemkeylan/mu-wizard) - mu4e configuration wizard
 - [kidd/org-protocol-github-lines](https://github.com/kidd/org-protocol-github-lines) - Add links in github code views that open files in the given line.
 - [topojson/us-atlas](https://github.com/topojson/us-atlas) - Pre-built TopoJSON from the U.S. Census Bureau.
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
