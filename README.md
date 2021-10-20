@@ -201,6 +201,7 @@
 
 ## Julia 
 
+- [ahwillia/NonNegLeastSquares.jl](https://github.com/ahwillia/NonNegLeastSquares.jl) - Some nonnegative least squares solvers in Julia
 - [tlienart/Franklin.jl](https://github.com/tlienart/Franklin.jl) - (yet another) static site generator. Simple, customisable, fast, maths with KaTeX, code evaluation, optional pre-rendering, in Julia.
 - [mossr/BeautifulAlgorithms.jl](https://github.com/mossr/BeautifulAlgorithms.jl) - Concise and beautiful algorithms written in Julia
 - [jo-fleck/Taxsim.jl](https://github.com/jo-fleck/Taxsim.jl) - Connecting Julia to the Tax Calculator of the National Bureau of Economic Research (NBER)
@@ -306,6 +307,7 @@
 
 ## Python 
 
+- [Quantco/glum](https://github.com/Quantco/glum) - High performance Python GLMs with all the features!
 - [mwouts/jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 - [aeturrell/skimpy](https://github.com/aeturrell/skimpy) - skimpy is a light weight tool that provides summary statistics about variables in data frames within the console.
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
