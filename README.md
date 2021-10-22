@@ -71,7 +71,7 @@
 - [kiwanami/emacs-calfw](https://github.com/kiwanami/emacs-calfw) - A calendar framework for Emacs
 - [jkitchin/org-ref-cite](https://github.com/jkitchin/org-ref-cite) - An org-cite processor that is like org-ref.
 - [ag91/emacs-with-nyxt](https://github.com/ag91/emacs-with-nyxt) - Some code to make Emacs interact with Nyxt
-- [mclear-tools/bespoke-themes](https://github.com/mclear-tools/bespoke-themes) - A minimalist custom theme for emacs
+- [mclear-tools/bespoke-themes](https://github.com/mclear-tools/bespoke-themes) - A simple custom theme for emacs
 - [veelenga/carbon-now-sh.el](https://github.com/veelenga/carbon-now-sh.el) - Emacs to https://carbon.now.sh integration
 - [emacsorphanage/anzu](https://github.com/emacsorphanage/anzu) - Emacs Port of anzu.vim
 - [alphapapa/org-web-tools](https://github.com/alphapapa/org-web-tools) - View, capture, and archive Web pages in Org-mode
