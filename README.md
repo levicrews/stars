@@ -30,6 +30,7 @@
   - [Rich Text Format](#rich-text-format)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [SCSS](#scss)
   - [Shell](#shell)
   - [Stata](#stata)
   - [TeX](#tex)
@@ -307,6 +308,7 @@
 
 ## Python 
 
+- [vatlab/sos](https://github.com/vatlab/sos) - SoS workflow system for daily data analysis
 - [Quantco/glum](https://github.com/Quantco/glum) - High performance Python GLMs with all the features!
 - [mwouts/jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 - [aeturrell/skimpy](https://github.com/aeturrell/skimpy) - skimpy is a light weight tool that provides summary statistics about variables in data frames within the console.
@@ -395,6 +397,10 @@
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [jblindsay/whitebox-tools](https://github.com/jblindsay/whitebox-tools) - An advanced geospatial data analysis platform
+
+## SCSS 
+
+- [wirtzdan/logseq-paper-theme](https://github.com/wirtzdan/logseq-paper-theme) - A minimal and paper-like theme for Logseq ✍️
 
 ## Shell 
 
