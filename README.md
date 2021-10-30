@@ -94,7 +94,7 @@
 - [guanyilun/org-elp](https://github.com/guanyilun/org-elp) - Preview equations live in org-mode
 - [awth13/org-appear](https://github.com/awth13/org-appear) - Toggle visibility of hidden Org mode element parts upon entering and leaving an element
 - [rougier/nano-emacs](https://github.com/rougier/nano-emacs) - GNU Emacs / N Λ N O - Emacs made simple
-- [susam/emacs4cl](https://github.com/susam/emacs4cl) - A 40 line ~/.emacs to quickly set up vanilla Emacs for Common Lisp programming
+- [susam/emacs4cl](https://github.com/susam/emacs4cl) - A 50 line ~/.emacs to quickly set up vanilla Emacs for Common Lisp programming
 - [dalanicolai/pdf-continuous-scroll-mode.el](https://github.com/dalanicolai/pdf-continuous-scroll-mode.el) - A minor mode for Emacs that implements a two-buffer hack to provide continuous scrolling in pdf-tools
 - [nbfalcon/ptemplate](https://github.com/nbfalcon/ptemplate) - Powerful project (directory) templates for Emacs
 - [dandavison/xenops](https://github.com/dandavison/xenops) - An editing environment for LaTeX mathematical documents
