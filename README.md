@@ -336,7 +336,7 @@
 - [esantorella/binscatter](https://github.com/esantorella/binscatter) - 
 - [rougier/agenda](https://github.com/rougier/agenda) - Org agenda in the console
 - [thisiscam/math-with-slack](https://github.com/thisiscam/math-with-slack) - Rendered math (MathJax) with Slack's desktop client
-- [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real time throughput, ETA and very cool animations!
+- [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!
 - [erinhengel/Requests-NBER](https://github.com/erinhengel/Requests-NBER) - Custom Requests class to log onto NBER.org.
 - [gpoore/pythontex](https://github.com/gpoore/pythontex) - A LaTeX package that executes Python and other code in LaTeX documents, and includes the output
 - [EconForge/dolo.py](https://github.com/EconForge/dolo.py) - Economic modelling in python
