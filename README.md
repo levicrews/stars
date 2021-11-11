@@ -440,7 +440,7 @@
 - [alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
 - [kjhealy/pandoc-templates](https://github.com/kjhealy/pandoc-templates) - Some templates for Pandoc.
 - [pjhuxford/rudin](https://github.com/pjhuxford/rudin) - Solutions to Exercises in Walter Rudin's Principles of Mathematical Analysis
-- [rdahis/paper_template](https://github.com/rdahis/paper_template) - Template structure for empirical papers.
+- [rdahis/paper_template](https://github.com/rdahis/paper_template) - Template repository for research papers.
 - [vtex-soft/texsupport.econometricsociety-ecta](https://github.com/vtex-soft/texsupport.econometricsociety-ecta) - LaTeX author support files for the Econometric Society journal Econmetrica.
 - [woerman/ResEcon703](https://github.com/woerman/ResEcon703) - Topics in Advanced Econometrics (ResEcon 703). University of Massachusetts Amherst. Taught by Matt Woerman
 - [hollina/example_project](https://github.com/hollina/example_project) - An example project using stata and R
