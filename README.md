@@ -278,7 +278,7 @@
 - [cs-books/influential-cs-books](https://github.com/cs-books/influential-cs-books) - Most influential books on Computer Science/programming
 - [chrisdone/elisp-guide](https://github.com/chrisdone/elisp-guide) - A quick guide to Emacs Lisp programming
 - [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
-- [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - ❗️WIP❗️An open access book on scientific visualization using python and matplotlib
+- [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - An open access book on scientific visualization using python and matplotlib
 - [yangycpku/macro_ML](https://github.com/yangycpku/macro_ML) - Course Website on Macroeconomic Analysis with Machine Learning and Big Data
 - [code-econ/awesome-econ](https://github.com/code-econ/awesome-econ) - Curated list of links related to coding in economics
 - [skhiggins/Python_guide](https://github.com/skhiggins/Python_guide) - Python instructions for research projects
