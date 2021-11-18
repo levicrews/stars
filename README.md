@@ -97,7 +97,6 @@
 - [susam/emacs4cl](https://github.com/susam/emacs4cl) - A 50 line ~/.emacs to quickly set up vanilla Emacs for Common Lisp programming
 - [dalanicolai/pdf-continuous-scroll-mode.el](https://github.com/dalanicolai/pdf-continuous-scroll-mode.el) - A minor mode for Emacs that implements a two-buffer hack to provide continuous scrolling in pdf-tools
 - [nbfalcon/ptemplate](https://github.com/nbfalcon/ptemplate) - Powerful project (directory) templates for Emacs
-- [dandavison/xenops](https://github.com/dandavison/xenops) - An editing environment for LaTeX mathematical documents
 - [io12/org-fragtog](https://github.com/io12/org-fragtog) - Automatically toggle Org mode LaTeX fragment previews as the cursor enters and exits them
 - [ShuguangSun/ess-view-data](https://github.com/ShuguangSun/ess-view-data) - View data support for ESS
 - [hasu/notdeft](https://github.com/hasu/notdeft) - NotDeft note manager for Emacs
