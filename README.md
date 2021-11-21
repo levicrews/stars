@@ -83,7 +83,7 @@
 - [abo-abo/pamparam](https://github.com/abo-abo/pamparam) - Simple and fast flashcards for Emacs
 - [mm--/dot-emacs](https://github.com/mm--/dot-emacs) - My Emacs configuration files
 - [ffevotte/slurm.el](https://github.com/ffevotte/slurm.el) - Emacs extension to interact with the SLURM jobs scheduler
-- [bdarcus/citar](https://github.com/bdarcus/citar) - Emacs package to quickly find and act on BibTeX, BibLaTeX and edit org, markdown, and latex academic documents.
+- [bdarcus/citar](https://github.com/bdarcus/citar) - Emacs package to quickly find and act on bibliographic references, and edit org, markdown, and latex academic documents.
 - [mskorzhinskiy/org-ql-planning](https://github.com/mskorzhinskiy/org-ql-planning) - 
 - [foxfriday/ink](https://github.com/foxfriday/ink) - LaTeX + Inkscape
 - [d12frosted/vulpea](https://github.com/d12frosted/vulpea) - A collection of functions for note taking based on `org` and `org-roam`.
@@ -313,7 +313,7 @@
 - [mwouts/jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 - [aeturrell/skimpy](https://github.com/aeturrell/skimpy) - skimpy is a light weight tool that provides summary statistics about variables in data frames within the console.
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
-- [pandera-dev/pandera](https://github.com/pandera-dev/pandera) - A light-weight, flexible, and expressive pandas data validation library
+- [pandera-dev/pandera](https://github.com/pandera-dev/pandera) - A light-weight, flexible, and expressive data validation library for dataframes
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python
 - [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [anishathalye/git-remote-dropbox](https://github.com/anishathalye/git-remote-dropbox) - A transparent bridge between Git and Dropbox - use a Dropbox (shared) folder as a Git remote! 🎁
