@@ -369,6 +369,7 @@
 
 ## R 
 
+- [cvxgrp/CVXR](https://github.com/cvxgrp/CVXR) - An R modeling language for convex optimization problems.
 - [muuankarski/faobulk](https://github.com/muuankarski/faobulk) - Search and download FAOSTAT bulk download files
 - [bldavies/nberwp](https://github.com/bldavies/nberwp) - R package containing data on NBER working papers
 - [tidyverse/reprex](https://github.com/tidyverse/reprex) - Render bits of R code for sharing, e.g., on GitHub or StackOverflow.
