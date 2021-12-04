@@ -218,7 +218,6 @@
 - [rickecon/StructEst_W20](https://github.com/rickecon/StructEst_W20) - MACS 40200 (Winter 2020): Structural Estimation
 - [ruhl0029/us-import-data](https://github.com/ruhl0029/us-import-data) - 
 - [dseconf/DSE2021](https://github.com/dseconf/DSE2021) - 
-- [FuZhiyu/FTPL_in_cnts_time](https://github.com/FuZhiyu/FTPL_in_cnts_time) - 
 - [mwaugh0328/julia-eaton-kortum](https://github.com/mwaugh0328/julia-eaton-kortum) - julia version of eaton and kortum (2002)
 - [microsoft/gather](https://github.com/microsoft/gather) - Spit shine for Jupyter notebooks 🧽✨
 - [floswald/NumericalMethods](https://github.com/floswald/NumericalMethods) - website for numerical methods course
