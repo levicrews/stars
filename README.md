@@ -68,6 +68,7 @@
 
 ## Emacs Lisp 
 
+- [rougier/notebook-mode](https://github.com/rougier/notebook-mode) - GNU Emacs notebook mode
 - [ThomasFKJorna/org-roam-timestamps](https://github.com/ThomasFKJorna/org-roam-timestamps) - Add modified and creation timestamps to the org-roam property drawer
 - [kiwanami/emacs-calfw](https://github.com/kiwanami/emacs-calfw) - A calendar framework for Emacs
 - [jkitchin/org-ref-cite](https://github.com/jkitchin/org-ref-cite) - An org-cite processor that is like org-ref.
