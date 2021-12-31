@@ -216,6 +216,7 @@
 
 ## Jupyter Notebook 
 
+- [mwaugh0328/welfare-rural-urban-migration](https://github.com/mwaugh0328/welfare-rural-urban-migration) - final_migration
 - [rickecon/StructEst_W20](https://github.com/rickecon/StructEst_W20) - MACS 40200 (Winter 2020): Structural Estimation
 - [ruhl0029/us-import-data](https://github.com/ruhl0029/us-import-data) - 
 - [dseconf/DSE2021](https://github.com/dseconf/DSE2021) - 
