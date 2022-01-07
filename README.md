@@ -217,6 +217,7 @@
 
 ## Jupyter Notebook 
 
+- [SparseGridsForDynamicEcon/SparseGrids_in_econ_handbook](https://github.com/SparseGridsForDynamicEcon/SparseGrids_in_econ_handbook) - 
 - [mwaugh0328/welfare-rural-urban-migration](https://github.com/mwaugh0328/welfare-rural-urban-migration) - final_migration
 - [rickecon/StructEst_W20](https://github.com/rickecon/StructEst_W20) - MACS 40200 (Winter 2020): Structural Estimation
 - [ruhl0029/us-import-data](https://github.com/ruhl0029/us-import-data) - 
@@ -249,6 +250,7 @@
 
 ## MATLAB 
 
+- [schaab-lab/SparseEcon](https://github.com/schaab-lab/SparseEcon) - 
 - [ralphluet/KS_Perturbation_vs_MIT](https://github.com/ralphluet/KS_Perturbation_vs_MIT) - This code solves the Krusell-Smith model in two ways: Perturbation and MIT shock. More details on the model and the solution approach can be found in the paper: Christian Bayer, Ralph Luetticke (2020). Solving heterogeneous agent models in discrete time with many idiosyncratic states by perturbation methods. Quantitative Economics
 - [tyleransom/WageReturnsJOLE](https://github.com/tyleransom/WageReturnsJOLE) - Data and replication files for Ashworth, Hotz, Maurel and Ransom's article in Journal of Labor Economics
 - [naffe15/BVAR_](https://github.com/naffe15/BVAR_) - Empirical macro toolbox
@@ -404,6 +406,7 @@
 
 ## Rust 
 
+- [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
 - [adam-mcdaniel/dune](https://github.com/adam-mcdaniel/dune) - A shell🐚 by the beach🏖️!
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
