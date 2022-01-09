@@ -440,7 +440,6 @@
 
 ## TeX 
 
-- [gvwilson/mrsp-growth](https://github.com/gvwilson/mrsp-growth) - Managing Research Software Projects: A Model for Growth
 - [sm-miller/DiffNDiff](https://github.com/sm-miller/DiffNDiff) - 
 - [sm-miller/RCT](https://github.com/sm-miller/RCT) - 
 - [sm-miller/RDD](https://github.com/sm-miller/RDD) - 
