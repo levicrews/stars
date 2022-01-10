@@ -23,7 +23,6 @@
   - [Matlab](#matlab)
   - [Objective-C](#objective-c)
   - [Others](#others)
-  - [PostScript](#postscript)
   - [PowerShell](#powershell)
   - [Python](#python)
   - [R](#r)
@@ -301,10 +300,6 @@
 - [jtleek/datasharing](https://github.com/jtleek/datasharing) - The Leek group guide to data sharing
 - [johnerichumphries/JuliaByExample](https://github.com/johnerichumphries/JuliaByExample) - Collection of Julia (Julia Lang) Examples
 
-## PostScript 
-
-- [skhiggins/R_guide](https://github.com/skhiggins/R_guide) - R instructions for our research projects
-
 ## PowerShell 
 
 - [tilburgsciencehub/deprecated-website](https://github.com/tilburgsciencehub/deprecated-website) - Tilburg Science Hub is an open-source resource repository that supports students and researchers in the social sciences to efficiently manage data- and computation-intensive projects.
@@ -381,6 +376,7 @@
 - [walkerke/tidycensus](https://github.com/walkerke/tidycensus) - Load US Census boundary and attribute data as 'tidyverse' and 'sf'-ready data frames in R
 - [cvxgrp/CVXR](https://github.com/cvxgrp/CVXR) - An R modeling language for convex optimization problems.
 - [muuankarski/faobulk](https://github.com/muuankarski/faobulk) - Search and download FAOSTAT bulk download files
+- [skhiggins/R_guide](https://github.com/skhiggins/R_guide) - R instructions for our research projects
 - [bldavies/nberwp](https://github.com/bldavies/nberwp) - R package containing data on NBER working papers
 - [tidyverse/reprex](https://github.com/tidyverse/reprex) - Render bits of R code for sharing, e.g., on GitHub or StackOverflow.
 - [alastairrushworth/free-data-science](https://github.com/alastairrushworth/free-data-science) - 🛠️ 🌐  Thematic list of high-quality data science resources
