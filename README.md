@@ -436,6 +436,7 @@
 
 ## TeX 
 
+- [synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations) - Examples of how to create colorful, annotated equations in Latex using Tikz.
 - [sm-miller/DiffNDiff](https://github.com/sm-miller/DiffNDiff) - 
 - [sm-miller/RCT](https://github.com/sm-miller/RCT) - 
 - [sm-miller/RDD](https://github.com/sm-miller/RDD) - 
