@@ -425,6 +425,7 @@
 
 ## Stata 
 
+- [skhiggins/Stata_guide](https://github.com/skhiggins/Stata_guide) - Stata instructions for research projects
 - [jankabatek/statapack](https://github.com/jankabatek/statapack) - A collection of handy Stata programs for empirical analyses
 - [nppackages/binsreg](https://github.com/nppackages/binsreg) - Partition selection, point estimation, pointwise and uniform inference, and graphical procedures using binscatter methods.
 - [reifjulian/my-project](https://github.com/reifjulian/my-project) - Sample Replication Package
@@ -436,6 +437,7 @@
 
 ## TeX 
 
+- [worldbank/dime-standards](https://github.com/worldbank/dime-standards) - Repository with resources for DIME's research standards and coding standards
 - [synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations) - Examples of how to create colorful, annotated equations in Latex using Tikz.
 - [sm-miller/DiffNDiff](https://github.com/sm-miller/DiffNDiff) - 
 - [sm-miller/RCT](https://github.com/sm-miller/RCT) - 
