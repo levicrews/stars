@@ -425,6 +425,7 @@
 
 ## Stata 
 
+- [sergiocorreia/ftools](https://github.com/sergiocorreia/ftools) - Fast Stata commands for large datasets
 - [skhiggins/Stata_guide](https://github.com/skhiggins/Stata_guide) - Stata instructions for research projects
 - [jankabatek/statapack](https://github.com/jankabatek/statapack) - A collection of handy Stata programs for empirical analyses
 - [nppackages/binsreg](https://github.com/nppackages/binsreg) - Partition selection, point estimation, pointwise and uniform inference, and graphical procedures using binscatter methods.
