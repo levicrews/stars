@@ -438,6 +438,7 @@
 
 ## TeX 
 
+- [andrewfoote/public_dofiles](https://github.com/andrewfoote/public_dofiles) - This repository are do-files that I post on my website, and their primary purpose is to help implement solutions to common issues.
 - [worldbank/dime-standards](https://github.com/worldbank/dime-standards) - Repository with resources for DIME's research standards and coding standards
 - [synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations) - Examples of how to create colorful, annotated equations in Latex using Tikz.
 - [sm-miller/DiffNDiff](https://github.com/sm-miller/DiffNDiff) - 
