@@ -224,6 +224,7 @@
 - [microsoft/gather](https://github.com/microsoft/gather) - Spit shine for Jupyter notebooks 🧽✨
 - [floswald/NumericalMethods](https://github.com/floswald/NumericalMethods) - website for numerical methods course
 - [aeturrell/coding-for-economists](https://github.com/aeturrell/coding-for-economists) - This repository hosts the code behind the online book, Coding for Economists.
+- [carpentries-incubator/geospatial-python](https://github.com/carpentries-incubator/geospatial-python) - Introduction to Geospatial Raster and Vector Data with Python
 - [GDSL-UL/san](https://github.com/GDSL-UL/san) - Spatial Analysis Notes
 - [iamlemec/data_science](https://github.com/iamlemec/data_science) - Getting started working with data, with applications to economics
 - [mwaugh0328/tradewar-tracker-aws-product-level](https://github.com/mwaugh0328/tradewar-tracker-aws-product-level) - Tradewar Tracker AWS product level code/plots
@@ -337,7 +338,6 @@
 - [johnjosephhorton/texscrap](https://github.com/johnjosephhorton/texscrap) - Python utility for making PDFs out of scraps of LaTeX.
 - [Layout-Parser/layout-parser](https://github.com/Layout-Parser/layout-parser) - A Unified Toolkit for Deep Learning Based Document Image Analysis
 - [riceissa/spaced-inbox](https://github.com/riceissa/spaced-inbox) - A minimal spaced writing inbox
-- [carpentries-incubator/geospatial-python](https://github.com/carpentries-incubator/geospatial-python) - Introduction to Geospatial Raster and Vector Data with Python
 - [tecosaur/org-knit-action](https://github.com/tecosaur/org-knit-action) - Let someone else take care of keeping up to date tangled/woven versions of your Org files for public consumption.
 - [esantorella/binscatter](https://github.com/esantorella/binscatter) - 
 - [rougier/agenda](https://github.com/rougier/agenda) - Org agenda in the console
