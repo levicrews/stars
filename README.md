@@ -215,6 +215,7 @@
 
 ## Jupyter Notebook 
 
+- [cpfiffer/julia-bootcamp-2022](https://github.com/cpfiffer/julia-bootcamp-2022) - 
 - [SparseGridsForDynamicEcon/SparseGrids_in_econ_handbook](https://github.com/SparseGridsForDynamicEcon/SparseGrids_in_econ_handbook) - 
 - [mwaugh0328/welfare-rural-urban-migration](https://github.com/mwaugh0328/welfare-rural-urban-migration) - final_migration
 - [rickecon/StructEst_W20](https://github.com/rickecon/StructEst_W20) - MACS 40200 (Winter 2020): Structural Estimation
