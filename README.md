@@ -310,6 +310,7 @@
 
 ## Python 
 
+- [dkgaraujo/simpledmx](https://github.com/dkgaraujo/simpledmx) - A minimalistic experience with SDMX that fetches all data from sources
 - [paulgp/google_scholar_share](https://github.com/paulgp/google_scholar_share) - 
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
