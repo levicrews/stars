@@ -310,6 +310,7 @@
 
 ## Python 
 
+- [Uzay-G/espial](https://github.com/Uzay-G/espial) - Espial is an engine for automated organization and discovery of personal knowledge
 - [dkgaraujo/simpledmx](https://github.com/dkgaraujo/simpledmx) - A minimalistic experience with SDMX that fetches all data from sources
 - [paulgp/google_scholar_share](https://github.com/paulgp/google_scholar_share) - 
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
