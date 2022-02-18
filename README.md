@@ -21,7 +21,6 @@
   - [Makefile](#makefile)
   - [Mathematica](#mathematica)
   - [Matlab](#matlab)
-  - [Objective-C](#objective-c)
   - [Others](#others)
   - [PowerShell](#powershell)
   - [Python](#python)
@@ -32,6 +31,7 @@
   - [SCSS](#scss)
   - [Shell](#shell)
   - [Stata](#stata)
+  - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
 
@@ -272,10 +272,6 @@
 - [jlperla/continuous_time_methods](https://github.com/jlperla/continuous_time_methods) - 
 - [DynareTeam/dynare](https://github.com/DynareTeam/dynare) - This project has moved to https://git.dynare.org/Dynare/dynare
 
-## Objective-C 
-
-- [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
-
 ## Others 
 
 - [dkgaraujo/OpenSourcedMacroModels](https://github.com/dkgaraujo/OpenSourcedMacroModels) - A best-efforts collection of open-sourced macroeconomic models run by central banks and other official sector agencies (ie, ministries of economy)
@@ -439,6 +435,10 @@
 - [AEADataEditor/replication-template](https://github.com/AEADataEditor/replication-template) - A template for starting a replication/ reproducibility exercise. Note that this repository always contains only the latest version. For specific releases, see https://github.com/AEADataEditor/replication-template-development
 - [lydreiner/Statapackagesearch](https://github.com/lydreiner/Statapackagesearch) - Program that searches for (missing) SSC packages used in Stata code
 - [vikjam/mostly-harmless-replication](https://github.com/vikjam/mostly-harmless-replication) - Replication of tables and figures from "Mostly Harmless Econometrics" in Stata, R, Python and Julia.
+
+## Swift 
+
+- [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 
 ## TeX 
 
