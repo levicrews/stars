@@ -67,6 +67,7 @@
 
 ## Emacs Lisp 
 
+- [takaxp/org-tree-slide](https://github.com/takaxp/org-tree-slide) - A presentation tool for org-mode based on the visibility of outline trees
 - [rougier/org-bib-mode](https://github.com/rougier/org-bib-mode) - An Emacs minor mode for literate & annotated bibliography
 - [rougier/notebook-mode](https://github.com/rougier/notebook-mode) - GNU Emacs notebook mode
 - [ThomasFKJorna/org-roam-timestamps](https://github.com/ThomasFKJorna/org-roam-timestamps) - Add modified and creation timestamps to the org-roam property drawer
