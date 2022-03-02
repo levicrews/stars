@@ -254,6 +254,7 @@
 
 ## MATLAB 
 
+- [RagotXavier/Truncation_Method_Het](https://github.com/RagotXavier/Truncation_Method_Het) - Truncation Method For Heterogeneous-agent Models
 - [schaab-lab/SparseEcon](https://github.com/schaab-lab/SparseEcon) - 
 - [ralphluet/KS_Perturbation_vs_MIT](https://github.com/ralphluet/KS_Perturbation_vs_MIT) - This code solves the Krusell-Smith model in two ways: Perturbation and MIT shock. More details on the model and the solution approach can be found in the paper: Christian Bayer, Ralph Luetticke (2020). Solving heterogeneous agent models in discrete time with many idiosyncratic states by perturbation methods. Quantitative Economics
 - [tyleransom/WageReturnsJOLE](https://github.com/tyleransom/WageReturnsJOLE) - Data and replication files for Ashworth, Hotz, Maurel and Ransom's article in Journal of Labor Economics
