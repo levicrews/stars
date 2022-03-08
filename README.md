@@ -309,6 +309,8 @@
 
 ## Python 
 
+- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
+- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [Uzay-G/espial](https://github.com/Uzay-G/espial) - Espial is an engine for automated organization and discovery of personal knowledge
 - [dkgaraujo/simpledmx](https://github.com/dkgaraujo/simpledmx) - A minimalistic experience with SDMX that fetches all data from sources
 - [paulgp/google_scholar_share](https://github.com/paulgp/google_scholar_share) - 
