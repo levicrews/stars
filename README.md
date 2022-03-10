@@ -97,7 +97,7 @@
 - [awth13/org-appear](https://github.com/awth13/org-appear) - Toggle visibility of hidden Org mode element parts upon entering and leaving an element
 - [rougier/nano-emacs](https://github.com/rougier/nano-emacs) - GNU Emacs / N Λ N O - Emacs made simple
 - [susam/emacs4cl](https://github.com/susam/emacs4cl) - A 50 line ~/.emacs to quickly set up vanilla Emacs for Common Lisp programming
-- [dalanicolai/pdf-continuous-scroll-mode.el](https://github.com/dalanicolai/pdf-continuous-scroll-mode.el) - A minor mode for Emacs that implements a two-buffer hack to provide continuous scrolling in pdf-tools
+- [dalanicolai/pdf-continuous-scroll-mode.el](https://github.com/dalanicolai/pdf-continuous-scroll-mode.el) - A pdf-tools extension that provides continuous scrolling functionality
 - [nbfalcon/ptemplate](https://github.com/nbfalcon/ptemplate) - Powerful project (directory) templates for Emacs
 - [io12/org-fragtog](https://github.com/io12/org-fragtog) - Automatically toggle Org mode LaTeX fragment previews as the cursor enters and exits them
 - [ShuguangSun/ess-view-data](https://github.com/ShuguangSun/ess-view-data) - View data support for ESS
@@ -438,7 +438,6 @@
 - [reifjulian/my-project](https://github.com/reifjulian/my-project) - Sample Replication Package
 - [sergiocorreia/stata-require](https://github.com/sergiocorreia/stata-require) - Ensure package requirements are met
 - [haghish/github](https://github.com/haghish/github) - a module for building, searching, installing, managing, and mining Stata packages from GitHub
-- [AEADataEditor/replication-template](https://github.com/AEADataEditor/replication-template) - A template for starting a replication/ reproducibility exercise. Note that this repository always contains only the latest version. For specific releases, see https://github.com/AEADataEditor/replication-template-development
 - [lydreiner/Statapackagesearch](https://github.com/lydreiner/Statapackagesearch) - Program that searches for (missing) SSC packages used in Stata code
 - [vikjam/mostly-harmless-replication](https://github.com/vikjam/mostly-harmless-replication) - Replication of tables and figures from "Mostly Harmless Econometrics" in Stata, R, Python and Julia.
 
