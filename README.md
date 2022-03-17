@@ -203,6 +203,7 @@
 
 ## Julia 
 
+- [matthieugomez/EconPDEs.jl](https://github.com/matthieugomez/EconPDEs.jl) - Solve forward-looking PDEs (e.g. HJB equations).
 - [byuflowlab/Mex.jl](https://github.com/byuflowlab/Mex.jl) - Embedding Julia in the MATLAB process.
 - [ahwillia/NonNegLeastSquares.jl](https://github.com/ahwillia/NonNegLeastSquares.jl) - Some nonnegative least squares solvers in Julia
 - [tlienart/Franklin.jl](https://github.com/tlienart/Franklin.jl) - (yet another) static site generator. Simple, customisable, fast, maths with KaTeX, code evaluation, optional pre-rendering, in Julia.
