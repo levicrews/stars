@@ -291,6 +291,7 @@
 - [higham/what-is](https://github.com/higham/what-is) - Important concepts in numerical analysis and related areas
 - [FavioVazquez/ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) - List of Data Science Cheatsheets to rule the world
 - [microsoft/vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
+- [sigma-py/quadpy](https://github.com/sigma-py/quadpy) - :triangular_ruler: Numerical integration (quadrature, cubature) in Python
 - [mkrapp/cookiecutter-reproducible-science](https://github.com/mkrapp/cookiecutter-reproducible-science) - boilerplate for reproducible and transparent science
 - [snird/awesome-data-engineering-learning](https://github.com/snird/awesome-data-engineering-learning) - Awesome list of data engineering learning materials by subject
 - [colbyfayock/50-projects-for-react-and-the-static-web](https://github.com/colbyfayock/50-projects-for-react-and-the-static-web) - ⚛ 50 project ideas to learn by doing complete with project briefs, layout ideas, and resources!
@@ -366,7 +367,6 @@
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [Cimbali/pympress](https://github.com/Cimbali/pympress) - Pympress is a simple yet powerful PDF reader designed for dual-screen presentations
 - [coin-or/pulp](https://github.com/coin-or/pulp) - A python Linear Programming API
-- [nschloe/quadpy](https://github.com/nschloe/quadpy) - :triangular_ruler: Numerical integration (quadrature, cubature) in Python
 - [pysal/spopt](https://github.com/pysal/spopt) - Spatial Optimization
 - [kieferk/dfply](https://github.com/kieferk/dfply) - dplyr-style piping operations for pandas dataframes
 - [salesforce/ai-economist](https://github.com/salesforce/ai-economist) - Foundation is a flexible, modular, and composable framework to model socio-economic behaviors and dynamics with both agents and governments. This framework can be used in conjunction with reinforcement learning to learn optimal economic policies, as done by the AI Economist (https://www.einstein.ai/the-ai-economist).
