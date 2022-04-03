@@ -42,7 +42,6 @@
 ## C 
 
 - [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
-- [vedang/pdf-tools](https://github.com/vedang/pdf-tools) - Emacs support library for PDF files.
 
 ## C++ 
 
@@ -155,7 +154,6 @@
 
 ## HTML 
 
-- [bschlagel/canonize](https://github.com/bschlagel/canonize) - Template for a "personal canon" website page.
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [AloisJanicek/org-roam-server-light](https://github.com/AloisJanicek/org-roam-server-light) - compatible org-roam-server written in python for better performance with large network graphs
 - [Alalalalaki/Guide2EconRA](https://github.com/Alalalalaki/Guide2EconRA) - 
@@ -204,6 +202,7 @@
 
 ## Julia 
 
+- [chkwon/Complementarity.jl](https://github.com/chkwon/Complementarity.jl) - provides a modeling interface for mixed complementarity problems (MCP) and math programs with equilibrium problems (MPEC) via JuMP
 - [matthieugomez/EconPDEs.jl](https://github.com/matthieugomez/EconPDEs.jl) - Solve forward-looking PDEs (e.g. HJB equations).
 - [byuflowlab/Mex.jl](https://github.com/byuflowlab/Mex.jl) - Embedding Julia in the MATLAB process.
 - [ahwillia/NonNegLeastSquares.jl](https://github.com/ahwillia/NonNegLeastSquares.jl) - Some nonnegative least squares solvers in Julia
@@ -281,7 +280,6 @@
 
 - [dkgaraujo/OpenSourcedMacroModels](https://github.com/dkgaraujo/OpenSourcedMacroModels) - A best-efforts collection of open-sourced macroeconomic models run by central banks and other official sector agencies (ie, ministries of economy)
 - [pascalmichaillat/intermediate-macro](https://github.com/pascalmichaillat/intermediate-macro) - Material for a one-semester course in intermediate macroeconomics
-- [dianakimball/mentoring](https://github.com/dianakimball/mentoring) - The source of a distributed mentoring movement.
 - [cs-books/influential-cs-books](https://github.com/cs-books/influential-cs-books) - Most influential books on Computer Science/programming
 - [chrisdone/elisp-guide](https://github.com/chrisdone/elisp-guide) - A quick guide to Emacs Lisp programming
 - [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
@@ -467,7 +465,6 @@
 - [woerman/ResEcon703](https://github.com/woerman/ResEcon703) - Topics in Advanced Econometrics (ResEcon 703). University of Massachusetts Amherst. Taught by Matt Woerman
 - [hollina/example_project](https://github.com/hollina/example_project) - An example project using stata and R
 - [Robinlovelace/open-gat](https://github.com/Robinlovelace/open-gat) - Open source software for geographic transport data analysis and planning
-- [ms486/Methods](https://github.com/ms486/Methods) - Notes and Codes for Computational Methods in Econ
 - [knaaptime/mandown](https://github.com/knaaptime/mandown) - Scholarly Manuscripts in Markdown
 - [chrisconlon/micro-metrics](https://github.com/chrisconlon/micro-metrics) - This is a 2nd Year PhD Course In Micro-econometrics
 - [gentzkow/template](https://github.com/gentzkow/template) - 
