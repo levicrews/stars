@@ -203,6 +203,7 @@
 
 ## Julia 
 
+- [floswald/SMM.jl](https://github.com/floswald/SMM.jl) - Simulated Method of Moments for Julia
 - [chkwon/Complementarity.jl](https://github.com/chkwon/Complementarity.jl) - provides a modeling interface for mixed complementarity problems (MCP) and math programs with equilibrium problems (MPEC) via JuMP
 - [matthieugomez/EconPDEs.jl](https://github.com/matthieugomez/EconPDEs.jl) - Solve forward-looking PDEs (e.g. HJB equations).
 - [byuflowlab/Mex.jl](https://github.com/byuflowlab/Mex.jl) - Embedding Julia in the MATLAB process.
