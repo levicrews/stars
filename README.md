@@ -380,6 +380,7 @@
 
 ## R 
 
+- [guyabel/migest](https://github.com/guyabel/migest) - Tools for estimating, measuring and working with migration data.
 - [walkerke/tidycensus](https://github.com/walkerke/tidycensus) - Load US Census boundary and attribute data as 'tidyverse' and 'sf'-ready data frames in R
 - [cvxgrp/CVXR](https://github.com/cvxgrp/CVXR) - An R modeling language for convex optimization problems.
 - [muuankarski/faobulk](https://github.com/muuankarski/faobulk) - Search and download FAOSTAT bulk download files
@@ -432,6 +433,7 @@
 
 ## Stata 
 
+- [asjadnaqvi/Stata-schemes](https://github.com/asjadnaqvi/Stata-schemes) - Here you will find various ready-to-use Stata schemes.
 - [sergiocorreia/ftools](https://github.com/sergiocorreia/ftools) - Fast Stata commands for large datasets
 - [skhiggins/Stata_guide](https://github.com/skhiggins/Stata_guide) - Stata instructions for research projects
 - [jankabatek/statapack](https://github.com/jankabatek/statapack) - A collection of handy Stata programs for empirical analyses
