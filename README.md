@@ -142,7 +142,7 @@
 - [frankjonen/emacs-for-writers](https://github.com/frankjonen/emacs-for-writers) - Emacs configuration for writers. Focus on story development and structured writing.
 - [joostkremers/pandoc-mode](https://github.com/joostkremers/pandoc-mode) - An Emacs minor mode for interacting with Pandoc.
 - [conao3/org-generate.el](https://github.com/conao3/org-generate.el) - Generate template files/folders from one org document
-- [hlissner/doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs framework for the stubborn martian hacker
+- [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
 - [jorgenschaefer/elpy](https://github.com/jorgenschaefer/elpy) - Emacs Python Development Environment
 
 ## Go 
@@ -222,7 +222,7 @@
 
 - [mwaugh0328/consumption_and_tradewar](https://github.com/mwaugh0328/consumption_and_tradewar) - Code to reproduce aspects of "The Consumption Response to Trade Shocks: Evidence from the US-China Trade War"
 - [cpfiffer/julia-bootcamp-2022](https://github.com/cpfiffer/julia-bootcamp-2022) - 
-- [SparseGridsForDynamicEcon/SparseGrids_in_econ_handbook](https://github.com/SparseGridsForDynamicEcon/SparseGrids_in_econ_handbook) - 
+- [SparseGridsForDynamicEcon/SparseGrids_in_econ_handbook](https://github.com/SparseGridsForDynamicEcon/SparseGrids_in_econ_handbook) - Example codes for the Handbook chapter "Sparse Grids for Dynamic Economic Models" (Oxford Research Encyclopedia of Economics and Finance)
 - [mwaugh0328/welfare-rural-urban-migration](https://github.com/mwaugh0328/welfare-rural-urban-migration) - final_migration
 - [rickecon/StructEst_W20](https://github.com/rickecon/StructEst_W20) - MACS 40200 (Winter 2020): Structural Estimation
 - [ruhl0029/us-import-data](https://github.com/ruhl0029/us-import-data) - 
