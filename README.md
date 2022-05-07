@@ -20,7 +20,6 @@
   - [MATLAB](#matlab)
   - [Makefile](#makefile)
   - [Mathematica](#mathematica)
-  - [Matlab](#matlab)
   - [Others](#others)
   - [PowerShell](#powershell)
   - [Python](#python)
@@ -149,7 +148,7 @@
 
 - [amirgamil/apollo](https://github.com/amirgamil/apollo) - A Unix-style personal search engine and web crawler for your digital footprint.
 - [juruen/rmapi](https://github.com/juruen/rmapi) - Go app that allows you to access your reMarkable tablet files through the Cloud API
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 
 ## HTML 
@@ -199,7 +198,7 @@
 - [the-pudding/starter](https://github.com/the-pudding/starter) - A starter template for projects.
 - [OU-PhD-Econometrics/fall-2020](https://github.com/OU-PhD-Econometrics/fall-2020) - 
 - [LeonvanKouwen/elvis](https://github.com/LeonvanKouwen/elvis) - Combining holoviz panel and golden-layout in pure python.
-- [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
+- [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
 
 ## Julia 
 
@@ -258,10 +257,13 @@
 
 - [RagotXavier/Truncation_Method_Het](https://github.com/RagotXavier/Truncation_Method_Het) - Truncation Method For Heterogeneous-agent Models
 - [schaab-lab/SparseEcon](https://github.com/schaab-lab/SparseEcon) - 
-- [ralphluet/KS_Perturbation_vs_MIT](https://github.com/ralphluet/KS_Perturbation_vs_MIT) - This code solves the Krusell-Smith model in two ways: Perturbation and MIT shock. More details on the model and the solution approach can be found in the paper: Christian Bayer, Ralph Luetticke (2020). Solving heterogeneous agent models in discrete time with many idiosyncratic states by perturbation methods. Quantitative Economics
+- [jeromematthewcelestine/hadsge](https://github.com/jeromematthewcelestine/hadsge) - Code for Bayesian estimation of a heterogeneous agent DSGE model (MATLAB) using the Reiter (2009) solution method.
+- [ralphluet/KS_Perturbation_vs_MIT](https://github.com/ralphluet/KS_Perturbation_vs_MIT) - This code solves the Krusell-Smith model in two ways: Perturbation and MIT shock. More details on the model and the solution approach can be found in the paper: Christian Bayer, Ralph Luetticke (2020)
 - [tyleransom/WageReturnsJOLE](https://github.com/tyleransom/WageReturnsJOLE) - Data and replication files for Ashworth, Hotz, Maurel and Ransom's article in Journal of Labor Economics
 - [naffe15/BVAR_](https://github.com/naffe15/BVAR_) - Empirical macro toolbox
 - [jesusfv/financial-frictions](https://github.com/jesusfv/financial-frictions) - Interactive guide to Fernández-Villaverde, Hurtado, and Nuño (2019): "Financial Frictions and the Wealth Distribution".
+- [jlperla/continuous_time_methods](https://github.com/jlperla/continuous_time_methods) - 
+- [DynareTeam/dynare](https://github.com/DynareTeam/dynare) - This project has moved to https://git.dynare.org/Dynare/dynare
 
 ## Makefile 
 
@@ -270,12 +272,6 @@
 ## Mathematica 
 
 - [KennethJudd/CompEcon2020](https://github.com/KennethJudd/CompEcon2020) - Computational Economics Course 2020 by Kenneth Judd
-
-## Matlab 
-
-- [jeromematthewcelestine/hadsge](https://github.com/jeromematthewcelestine/hadsge) - Code for Bayesian estimation of a heterogeneous agent DSGE model (MATLAB) using the Reiter (2009) solution method.
-- [jlperla/continuous_time_methods](https://github.com/jlperla/continuous_time_methods) - 
-- [DynareTeam/dynare](https://github.com/DynareTeam/dynare) - This project has moved to https://git.dynare.org/Dynare/dynare
 
 ## Others 
 
@@ -295,7 +291,6 @@
 - [mkrapp/cookiecutter-reproducible-science](https://github.com/mkrapp/cookiecutter-reproducible-science) - boilerplate for reproducible and transparent science
 - [snird/awesome-data-engineering-learning](https://github.com/snird/awesome-data-engineering-learning) - Awesome list of data engineering learning materials by subject
 - [colbyfayock/50-projects-for-react-and-the-static-web](https://github.com/colbyfayock/50-projects-for-react-and-the-static-web) - ⚛ 50 project ideas to learn by doing complete with project briefs, layout ideas, and resources!
-- [the-pudding/FYI](https://github.com/the-pudding/FYI) - Documentation on processes, tips and tricks.
 - [nushackers/notes-to-cs-freshmen-from-the-future](https://github.com/nushackers/notes-to-cs-freshmen-from-the-future) - Notes to (NUS) Computer Science Freshmen, From The Future (Original by @ejamesc)
 - [aaumaitre/maps_Spain](https://github.com/aaumaitre/maps_Spain) - plotting tutorial for maps of Spain with ggplot2
 - [jfiksel/github-classroom-for-teachers](https://github.com/jfiksel/github-classroom-for-teachers) - 
@@ -369,7 +364,7 @@
 - [coin-or/pulp](https://github.com/coin-or/pulp) - A python Linear Programming API
 - [pysal/spopt](https://github.com/pysal/spopt) - Spatial Optimization
 - [kieferk/dfply](https://github.com/kieferk/dfply) - dplyr-style piping operations for pandas dataframes
-- [salesforce/ai-economist](https://github.com/salesforce/ai-economist) - Foundation is a flexible, modular, and composable framework to model socio-economic behaviors and dynamics with both agents and governments. This framework can be used in conjunction with reinforcement learning to learn optimal economic policies, as done by the AI Economist (https://www.einstein.ai/the-ai-economist).
+- [salesforce/ai-economist](https://github.com/salesforce/ai-economist) - Foundation is a flexible, modular, and composable framework to model socio-economic behaviors and dynamics with both agents and governments. This framework can be used in conjunction with reinforcemen
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [machow/siuba](https://github.com/machow/siuba) - Python library for using dplyr like syntax with pandas and SQL
 - [dmsul/econtools](https://github.com/dmsul/econtools) - Econometrics and data manipulation functions.
