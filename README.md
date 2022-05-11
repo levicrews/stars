@@ -275,6 +275,7 @@
 
 ## Others 
 
+- [rougier/dotemacs](https://github.com/rougier/dotemacs) - Litterate configuration for GNU Emacs
 - [antoinearnoud/book-fortran](https://github.com/antoinearnoud/book-fortran) - Fortran for Economists
 - [dkgaraujo/OpenSourcedMacroModels](https://github.com/dkgaraujo/OpenSourcedMacroModels) - A best-efforts collection of open-sourced macroeconomic models run by central banks and other official sector agencies (ie, ministries of economy)
 - [pascalmichaillat/intermediate-macro](https://github.com/pascalmichaillat/intermediate-macro) - Material for a one-semester course in intermediate macroeconomics
