@@ -201,7 +201,7 @@
 
 ## Julia 
 
-- [vboussange/HighDimPDE.jl](https://github.com/vboussange/HighDimPDE.jl) - A Julia package that breaks down the curse of dimensionality in solving PDEs.
+- [SciML/HighDimPDE.jl](https://github.com/SciML/HighDimPDE.jl) - A Julia package that breaks down the curse of dimensionality in solving PDEs.
 - [floswald/SMM.jl](https://github.com/floswald/SMM.jl) - Simulated Method of Moments for Julia
 - [chkwon/Complementarity.jl](https://github.com/chkwon/Complementarity.jl) - provides a modeling interface for mixed complementarity problems (MCP) and math programs with equilibrium problems (MPEC) via JuMP
 - [matthieugomez/EconPDEs.jl](https://github.com/matthieugomez/EconPDEs.jl) - Solve forward-looking PDEs (e.g. HJB equations).
