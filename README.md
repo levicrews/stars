@@ -84,7 +84,7 @@
 - [abo-abo/pamparam](https://github.com/abo-abo/pamparam) - Simple and fast flashcards for Emacs
 - [mm--/dot-emacs](https://github.com/mm--/dot-emacs) - My Emacs configuration files
 - [ffevotte/slurm.el](https://github.com/ffevotte/slurm.el) - Emacs extension to interact with the SLURM jobs scheduler
-- [bdarcus/citar](https://github.com/bdarcus/citar) - Emacs package to quickly find and act on bibliographic references, and edit org, markdown, and latex academic documents.
+- [emacs-citar/citar](https://github.com/emacs-citar/citar) - Emacs package to quickly find and act on bibliographic references, and edit org, markdown, and latex academic documents.
 - [mskorzhinskiy/org-ql-planning](https://github.com/mskorzhinskiy/org-ql-planning) - 
 - [foxfriday/ink](https://github.com/foxfriday/ink) - LaTeX + Inkscape
 - [d12frosted/vulpea](https://github.com/d12frosted/vulpea) - A collection of functions for note taking based on `org` and `org-roam`.
