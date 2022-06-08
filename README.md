@@ -65,6 +65,7 @@
 
 ## Emacs Lisp 
 
+- [minad/org-modern](https://github.com/minad/org-modern) - :unicorn: Modern Org Style
 - [Vidianos-Giannitsis/zetteldesk.el](https://github.com/Vidianos-Giannitsis/zetteldesk.el) - Zetteldesk.el is an emacs library built on top of org-roam with the purpose of easier revision on various subjects and a better outliner tool for emacs
 - [takaxp/org-tree-slide](https://github.com/takaxp/org-tree-slide) - A presentation tool for org-mode based on the visibility of outline trees
 - [rougier/org-bib-mode](https://github.com/rougier/org-bib-mode) - An Emacs minor mode for literate & annotated bibliography
