@@ -309,6 +309,7 @@
 
 ## Python 
 
+- [jldbc/pybaseball](https://github.com/jldbc/pybaseball) - Pull current and historical baseball statistics using Python (Statcast, Baseball Reference, FanGraphs)
 - [glamp/bashplotlib](https://github.com/glamp/bashplotlib) - plotting in the terminal
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -379,6 +380,7 @@
 
 ## R 
 
+- [BillPetti/baseballr](https://github.com/BillPetti/baseballr) - A package written for R focused on baseball analysis. Currently in development.
 - [guyabel/migest](https://github.com/guyabel/migest) - Tools for estimating, measuring and working with migration data.
 - [walkerke/tidycensus](https://github.com/walkerke/tidycensus) - Load US Census boundary and attribute data as 'tidyverse' and 'sf'-ready data frames in R
 - [cvxgrp/CVXR](https://github.com/cvxgrp/CVXR) - An R modeling language for convex optimization problems.
