@@ -227,6 +227,7 @@
 - [rickecon/StructEst_W20](https://github.com/rickecon/StructEst_W20) - MACS 40200 (Winter 2020): Structural Estimation
 - [ruhl0029/us-import-data](https://github.com/ruhl0029/us-import-data) - 
 - [dseconf/DSE2021](https://github.com/dseconf/DSE2021) - 
+- [knaaptime/incseg_app](https://github.com/knaaptime/incseg_app) - 
 - [mwaugh0328/julia-eaton-kortum](https://github.com/mwaugh0328/julia-eaton-kortum) - julia version of eaton and kortum (2002)
 - [microsoft/gather](https://github.com/microsoft/gather) - Spit shine for Jupyter notebooks 🧽✨
 - [floswald/NumericalMethods](https://github.com/floswald/NumericalMethods) - website for numerical methods course
@@ -330,7 +331,6 @@
 - [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [anishathalye/git-remote-dropbox](https://github.com/anishathalye/git-remote-dropbox) - A transparent bridge between Git and Dropbox - use a Dropbox (shared) folder as a Git remote! 🎁
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
-- [knaaptime/incseg_app](https://github.com/knaaptime/incseg_app) - 
 - [rasbt/watermark](https://github.com/rasbt/watermark) - An IPython magic extension for printing date and time stamps, version numbers, and hardware information
 - [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
 - [jupyter/nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
