@@ -360,7 +360,7 @@
 - [gillescastel/inkscape-shortcut-manager](https://github.com/gillescastel/inkscape-shortcut-manager) - Inkscape shorcut manager
 - [gillescastel/inkscape-figures](https://github.com/gillescastel/inkscape-figures) - Inkscape figure manager
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
-- [sciunto-org/python-bibtexparser](https://github.com/sciunto-org/python-bibtexparser) - Bibtex parser for Python 3.3+
+- [sciunto-org/python-bibtexparser](https://github.com/sciunto-org/python-bibtexparser) - Bibtex parser for Python 3
 - [python-mechanize/mechanize](https://github.com/python-mechanize/mechanize) - The official source code for the python-mechanize project
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [Cimbali/pympress](https://github.com/Cimbali/pympress) - Pympress is a simple yet powerful PDF reader designed for dual-screen presentations
