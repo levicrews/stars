@@ -44,6 +44,7 @@
 
 ## C++ 
 
+- [ORNL/TASMANIAN](https://github.com/ORNL/TASMANIAN) - The Toolkit for Adaptive Stochastic Modeling and Non-Intrusive ApproximatioN
 - [sischei/global_solution_yale19](https://github.com/sischei/global_solution_yale19) - 
 - [GeoDaCenter/geoda](https://github.com/GeoDaCenter/geoda) - GeoDa: An introduction to spatial data analysis
 - [mapnik/mapnik](https://github.com/mapnik/mapnik) - Mapnik is an open source toolkit for developing mapping applications
@@ -117,7 +118,7 @@
 - [jethrokuan/mathpix.el](https://github.com/jethrokuan/mathpix.el) - Mathpix Emacs Plugin
 - [pythonic-emacs/anaconda-mode](https://github.com/pythonic-emacs/anaconda-mode) - Code navigation, documentation lookup and completion for Python.
 - [ianxm/emacs-scrum](https://github.com/ianxm/emacs-scrum) - dynamic scrum report generation for org-mode buffers
-- [darksmile/cheatsheet](https://github.com/darksmile/cheatsheet) - 
+- [mykyta-shyrin/cheatsheet](https://github.com/mykyta-shyrin/cheatsheet) - 
 - [jacktasia/dumb-jump](https://github.com/jacktasia/dumb-jump) - an Emacs "jump to definition" package for 50+ languages
 - [toshism/org-super-links](https://github.com/toshism/org-super-links) - Package to create links with auto backlinks
 - [Silex/elmacro](https://github.com/Silex/elmacro) - Package to display keyboard macros or latest interactive commands as emacs lisp.
@@ -202,6 +203,7 @@
 
 ## Julia 
 
+- [floswald/Tasmanian.jl](https://github.com/floswald/Tasmanian.jl) - Julia Wrapper to the Tasmanian library
 - [SciML/HighDimPDE.jl](https://github.com/SciML/HighDimPDE.jl) - A Julia package that breaks down the curse of dimensionality in solving PDEs.
 - [floswald/SMM.jl](https://github.com/floswald/SMM.jl) - Simulated Method of Moments for Julia
 - [chkwon/Complementarity.jl](https://github.com/chkwon/Complementarity.jl) - provides a modeling interface for mixed complementarity problems (MCP) and math programs with equilibrium problems (MPEC) via JuMP
@@ -381,6 +383,7 @@
 
 ## R 
 
+- [floswald/GAEZr](https://github.com/floswald/GAEZr) - Dowloading and Processing GAEZ v4 data in R
 - [BillPetti/baseballr](https://github.com/BillPetti/baseballr) - A package written for R focused on baseball analysis. Currently in development.
 - [guyabel/migest](https://github.com/guyabel/migest) - Tools for estimating, measuring and working with migration data.
 - [walkerke/tidycensus](https://github.com/walkerke/tidycensus) - Load US Census boundary and attribute data as 'tidyverse' and 'sf'-ready data frames in R
