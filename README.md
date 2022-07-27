@@ -19,7 +19,6 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [MATLAB](#matlab)
 - [Makefile](#makefile)
-- [Mathematica](#mathematica)
 - [Others](#others)
 - [PowerShell](#powershell)
 - [Python](#python)
@@ -272,10 +271,6 @@
 ## Makefile 
 
 - [jduckles/dsskills](https://github.com/jduckles/dsskills) - A skills matrix for Applied Data Science in Research
-
-## Mathematica 
-
-- [KennethJudd/CompEcon2020](https://github.com/KennethJudd/CompEcon2020) - Computational Economics Course 2020 by Kenneth Judd
 
 ## Others 
 
