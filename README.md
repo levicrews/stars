@@ -202,6 +202,7 @@
 
 ## Julia 
 
+- [JuliaDynamics/GoodScientificCodeWorkshop](https://github.com/JuliaDynamics/GoodScientificCodeWorkshop) - A workshop on writing good scientific code.
 - [floswald/Tasmanian.jl](https://github.com/floswald/Tasmanian.jl) - Julia Wrapper to the Tasmanian library
 - [SciML/HighDimPDE.jl](https://github.com/SciML/HighDimPDE.jl) - A Julia package that breaks down the curse of dimensionality in solving PDEs.
 - [floswald/SMM.jl](https://github.com/floswald/SMM.jl) - Simulated Method of Moments for Julia
@@ -274,6 +275,7 @@
 
 ## Others 
 
+- [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [rougier/dotemacs](https://github.com/rougier/dotemacs) - Litterate configuration for GNU Emacs
 - [antoinearnoud/book-fortran](https://github.com/antoinearnoud/book-fortran) - Fortran for Economists
 - [dkgaraujo/OpenSourcedMacroModels](https://github.com/dkgaraujo/OpenSourcedMacroModels) - A best-efforts collection of open-sourced macroeconomic models run by central banks and other official sector agencies (ie, ministries of economy)
