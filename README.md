@@ -309,6 +309,7 @@
 
 ## Python 
 
+- [benjaminvatterj/JobMarketTracker](https://github.com/benjaminvatterj/JobMarketTracker) - A simple economics job market application tracker
 - [johannesuhl/hironex](https://github.com/johannesuhl/hironex) - HiRoNEx: Historical road network extractor: A python tool for automatic, fully unsupervised extraction of historical road networks from historical maps.
 - [jldbc/pybaseball](https://github.com/jldbc/pybaseball) - Pull current and historical baseball statistics using Python (Statcast, Baseball Reference, FanGraphs)
 - [glamp/bashplotlib](https://github.com/glamp/bashplotlib) - plotting in the terminal
@@ -353,7 +354,7 @@
 - [gpoore/pythontex](https://github.com/gpoore/pythontex) - A LaTeX package that executes Python and other code in LaTeX documents, and includes the output
 - [EconForge/dolo.py](https://github.com/EconForge/dolo.py) - Economic modelling in python
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [iamlemec/patents](https://github.com/iamlemec/patents) - Parse and cluster USPTO patent data. Includes applications, grants, assignments, and maintenance.
+- [iamlemec/fastpat](https://github.com/iamlemec/fastpat) - Parse and cluster USPTO patent data. Includes applications, grants, assignments, and maintenance.
 - [dbcli/litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
 - [gboehl/pydsge](https://github.com/gboehl/pydsge) - A package to simulate, filter, and estimate DSGE models with occasionally binding constraints
 - [gillescastel/university-setup](https://github.com/gillescastel/university-setup) - My note taking setup scripts.
