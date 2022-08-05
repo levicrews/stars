@@ -275,6 +275,7 @@
 
 ## Others 
 
+- [allisonhorst/stats-illustrations](https://github.com/allisonhorst/stats-illustrations) - R & stats illustrations by @allison_horst
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [rougier/dotemacs](https://github.com/rougier/dotemacs) - Litterate configuration for GNU Emacs
 - [antoinearnoud/book-fortran](https://github.com/antoinearnoud/book-fortran) - Fortran for Economists
