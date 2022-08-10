@@ -235,7 +235,7 @@
 - [floswald/NumericalMethods](https://github.com/floswald/NumericalMethods) - website for numerical methods course
 - [aeturrell/coding-for-economists](https://github.com/aeturrell/coding-for-economists) - This repository hosts the code behind the online book, Coding for Economists.
 - [carpentries-incubator/geospatial-python](https://github.com/carpentries-incubator/geospatial-python) - Introduction to Geospatial Raster and Vector Data with Python
-- [GDSL-UL/san](https://github.com/GDSL-UL/san) - Spatial Analysis Notes
+- [GDSL-UL/san](https://github.com/GDSL-UL/san) - Spatial Modelling for Data Scientists
 - [iamlemec/data_science](https://github.com/iamlemec/data_science) - Getting started working with data, with applications to economics
 - [mwaugh0328/tradewar-tracker-aws-product-level](https://github.com/mwaugh0328/tradewar-tracker-aws-product-level) - Tradewar Tracker AWS product level code/plots
 - [fediskhakov/CompEcon](https://github.com/fediskhakov/CompEcon) - My "Foundations of Computational Economics" course
