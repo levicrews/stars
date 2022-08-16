@@ -202,6 +202,7 @@
 
 ## Julia 
 
+- [JuliaSIMD/LoopVectorization.jl](https://github.com/JuliaSIMD/LoopVectorization.jl) - Macro(s) for vectorizing loops.
 - [JuliaDynamics/GoodScientificCodeWorkshop](https://github.com/JuliaDynamics/GoodScientificCodeWorkshop) - A workshop on writing good scientific code.
 - [floswald/Tasmanian.jl](https://github.com/floswald/Tasmanian.jl) - Julia Wrapper to the Tasmanian library
 - [SciML/HighDimPDE.jl](https://github.com/SciML/HighDimPDE.jl) - A Julia package that breaks down the curse of dimensionality in solving PDEs.
