@@ -378,7 +378,7 @@
 - [johnjosephhorton/create_project](https://github.com/johnjosephhorton/create_project) - This is a python script for building a directory structure and a "hello world" make'able version of a LaTeX paper.
 - [gslab-econ/gslab_make](https://github.com/gslab-econ/gslab_make) - Python tools for GSLab
 - [econ-ark/HARK](https://github.com/econ-ark/HARK) - Heterogenous Agents Resources & toolKit
-- [NumEconCopenhagen/ConsumptionSaving](https://github.com/NumEconCopenhagen/ConsumptionSaving) - Solve and simulate consumption-saving models in Python (optimized with Numba) and C++
+- [NumEconCopenhagen/ConsumptionSaving](https://github.com/NumEconCopenhagen/ConsumptionSaving) - Library for solving consumption-saving models
 - [escheffel/pymaclab](https://github.com/escheffel/pymaclab) - Dynamic Stochastic Equilibrium Models (DSGE) in Python
 
 ## R 
