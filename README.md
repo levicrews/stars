@@ -288,7 +288,6 @@
 - [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
 - [yangycpku/macro_ML](https://github.com/yangycpku/macro_ML) - Course Website on Macroeconomic Analysis with Machine Learning and Big Data
 - [code-econ/awesome-econ](https://github.com/code-econ/awesome-econ) - Curated list of links related to coding in economics
-- [skhiggins/Python_guide](https://github.com/skhiggins/Python_guide) - Python instructions for research projects
 - [higham/what-is](https://github.com/higham/what-is) - Important concepts in numerical analysis and related areas
 - [FavioVazquez/ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) - List of Data Science Cheatsheets to rule the world
 - [microsoft/vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
@@ -344,6 +343,7 @@
 - [cverluise/patentcity](https://github.com/cverluise/patentcity) - Innovation across ages
 - [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - An open access book on scientific visualization using python and matplotlib
 - [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
+- [skhiggins/Python_guide](https://github.com/skhiggins/Python_guide) - Python instructions for research projects
 - [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker) - Turn repositories into Jupyter-enabled Docker images
 - [johnjosephhorton/texscrap](https://github.com/johnjosephhorton/texscrap) - Python utility for making PDFs out of scraps of LaTeX.
 - [Layout-Parser/layout-parser](https://github.com/Layout-Parser/layout-parser) - A Unified Toolkit for Deep Learning Based Document Image Analysis
