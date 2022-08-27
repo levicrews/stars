@@ -160,7 +160,6 @@
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [AloisJanicek/org-roam-server-light](https://github.com/AloisJanicek/org-roam-server-light) - compatible org-roam-server written in python for better performance with large network graphs
 - [Alalalalaki/Guide2EconRA](https://github.com/Alalalalaki/Guide2EconRA) - 
-- [alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
 - [edwardtufte/tufte-css](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts.
 - [edrubin/EC525S19](https://github.com/edrubin/EC525S19) - 
 - [merely-useful/mrsp](https://github.com/merely-useful/mrsp) - Managing Research Software Projects
@@ -467,6 +466,7 @@
 - [rebekahanne/LaTeX-templates](https://github.com/rebekahanne/LaTeX-templates) - 
 - [agoldst/tex](https://github.com/agoldst/tex) - Miscellaneous tex-related files
 - [sisl/tufte_algorithms_book](https://github.com/sisl/tufte_algorithms_book) - A template for textbooks in the same style as Algorithms for Optimization
+- [alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
 - [kjhealy/pandoc-templates](https://github.com/kjhealy/pandoc-templates) - Some templates for Pandoc.
 - [pjhuxford/rudin](https://github.com/pjhuxford/rudin) - Solutions to Exercises in Walter Rudin's Principles of Mathematical Analysis
 - [rdahis/paper_template](https://github.com/rdahis/paper_template) - Template repository for research papers.
