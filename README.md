@@ -310,7 +310,6 @@
 
 ## Python 
 
-- [benjaminvatterj/JobMarketTracker](https://github.com/benjaminvatterj/JobMarketTracker) - A simple economics job market application tracker
 - [johannesuhl/hironex](https://github.com/johannesuhl/hironex) - HiRoNEx: Historical road network extractor: A python tool for automatic, fully unsupervised extraction of historical road networks from historical maps.
 - [jldbc/pybaseball](https://github.com/jldbc/pybaseball) - Pull current and historical baseball statistics using Python (Statcast, Baseball Reference, FanGraphs)
 - [glamp/bashplotlib](https://github.com/glamp/bashplotlib) - plotting in the terminal
