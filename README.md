@@ -180,6 +180,7 @@
 
 ## JavaScript 
 
+- [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python
 - [astefanutti/decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations
