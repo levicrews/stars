@@ -157,7 +157,7 @@
 
 ## HTML 
 
-- [andreweatherman/toRvik](https://github.com/andreweatherman/toRvik) - Functions to Scrape Men's College Basketball Data from Barttorvik
+- [andreweatherman/toRvik](https://github.com/andreweatherman/toRvik) - Extensive and Tidy NCAA Men's College Basketball Data
 - [labordynamicsinstitute/reproducibility-confidential](https://github.com/labordynamicsinstitute/reproducibility-confidential) - Prepared for MONT^2.
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [AloisJanicek/org-roam-server-light](https://github.com/AloisJanicek/org-roam-server-light) - compatible org-roam-server written in python for better performance with large network graphs
