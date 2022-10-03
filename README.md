@@ -263,6 +263,7 @@
 
 ## MATLAB 
 
+- [GRousselet/matlab_stats](https://github.com/GRousselet/matlab_stats) - various Matlab statistics functions
 - [RagotXavier/Truncation_Method_Het](https://github.com/RagotXavier/Truncation_Method_Het) - Truncation Method For Heterogeneous-agent Models
 - [schaab-lab/SparseEcon](https://github.com/schaab-lab/SparseEcon) - 
 - [jeromematthewcelestine/hadsge](https://github.com/jeromematthewcelestine/hadsge) - Code for Bayesian estimation of a heterogeneous agent DSGE model (MATLAB) using the Reiter (2009) solution method.
