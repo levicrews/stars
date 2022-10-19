@@ -271,7 +271,6 @@
 - [naffe15/BVAR_](https://github.com/naffe15/BVAR_) - Empirical macro toolbox
 - [jesusfv/financial-frictions](https://github.com/jesusfv/financial-frictions) - Interactive guide to Fernández-Villaverde, Hurtado, and Nuño (2019): "Financial Frictions and the Wealth Distribution".
 - [jlperla/continuous_time_methods](https://github.com/jlperla/continuous_time_methods) - 
-- [DynareTeam/dynare](https://github.com/DynareTeam/dynare) - This project has moved to https://git.dynare.org/Dynare/dynare
 
 ## Makefile 
 
