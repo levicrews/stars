@@ -173,6 +173,7 @@
 - [kjhealy/course_template](https://github.com/kjhealy/course_template) - 
 - [rstudio-education/remaster-the-tidyverse](https://github.com/rstudio-education/remaster-the-tidyverse) - This is a planning repository where I develop Tidyverse-related workshops.
 - [chrisjsewell/ipypublish](https://github.com/chrisjsewell/ipypublish) - A workflow for creating and editing publication ready scientific reports and presentations, from one or more Jupyter Notebooks, without leaving the browser!
+- [gslab-econ/gslab_make](https://github.com/gslab-econ/gslab_make) - Python tools for GSLab
 
 ## Java 
 
@@ -380,7 +381,6 @@
 - [dmsul/econtools](https://github.com/dmsul/econtools) - Econometrics and data manipulation functions.
 - [drivendata/cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 - [johnjosephhorton/create_project](https://github.com/johnjosephhorton/create_project) - This is a python script for building a directory structure and a "hello world" make'able version of a LaTeX paper.
-- [gslab-econ/gslab_make](https://github.com/gslab-econ/gslab_make) - Python tools for GSLab
 - [econ-ark/HARK](https://github.com/econ-ark/HARK) - Heterogenous Agents Resources & toolKit
 - [NumEconCopenhagen/ConsumptionSaving](https://github.com/NumEconCopenhagen/ConsumptionSaving) - Library for solving consumption-saving models
 - [escheffel/pymaclab](https://github.com/escheffel/pymaclab) - Dynamic Stochastic Equilibrium Models (DSGE) in Python
