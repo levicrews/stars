@@ -432,6 +432,7 @@
 
 ## Shell 
 
+- [simonemainardi/load_patstat](https://github.com/simonemainardi/load_patstat) - An handy script that helps users loading the official EPO PATSTAT database into MySQL.
 - [ddvk/remarkable-hacks](https://github.com/ddvk/remarkable-hacks) - additional functionality via binary patching
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows Subsystem for Linux
 - [Parveshdhull/org-popup](https://github.com/Parveshdhull/org-popup) - Take notes for emacs org-mode using pop-ups
