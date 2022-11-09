@@ -444,7 +444,7 @@
 
 ## Stata 
 
-- [asjadnaqvi/Stata-schemes](https://github.com/asjadnaqvi/Stata-schemes) - Here you will find various ready-to-use Stata schemes.
+- [asjadnaqvi/stata-schemepack](https://github.com/asjadnaqvi/stata-schemepack) - Here you will find various ready-to-use Stata schemes.
 - [sergiocorreia/ftools](https://github.com/sergiocorreia/ftools) - Fast Stata commands for large datasets
 - [skhiggins/Stata_guide](https://github.com/skhiggins/Stata_guide) - Stata instructions for research projects
 - [jankabatek/statapack](https://github.com/jankabatek/statapack) - A collection of handy Stata programs for empirical analyses
