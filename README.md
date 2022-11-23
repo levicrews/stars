@@ -461,6 +461,8 @@
 
 ## TeX 
 
+- [pmichaillat/latex-presentation](https://github.com/pmichaillat/latex-presentation) - LaTeX style file to format academic presentations (Beamer)
+- [ambropo/JambroBeamerTheme](https://github.com/ambropo/JambroBeamerTheme) - JambroBeamerTheme
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 - [andrewfoote/public_dofiles](https://github.com/andrewfoote/public_dofiles) - This repository are do-files that I post on my website, and their primary purpose is to help implement solutions to common issues.
 - [worldbank/dime-standards](https://github.com/worldbank/dime-standards) - Repository with resources for DIME's research standards and coding standards
