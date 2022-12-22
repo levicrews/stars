@@ -192,7 +192,6 @@
 - [stsquad/emacs_chrome](https://github.com/stsquad/emacs_chrome) - A Chromium "clone" of It's All Text for spawning an editor to edit text areas in browsers. Based on David Hilley's original Chromium extension.
 - [gopasspw/gopassbridge](https://github.com/gopasspw/gopassbridge) - A web extension for firefox and chrome to insert login credentials from gopass
 - [aravindballa/gatsby-theme-andy](https://github.com/aravindballa/gatsby-theme-andy) - A Gatsby theme to build Andy style websites. 📑
-- [karlicoss/grasp](https://github.com/karlicoss/grasp) - A reliable org-capture browser extension for Chrome/Firefox
 - [JabRef/JabRef-Browser-Extension](https://github.com/JabRef/JabRef-Browser-Extension) - Browser extension for JabRef to allow importing of new items directly from the browser.
 - [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
 - [ankitrohatgi/WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer) - HTML5 based online tool to extract numerical data from plot images.
@@ -228,6 +227,7 @@
 
 ## Jupyter Notebook 
 
+- [iamlemec/fastreg](https://github.com/iamlemec/fastreg) - Fast sparse regressions with advanced formula syntax. OLS, GLM, Poisson, Maxlike, and more. High-dimensional fixed effects.
 - [shade-econ/nber-workshop-2022](https://github.com/shade-econ/nber-workshop-2022) - Code for the Spring 2022 heterogeneous-agent macro workshop
 - [mwaugh0328/consumption_and_tradewar](https://github.com/mwaugh0328/consumption_and_tradewar) - Code to reproduce aspects of "The Consumption Response to Trade Shocks: Evidence from the US-China Trade War"
 - [cpfiffer/julia-bootcamp-2022](https://github.com/cpfiffer/julia-bootcamp-2022) - 
@@ -359,6 +359,7 @@
 - [rougier/agenda](https://github.com/rougier/agenda) - Org agenda in the console
 - [thisiscam/math-with-slack](https://github.com/thisiscam/math-with-slack) - Rendered math (MathJax) with Slack's desktop client
 - [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!
+- [karlicoss/grasp](https://github.com/karlicoss/grasp) - A reliable org-capture browser extension for Chrome/Firefox
 - [erinhengel/Requests-NBER](https://github.com/erinhengel/Requests-NBER) - Custom Requests class to log onto NBER.org.
 - [gpoore/pythontex](https://github.com/gpoore/pythontex) - A LaTeX package that executes Python and other code in LaTeX documents, and includes the output
 - [EconForge/dolo.py](https://github.com/EconForge/dolo.py) - Economic modelling in python
