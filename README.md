@@ -262,7 +262,7 @@
 - [johnjosephhorton/dealing_with_data](https://github.com/johnjosephhorton/dealing_with_data) - Material that I use for a variety of classes and tutorials
 - [jlperla/KnowledgeDiffusionSimulations.jl](https://github.com/jlperla/KnowledgeDiffusionSimulations.jl) - Simulations for Models of Knowledge Diffusion/Idea Flows with exogenous innovation/adoption and finite numbers of agents
 - [stephenslab/ipynb-website](https://github.com/stephenslab/ipynb-website) - Simple data science website using Jupyter notebooks.
-- [soubhikbarari/MIT-PythonIntro](https://github.com/soubhikbarari/MIT-PythonIntro) - Jupyter notebooks, slides, codes and other materials from "Introduction to Python and Web Scraping" workshop hosted at the MIT Political Methodology Lab (Mar 17, 2017).
+- [soubhikbarari/mit-python-intro](https://github.com/soubhikbarari/mit-python-intro) - Jupyter notebooks, slides, codes and other materials from "Introduction to Python and Web Scraping" workshop hosted at the MIT Political Methodology Lab (Mar 17, 2017).
 
 ## MATLAB 
 
