@@ -233,7 +233,7 @@
 - [mwaugh0328/consumption_and_tradewar](https://github.com/mwaugh0328/consumption_and_tradewar) - Code to reproduce aspects of "The Consumption Response to Trade Shocks: Evidence from the US-China Trade War"
 - [cpfiffer/julia-bootcamp-2022](https://github.com/cpfiffer/julia-bootcamp-2022) - 
 - [SparseGridsForDynamicEcon/SparseGrids_in_econ_handbook](https://github.com/SparseGridsForDynamicEcon/SparseGrids_in_econ_handbook) - Example codes for the Handbook chapter "Sparse Grids for Dynamic Economic Models" (Oxford Research Encyclopedia of Economics and Finance)
-- [mwaugh0328/welfare-rural-urban-migration](https://github.com/mwaugh0328/welfare-rural-urban-migration) - final_migration
+- [mwaugh0328/welfare-rural-urban-migration](https://github.com/mwaugh0328/welfare-rural-urban-migration) - Replication files for Econometrica version of "The Welfare Effects of Encouraging Rural-Urban Migration"
 - [rickecon/StructEst_W20](https://github.com/rickecon/StructEst_W20) - MACS 40200 (Winter 2020): Structural Estimation
 - [ruhl0029/us-import-data](https://github.com/ruhl0029/us-import-data) - 
 - [dseconf/DSE2021](https://github.com/dseconf/DSE2021) - 
