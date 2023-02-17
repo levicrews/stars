@@ -293,7 +293,7 @@
 - [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
 - [yangycpku/macro_ML](https://github.com/yangycpku/macro_ML) - Course Website on Macroeconomic Analysis with Machine Learning and Big Data
 - [code-econ/awesome-econ](https://github.com/code-econ/awesome-econ) - Curated list of links related to coding in economics
-- [higham/what-is](https://github.com/higham/what-is) - Important concepts in numerical analysis and related areas
+- [higham/what-is](https://github.com/higham/what-is) - Important concepts in numerical linear algebra and related areas
 - [FavioVazquez/ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) - List of Data Science Cheatsheets to rule the world
 - [microsoft/vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
 - [sigma-py/quadpy](https://github.com/sigma-py/quadpy) - :triangular_ruler: Numerical integration (quadrature, cubature) in Python
