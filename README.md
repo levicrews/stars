@@ -282,6 +282,8 @@
 
 ## Others 
 
+- [anisotropi4/shambles](https://github.com/anisotropi4/shambles) - 
+- [microsoft/RoadDetections](https://github.com/microsoft/RoadDetections) - Road detections from Microsoft Maps aerial imagery
 - [allisonhorst/stats-illustrations](https://github.com/allisonhorst/stats-illustrations) - R & stats illustrations by @allison_horst
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [rougier/dotemacs](https://github.com/rougier/dotemacs) - Litterate configuration for GNU Emacs
