@@ -289,7 +289,7 @@
 - [rougier/dotemacs](https://github.com/rougier/dotemacs) - Litterate configuration for GNU Emacs
 - [antoinearnoud/book-fortran](https://github.com/antoinearnoud/book-fortran) - Fortran for Economists
 - [dkgaraujo/OpenSourcedMacroModels](https://github.com/dkgaraujo/OpenSourcedMacroModels) - A best-efforts collection of open-sourced macroeconomic models run by central banks and other official sector agencies (ie, ministries of economy)
-- [pmichaillat/intermediate-macro](https://github.com/pmichaillat/intermediate-macro) - Material for a semester-long course in intermediate macroeconomics
+- [pmichaillat/intermediate-macro](https://github.com/pmichaillat/intermediate-macro) - Teaching material for a semester-long course in intermediate macroeconomics
 - [cs-books/influential-cs-books](https://github.com/cs-books/influential-cs-books) - Most influential books on Computer Science/programming
 - [chrisdone/elisp-guide](https://github.com/chrisdone/elisp-guide) - A quick guide to Emacs Lisp programming
 - [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
@@ -318,6 +318,7 @@
 
 ## Python 
 
+- [SparseGridsForDynamicEcon/HDMR](https://github.com/SparseGridsForDynamicEcon/HDMR) - Example codes for the SIAM Journal on Scientific Computing (SISC) paper "High-Dimensional Dynamic Stochastic Model Representation"
 - [datamade/census](https://github.com/datamade/census) - A Python wrapper for the US Census API.
 - [cenpy-devs/cenpy](https://github.com/cenpy-devs/cenpy) - Explore and download data from Census APIs
 - [johannesuhl/hironex](https://github.com/johannesuhl/hironex) - HiRoNEx: Historical road network extractor: A python tool for automatic, fully unsupervised extraction of historical road networks from historical maps.
@@ -392,6 +393,7 @@
 
 ## R 
 
+- [kylebutts/ssaggregate](https://github.com/kylebutts/ssaggregate) - Create industry-level aggregates for shift-share IV following Borusyak, Hull, and Jaravel (2022)
 - [sportsdataverse/sportyR](https://github.com/sportsdataverse/sportyR) - R package for drawing regulation playing surfaces for several sports
 - [floswald/GAEZr](https://github.com/floswald/GAEZr) - Dowloading and Processing GAEZ v4 data in R
 - [BillPetti/baseballr](https://github.com/BillPetti/baseballr) - A package written for R focused on baseball analysis. Currently in development.
@@ -449,6 +451,7 @@
 
 ## Stata 
 
+- [borusyak/shift-share](https://github.com/borusyak/shift-share) - Replication package and code for "Quasi-Experimental Shift-Share Designs"
 - [asjadnaqvi/stata-schemepack](https://github.com/asjadnaqvi/stata-schemepack) - Here you will find various ready-to-use Stata schemes.
 - [sergiocorreia/ftools](https://github.com/sergiocorreia/ftools) - Fast Stata commands for large datasets
 - [skhiggins/Stata_guide](https://github.com/skhiggins/Stata_guide) - Stata instructions for research projects
