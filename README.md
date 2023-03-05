@@ -396,6 +396,7 @@
 
 ## R 
 
+- [coolbutuseless/emphatic](https://github.com/coolbutuseless/emphatic) - 
 - [kylebutts/ssaggregate](https://github.com/kylebutts/ssaggregate) - Create industry-level aggregates for shift-share IV following Borusyak, Hull, and Jaravel (2022)
 - [sportsdataverse/sportyR](https://github.com/sportsdataverse/sportyR) - R package for drawing regulation playing surfaces for several sports
 - [floswald/GAEZr](https://github.com/floswald/GAEZr) - Dowloading and Processing GAEZ v4 data in R
