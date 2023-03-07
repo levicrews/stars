@@ -231,6 +231,7 @@
 
 ## Jupyter Notebook 
 
+- [mwaugh0328/heterogeneous-agent-trade](https://github.com/mwaugh0328/heterogeneous-agent-trade) - HAT: Heterogenous Agent Trade Models
 - [iamlemec/fastreg](https://github.com/iamlemec/fastreg) - Fast sparse regressions with advanced formula syntax. OLS, GLM, Poisson, Maxlike, and more. High-dimensional fixed effects.
 - [shade-econ/nber-workshop-2022](https://github.com/shade-econ/nber-workshop-2022) - Code for the Spring 2022 heterogeneous-agent macro workshop
 - [mwaugh0328/consumption_and_tradewar](https://github.com/mwaugh0328/consumption_and_tradewar) - Code to reproduce aspects of "The Consumption Response to Trade Shocks: Evidence from the US-China Trade War"
@@ -439,6 +440,7 @@
 
 ## SCSS 
 
+- [floswald/ScPoResearchM1](https://github.com/floswald/ScPoResearchM1) - Presentation for M1 students
 - [wirtzdan/logseq-paper-theme](https://github.com/wirtzdan/logseq-paper-theme) - A minimal and paper-like theme for Logseq ✍️
 
 ## Shell 
