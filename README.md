@@ -475,6 +475,8 @@
 
 ## TeX 
 
+- [pmichaillat/latex-math](https://github.com/pmichaillat/latex-math) - Collection of LaTeX commands to write mathematical expressions easily
+- [pmichaillat/latex-paper](https://github.com/pmichaillat/latex-paper) - Minimalist template to write academic papers with LaTeX
 - [pmichaillat/latex-presentation](https://github.com/pmichaillat/latex-presentation) - Minimalist template to write academic presentations with LaTeX Beamer
 - [ambropo/JambroBeamerTheme](https://github.com/ambropo/JambroBeamerTheme) - JambroBeamerTheme
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
