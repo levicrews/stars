@@ -67,6 +67,7 @@
 
 ## Emacs Lisp 
 
+- [rougier/notes-list](https://github.com/rougier/notes-list) - Emacs notes list
 - [ronisbr/doom-nano-modeline](https://github.com/ronisbr/doom-nano-modeline) - A modeline for Doom Emacs based on N Λ N O Modeline
 - [ronisbr/doom-nano-themes](https://github.com/ronisbr/doom-nano-themes) - A light and dark themes for Doom Emacs based on N Λ N O Themes
 - [chrisbarrett/nursery](https://github.com/chrisbarrett/nursery) - Programs and libs that I haven't gotten around to formally packaging
@@ -231,6 +232,7 @@
 
 ## Jupyter Notebook 
 
+- [Global-Policy-Lab/mosaiks-paper](https://github.com/Global-Policy-Lab/mosaiks-paper) - Code and data to support our paper
 - [mwaugh0328/heterogeneous-agent-trade](https://github.com/mwaugh0328/heterogeneous-agent-trade) - HAT: Heterogenous Agent Trade Models
 - [iamlemec/fastreg](https://github.com/iamlemec/fastreg) - Fast sparse regressions with advanced formula syntax. OLS, GLM, Poisson, Maxlike, and more. High-dimensional fixed effects.
 - [shade-econ/nber-workshop-2022](https://github.com/shade-econ/nber-workshop-2022) - Code for the Spring 2022 heterogeneous-agent macro workshop
