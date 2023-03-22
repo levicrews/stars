@@ -44,6 +44,7 @@
 
 ## C++ 
 
+- [grf-labs/grf](https://github.com/grf-labs/grf) - Generalized Random Forests
 - [ORNL/TASMANIAN](https://github.com/ORNL/TASMANIAN) - The Toolkit for Adaptive Stochastic Modeling and Non-Intrusive ApproximatioN
 - [sischei/global_solution_yale19](https://github.com/sischei/global_solution_yale19) - 
 - [GeoDaCenter/geoda](https://github.com/GeoDaCenter/geoda) - GeoDa: An introduction to spatial data analysis
@@ -324,14 +325,14 @@
 
 ## Python 
 
-- [cpbotha/braindump4000](https://github.com/cpbotha/braindump4000) - jethrokuan's braindump modified for nested org-files and many broken links
+- [cpbotha/braindump4000](https://github.com/cpbotha/braindump4000) - jethrokuan's braindump modified for nested org-files and many broken links. Also Obsidian export!
 - [SparseGridsForDynamicEcon/HDMR](https://github.com/SparseGridsForDynamicEcon/HDMR) - Example codes for the SIAM Journal on Scientific Computing (SISC) paper "High-Dimensional Dynamic Stochastic Model Representation"
 - [datamade/census](https://github.com/datamade/census) - A Python wrapper for the US Census API.
 - [cenpy-devs/cenpy](https://github.com/cenpy-devs/cenpy) - Explore and download data from Census APIs
 - [johannesuhl/hironex](https://github.com/johannesuhl/hironex) - HiRoNEx: Historical road network extractor: A python tool for automatic, fully unsupervised extraction of historical road networks from historical maps.
 - [jldbc/pybaseball](https://github.com/jldbc/pybaseball) - Pull current and historical baseball statistics using Python (Statcast, Baseball Reference, FanGraphs)
 - [glamp/bashplotlib](https://github.com/glamp/bashplotlib) - plotting in the terminal
-- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
+- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [Uzay-G/espial](https://github.com/Uzay-G/espial) - Espial is an engine for automated organization and discovery of personal knowledge
 - [dkgaraujo/simpledmx](https://github.com/dkgaraujo/simpledmx) - A minimalistic experience with SDMX that fetches all data from sources
