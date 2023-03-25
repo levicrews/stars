@@ -296,7 +296,7 @@
 - [rougier/dotemacs](https://github.com/rougier/dotemacs) - Litterate configuration for GNU Emacs
 - [antoinearnoud/book-fortran](https://github.com/antoinearnoud/book-fortran) - Fortran for Economists
 - [dkgaraujo/OpenSourcedMacroModels](https://github.com/dkgaraujo/OpenSourcedMacroModels) - A best-efforts collection of open-sourced macroeconomic models run by central banks and other official sector agencies (ie, ministries of economy)
-- [pmichaillat/intermediate-macro](https://github.com/pmichaillat/intermediate-macro) - Teaching material for a semester-long course in intermediate macroeconomics
+- [pmichaillat/intermediate-macro](https://github.com/pmichaillat/intermediate-macro) - Source files producing all the teaching material for a semester-long course in intermediate macroeconomics
 - [cs-books/influential-cs-books](https://github.com/cs-books/influential-cs-books) - Most influential books on Computer Science/programming
 - [chrisdone/elisp-guide](https://github.com/chrisdone/elisp-guide) - A quick guide to Emacs Lisp programming
 - [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
@@ -480,7 +480,7 @@
 
 ## TeX 
 
-- [pmichaillat/latex-math](https://github.com/pmichaillat/latex-math) - Collection of minimalist LaTeX commands to write mathematical expressions easily
+- [pmichaillat/latex-math](https://github.com/pmichaillat/latex-math) - Collection of minimalist commands to write mathematical expressions with LaTeX
 - [pmichaillat/latex-paper](https://github.com/pmichaillat/latex-paper) - Minimalist template to write academic papers with LaTeX
 - [pmichaillat/latex-presentation](https://github.com/pmichaillat/latex-presentation) - Minimalist template to write academic presentations with LaTeX Beamer
 - [ambropo/JambroBeamerTheme](https://github.com/ambropo/JambroBeamerTheme) - JambroBeamerTheme
@@ -517,7 +517,7 @@
 - [andymatuschak/note-link-janitor](https://github.com/andymatuschak/note-link-janitor) - Maintains backlink structure among interlinked Markdown notes
 - [keplergl/kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
 - [andymatuschak/orbit](https://github.com/andymatuschak/orbit) - Experimental spaced repetition platform for exploring ideas in memory augmentation and programmable attention
-- [rasendubi/uniorg](https://github.com/rasendubi/uniorg) - An accurate Org-mode parser
+- [rasendubi/uniorg](https://github.com/rasendubi/uniorg) - An accurate Org-mode parser for JavaScript/TypeScript
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
 
 ## Vala 
