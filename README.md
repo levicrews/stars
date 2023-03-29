@@ -289,6 +289,7 @@
 
 ## Others 
 
+- [kot-behemoth/awesome-org-roam](https://github.com/kot-behemoth/awesome-org-roam) - 📒 A curated list of awesome Org-roam resources
 - [anisotropi4/shambles](https://github.com/anisotropi4/shambles) - 
 - [microsoft/RoadDetections](https://github.com/microsoft/RoadDetections) - Road detections from Microsoft Maps aerial imagery
 - [allisonhorst/stats-illustrations](https://github.com/allisonhorst/stats-illustrations) - R & stats illustrations by @allison_horst
