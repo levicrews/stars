@@ -289,6 +289,7 @@
 
 ## Others 
 
+- [antontarasenko/awesome-economics](https://github.com/antontarasenko/awesome-economics) - A curated collection of links for economists
 - [kot-behemoth/awesome-org-roam](https://github.com/kot-behemoth/awesome-org-roam) - 📒 A curated list of awesome Org-roam resources
 - [anisotropi4/shambles](https://github.com/anisotropi4/shambles) - 
 - [microsoft/RoadDetections](https://github.com/microsoft/RoadDetections) - Road detections from Microsoft Maps aerial imagery
@@ -418,6 +419,7 @@
 - [AEADataEditor/docker-r-starter](https://github.com/AEADataEditor/docker-r-starter) - This repo provides instructions on how to build an R docker image that can serve as the basis for interactive or automated reproducible processing
 - [matthieugomez/benchmark-stata-r](https://github.com/matthieugomez/benchmark-stata-r) - Speed benchmark of Stata and R on common data manipulations
 - [rgiordan/zaminfluence](https://github.com/rgiordan/zaminfluence) - Tools in R for computing and using Z-estimator approximate influence functions.
+- [hollina/example_project](https://github.com/hollina/example_project) - An example project using stata and R
 - [setzler/EconData](https://github.com/setzler/EconData) - Data repository and R package to manage publicly-available economics data.
 - [erdavis1/RoadColors](https://github.com/erdavis1/RoadColors) - Plot US roads, coloring each by its designation (e.g. Street, Road, Avenue)
 - [alfredgalichon/OTME](https://github.com/alfredgalichon/OTME) - Programs for Optimal Transport Methods in Economics
@@ -503,7 +505,6 @@
 - [rdahis/paper_template](https://github.com/rdahis/paper_template) - Template repository for research papers.
 - [vtex-soft/texsupport.econometricsociety-ecta](https://github.com/vtex-soft/texsupport.econometricsociety-ecta) - LaTeX author support files for the Econometric Society journal Econmetrica.
 - [woerman/ResEcon703](https://github.com/woerman/ResEcon703) - Topics in Advanced Econometrics (ResEcon 703). University of Massachusetts Amherst. Taught by Matt Woerman
-- [hollina/example_project](https://github.com/hollina/example_project) - An example project using stata and R
 - [Robinlovelace/open-gat](https://github.com/Robinlovelace/open-gat) - Open source software for geographic transport data analysis and planning
 - [knaaptime/mandown](https://github.com/knaaptime/mandown) - Scholarly Manuscripts in Markdown
 - [chrisconlon/micro-metrics](https://github.com/chrisconlon/micro-metrics) - This is a 2nd Year PhD Course In Micro-econometrics
