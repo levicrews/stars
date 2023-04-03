@@ -298,7 +298,7 @@
 - [rougier/dotemacs](https://github.com/rougier/dotemacs) - Litterate configuration for GNU Emacs
 - [antoinearnoud/book-fortran](https://github.com/antoinearnoud/book-fortran) - Fortran for Economists
 - [dkgaraujo/OpenSourcedMacroModels](https://github.com/dkgaraujo/OpenSourcedMacroModels) - A best-efforts collection of open-sourced macroeconomic models run by central banks and other official sector agencies (ie, ministries of economy)
-- [pmichaillat/intermediate-macro](https://github.com/pmichaillat/intermediate-macro) - Source files producing teaching material for a course in intermediate macroeconomics
+- [pmichaillat/intermediate-macro](https://github.com/pmichaillat/intermediate-macro) - Source files producing the teaching material for a course in intermediate macroeconomics
 - [cs-books/influential-cs-books](https://github.com/cs-books/influential-cs-books) - Most influential books on Computer Science/programming
 - [chrisdone/elisp-guide](https://github.com/chrisdone/elisp-guide) - A quick guide to Emacs Lisp programming
 - [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
@@ -483,9 +483,9 @@
 
 ## TeX 
 
-- [pmichaillat/latex-math](https://github.com/pmichaillat/latex-math) - Collection of minimalist commands to write mathematical expressions with LaTeX
-- [pmichaillat/latex-paper](https://github.com/pmichaillat/latex-paper) - Minimalist template to write academic papers with LaTeX
-- [pmichaillat/latex-presentation](https://github.com/pmichaillat/latex-presentation) - Minimalist template to write academic presentations with LaTeX Beamer
+- [pmichaillat/latex-math](https://github.com/pmichaillat/latex-math) - Minimalist LaTeX commands to write mathematical expressions
+- [pmichaillat/latex-paper](https://github.com/pmichaillat/latex-paper) - Minimalist LaTeX template for academic papers
+- [pmichaillat/latex-presentation](https://github.com/pmichaillat/latex-presentation) - Minimalist LaTeX template for academic presentations
 - [ambropo/JambroBeamerTheme](https://github.com/ambropo/JambroBeamerTheme) - JambroBeamerTheme
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 - [andrewfoote/public_dofiles](https://github.com/andrewfoote/public_dofiles) - This repository are do-files that I post on my website, and their primary purpose is to help implement solutions to common issues.
