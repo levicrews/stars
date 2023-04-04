@@ -163,6 +163,7 @@
 
 ## HTML 
 
+- [kirqe/autm-rb](https://github.com/kirqe/autm-rb) - Jekyll theme
 - [andreweatherman/toRvik](https://github.com/andreweatherman/toRvik) - Extensive and Tidy NCAA Men's College Basketball Data
 - [labordynamicsinstitute/reproducibility-confidential](https://github.com/labordynamicsinstitute/reproducibility-confidential) - Prepared for MONT^2.
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
