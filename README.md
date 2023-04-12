@@ -68,6 +68,7 @@
 
 ## Emacs Lisp 
 
+- [jxq0/org-tidy](https://github.com/jxq0/org-tidy) - 🧹  An Emacs minor mode to automatically tidy org-mode property drawers
 - [rougier/notes-list](https://github.com/rougier/notes-list) - Emacs notes list
 - [ronisbr/doom-nano-modeline](https://github.com/ronisbr/doom-nano-modeline) - A modeline for Doom Emacs based on N Λ N O Modeline
 - [ronisbr/doom-nano-themes](https://github.com/ronisbr/doom-nano-themes) - A light and dark themes for Doom Emacs based on N Λ N O Themes
