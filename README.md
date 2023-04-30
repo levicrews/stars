@@ -164,6 +164,7 @@
 
 ## HTML 
 
+- [alshedivat/al-folio](https://github.com/alshedivat/al-folio) - A beautiful, simple, clean, and responsive Jekyll theme for academics
 - [kirqe/autm-rb](https://github.com/kirqe/autm-rb) - Jekyll theme
 - [andreweatherman/toRvik](https://github.com/andreweatherman/toRvik) - Extensive and Tidy NCAA Men's College Basketball Data
 - [labordynamicsinstitute/reproducibility-confidential](https://github.com/labordynamicsinstitute/reproducibility-confidential) - Prepared for MONT^2.
@@ -406,6 +407,7 @@
 
 ## R 
 
+- [jdingel/lights_to_cities](https://github.com/jdingel/lights_to_cities) - R code implementing the Dingel-Miscio-Davis algorithm to construct metropolitan areas by aggregating finer geographic units on the basis of contiguous areas of light in nighttime satellite images
 - [coolbutuseless/emphatic](https://github.com/coolbutuseless/emphatic) - 
 - [kylebutts/ssaggregate](https://github.com/kylebutts/ssaggregate) - Create industry-level aggregates for shift-share IV following Borusyak, Hull, and Jaravel (2022)
 - [sportsdataverse/sportyR](https://github.com/sportsdataverse/sportyR) - R package for drawing regulation playing surfaces for several sports
@@ -486,6 +488,7 @@
 
 ## TeX 
 
+- [paulgp/applied-methods-phd](https://github.com/paulgp/applied-methods-phd) - Repo for Yale Applied Empirical Methods PHD Course
 - [pmichaillat/latex-math](https://github.com/pmichaillat/latex-math) - Minimalist LaTeX commands to write mathematical expressions
 - [pmichaillat/latex-paper](https://github.com/pmichaillat/latex-paper) - Minimalist LaTeX template for academic papers
 - [pmichaillat/latex-presentation](https://github.com/pmichaillat/latex-presentation) - Minimalist LaTeX template for academic presentations
