@@ -236,6 +236,7 @@
 
 ## Jupyter Notebook 
 
+- [nikolakou/RA_HetAgents](https://github.com/nikolakou/RA_HetAgents) - 
 - [sischei/DeepEquilibriumNets](https://github.com/sischei/DeepEquilibriumNets) - 
 - [Global-Policy-Lab/mosaiks-paper](https://github.com/Global-Policy-Lab/mosaiks-paper) - Code and data to support our paper
 - [mwaugh0328/heterogeneous-agent-trade](https://github.com/mwaugh0328/heterogeneous-agent-trade) - HAT: Heterogenous Agent Trade Models
