@@ -278,6 +278,7 @@
 
 ## MATLAB 
 
+- [chebfun/chebfun](https://github.com/chebfun/chebfun) - Chebfun:  numerical computing with functions.
 - [GRousselet/matlab_stats](https://github.com/GRousselet/matlab_stats) - various Matlab statistics functions
 - [RagotXavier/Truncation_Method_Het](https://github.com/RagotXavier/Truncation_Method_Het) - Truncation Method For Heterogeneous-agent Models
 - [schaab-lab/SparseEcon](https://github.com/schaab-lab/SparseEcon) - 
