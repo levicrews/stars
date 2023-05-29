@@ -40,7 +40,7 @@
 
 ## C 
 
-- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
+- [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 
 ## C++ 
 
@@ -491,6 +491,7 @@
 
 ## TeX 
 
+- [kylebutts/templates](https://github.com/kylebutts/templates) - Templates of all kind
 - [paulgp/applied-methods-phd](https://github.com/paulgp/applied-methods-phd) - Repo for Yale Applied Empirical Methods PHD Course
 - [pmichaillat/latex-math](https://github.com/pmichaillat/latex-math) - Minimalist LaTeX commands to write mathematical expressions
 - [pmichaillat/latex-paper](https://github.com/pmichaillat/latex-paper) - Minimalist LaTeX template for academic papers
