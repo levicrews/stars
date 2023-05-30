@@ -68,6 +68,7 @@
 
 ## Emacs Lisp 
 
+- [xenodium/dwim-shell-command](https://github.com/xenodium/dwim-shell-command) - Emacs shell commands with DWIM behaviour
 - [jxq0/org-tidy](https://github.com/jxq0/org-tidy) - 🧹  An Emacs minor mode to automatically tidy org-mode property drawers
 - [rougier/notes-list](https://github.com/rougier/notes-list) - Emacs notes list
 - [ronisbr/doom-nano-modeline](https://github.com/ronisbr/doom-nano-modeline) - A modeline for Doom Emacs based on N Λ N O Modeline
@@ -455,6 +456,7 @@
 
 ## SCSS 
 
+- [monkeyWzr/hugo-theme-cactus](https://github.com/monkeyWzr/hugo-theme-cactus) - Cactus theme for hugo
 - [floswald/ScPoResearchM1](https://github.com/floswald/ScPoResearchM1) - Presentation for M1 students
 - [wirtzdan/logseq-paper-theme](https://github.com/wirtzdan/logseq-paper-theme) - A minimal and paper-like theme for Logseq ✍️
 
