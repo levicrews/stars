@@ -493,6 +493,7 @@
 
 ## TeX 
 
+- [anishathalye/auriga](https://github.com/anishathalye/auriga) - Auriga is a minimalist LaTeX beamer presentation theme 📽
 - [kylebutts/templates](https://github.com/kylebutts/templates) - Templates of all kind
 - [paulgp/applied-methods-phd](https://github.com/paulgp/applied-methods-phd) - Repo for Yale Applied Empirical Methods PHD Course
 - [pmichaillat/latex-math](https://github.com/pmichaillat/latex-math) - Minimalist LaTeX commands to write mathematical expressions
