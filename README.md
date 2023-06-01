@@ -493,10 +493,12 @@
 
 ## TeX 
 
+- [pmichaillat/math-for-macro](https://github.com/pmichaillat/math-for-macro) - Source files producing the teaching material for a course in mathematical methods for macroeconomics
+- [kjhealy/latex-custom-kjh](https://github.com/kjhealy/latex-custom-kjh) - Some simple configuration files I use for use with LaTeX, the Memoir class and the Listings package.
+- [matze/mtheme](https://github.com/matze/mtheme) - A modern LaTeX Beamer theme
 - [anishathalye/auriga](https://github.com/anishathalye/auriga) - Auriga is a minimalist LaTeX beamer presentation theme 📽
 - [kylebutts/templates](https://github.com/kylebutts/templates) - Templates of all kind
 - [paulgp/applied-methods-phd](https://github.com/paulgp/applied-methods-phd) - Repo for Yale Applied Empirical Methods PHD Course
-- [pmichaillat/latex-math](https://github.com/pmichaillat/latex-math) - Minimalist LaTeX commands to write mathematical expressions
 - [pmichaillat/latex-paper](https://github.com/pmichaillat/latex-paper) - Minimalist LaTeX template for academic papers
 - [pmichaillat/latex-presentation](https://github.com/pmichaillat/latex-presentation) - Minimalist LaTeX template for academic presentations
 - [ambropo/JambroBeamerTheme](https://github.com/ambropo/JambroBeamerTheme) - JambroBeamerTheme
