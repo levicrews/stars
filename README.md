@@ -40,6 +40,7 @@
 
 ## C 
 
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 
 ## C++ 
