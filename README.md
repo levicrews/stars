@@ -177,7 +177,6 @@
 - [edrubin/EC525S19](https://github.com/edrubin/EC525S19) - 
 - [merely-useful/mrsp](https://github.com/merely-useful/mrsp) - Managing Research Software Projects
 - [AEM7130/class-repo](https://github.com/AEM7130/class-repo) - AEM 7130: Dynamic Optimization/Computational Methods
-- [uo-ec510-2020-spring/lectures](https://github.com/uo-ec510-2020-spring/lectures) - Lecture material for Big Data in Economics (EC 410/510)
 - [iiSeymour/sparkline-nb](https://github.com/iiSeymour/sparkline-nb) - Render sparkline style charts in pandas dataframes
 - [maelle/testbook](https://github.com/maelle/testbook) - :warning: CONCEPT! :warning: beautiful book as html and PDF using Hugo and paged.js
 - [uo-ec607/lectures](https://github.com/uo-ec607/lectures) - Lecture notes for EC 607
