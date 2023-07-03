@@ -88,7 +88,7 @@
 - [veelenga/carbon-now-sh.el](https://github.com/veelenga/carbon-now-sh.el) - Emacs to https://carbon.now.sh integration
 - [emacsorphanage/anzu](https://github.com/emacsorphanage/anzu) - Emacs Port of anzu.vim
 - [alphapapa/org-web-tools](https://github.com/alphapapa/org-web-tools) - View, capture, and archive Web pages in Org-mode
-- [tecosaur/emacs-everywhere](https://github.com/tecosaur/emacs-everywhere) - System-wide popup Emacs windows for quick edits
+- [tecosaur/emacs-everywhere](https://github.com/tecosaur/emacs-everywhere) - Mirror of https://git.tecosaur.net/tec/emacs-everywhere
 - [lepisma/oca](https://github.com/lepisma/oca) - Org Capture Anywhere
 - [bbatsov/guru-mode](https://github.com/bbatsov/guru-mode) - Learn to use Emacs the way it was meant to be used (the Emacs guru way)
 - [bazelbuild/emacs-bazel-mode](https://github.com/bazelbuild/emacs-bazel-mode) - Emacs mode for Bazel
@@ -106,7 +106,7 @@
 - [guanyilun/org-elp](https://github.com/guanyilun/org-elp) - Preview equations live in org-mode
 - [awth13/org-appear](https://github.com/awth13/org-appear) - Toggle visibility of hidden Org mode element parts upon entering and leaving an element
 - [rougier/nano-emacs](https://github.com/rougier/nano-emacs) - GNU Emacs / N Λ N O - Emacs made simple
-- [susam/emacs4cl](https://github.com/susam/emacs4cl) - A 50 line DIY kit to set up vanilla Emacs for Common Lisp programming
+- [susam/emacs4cl](https://github.com/susam/emacs4cl) - A tiny DIY kit to set up vanilla Emacs for Common Lisp programming
 - [dalanicolai/pdf-continuous-scroll-mode.el](https://github.com/dalanicolai/pdf-continuous-scroll-mode.el) - A pdf-tools extension that provides continuous scrolling functionality
 - [nbfalcon/ptemplate](https://github.com/nbfalcon/ptemplate) - Powerful project (directory) templates for Emacs
 - [io12/org-fragtog](https://github.com/io12/org-fragtog) - Automatically toggle Org mode LaTeX fragment previews as the cursor enters and exits them
