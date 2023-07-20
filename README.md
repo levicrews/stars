@@ -528,6 +528,7 @@
 
 ## TypeScript 
 
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [x7ci/site_project](https://github.com/x7ci/site_project) - My personal website built with React, TypeScript & styled using Stitches.
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
