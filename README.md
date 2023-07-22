@@ -474,6 +474,7 @@
 
 ## Stata 
 
+- [rdahis/clean_RAIS](https://github.com/rdahis/clean_RAIS) - Code to clean the RAIS data set (Brazilian matched employer-employee data, 1985-2018)
 - [sergiocorreia/ivreghdfe](https://github.com/sergiocorreia/ivreghdfe) - Run IV/2SLS with many levels of fixed effects (i.e. ivreg2+reghdfe)
 - [borusyak/shift-share](https://github.com/borusyak/shift-share) - Replication package and code for "Quasi-Experimental Shift-Share Designs"
 - [asjadnaqvi/stata-schemepack](https://github.com/asjadnaqvi/stata-schemepack) - Here you will find various ready-to-use Stata schemes.
