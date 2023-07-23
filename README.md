@@ -36,6 +36,7 @@
 
 ## AMPL 
 
+- [RagotXavier/Truncation_Method_Het](https://github.com/RagotXavier/Truncation_Method_Het) - Truncation Method For Heterogeneous-agent Models
 - [JohannesPfeifer/DSGE_mod](https://github.com/JohannesPfeifer/DSGE_mod) - A collection of Dynare models
 
 ## C 
@@ -281,7 +282,6 @@
 
 - [chebfun/chebfun](https://github.com/chebfun/chebfun) - Chebfun:  numerical computing with functions.
 - [GRousselet/matlab_stats](https://github.com/GRousselet/matlab_stats) - various Matlab statistics functions
-- [RagotXavier/Truncation_Method_Het](https://github.com/RagotXavier/Truncation_Method_Het) - Truncation Method For Heterogeneous-agent Models
 - [schaab-lab/SparseEcon](https://github.com/schaab-lab/SparseEcon) - 
 - [jeromematthewcelestine/hadsge](https://github.com/jeromematthewcelestine/hadsge) - Code for Bayesian estimation of a heterogeneous agent DSGE model (MATLAB) using the Reiter (2009) solution method.
 - [ralphluet/KS_Perturbation_vs_MIT](https://github.com/ralphluet/KS_Perturbation_vs_MIT) - This code solves the Krusell-Smith model in two ways: Perturbation and MIT shock. More details on the model and the solution approach can be found in the paper: Christian Bayer, Ralph Luetticke (2020)
