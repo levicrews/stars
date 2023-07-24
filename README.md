@@ -349,7 +349,7 @@
 - [paulgp/google_scholar_share](https://github.com/paulgp/google_scholar_share) - 
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
-- [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
+- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [chrisconlon/kiltsnielsen](https://github.com/chrisconlon/kiltsnielsen) - Python utilities for working with Kilts-Nielsen files
 - [lux-org/lux](https://github.com/lux-org/lux) - Automatically visualize your pandas dataframe via a single print! 📊 💡
 - [vatlab/sos](https://github.com/vatlab/sos) - SoS workflow system for daily data analysis
