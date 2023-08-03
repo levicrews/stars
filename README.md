@@ -448,6 +448,7 @@
 
 ## Rust 
 
+- [matklad/pale-fire](https://github.com/matklad/pale-fire) - Port of Emacs Zenburn theme to VS Code
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
 - [adam-mcdaniel/dune](https://github.com/adam-mcdaniel/dune) - A shell🐚 by the beach🏖️!
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
