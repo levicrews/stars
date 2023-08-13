@@ -70,6 +70,10 @@
 
 ## Emacs Lisp 
 
+- [myuhe/org-gcal.el](https://github.com/myuhe/org-gcal.el) - Org sync with Google Calendar
+- [ml729/calfw-blocks](https://github.com/ml729/calfw-blocks) - Visual enhancements for the Emacs Calendar Framework (calfw)
+- [dengste/org-caldav](https://github.com/dengste/org-caldav) - Caldav sync for Emacs orgmode
+- [dmitrym0/org-hyperscheduler](https://github.com/dmitrym0/org-hyperscheduler) - org-hyperscheduler is an Emacs package that helps you organize your day.
 - [xenodium/dwim-shell-command](https://github.com/xenodium/dwim-shell-command) - Emacs shell commands with DWIM behaviour
 - [jxq0/org-tidy](https://github.com/jxq0/org-tidy) - 🧹  An Emacs minor mode to automatically tidy org-mode property drawers
 - [rougier/notes-list](https://github.com/rougier/notes-list) - Emacs notes list
