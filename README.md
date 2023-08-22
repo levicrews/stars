@@ -197,6 +197,8 @@
 
 ## JavaScript 
 
+- [mzeryck/Widget-Blur](https://github.com/mzeryck/Widget-Blur) - This script for the Scriptable app creates widget backgrounds that appear to be transparent. You can also optionally emulate the light or dark blur effect used in the Batteries widget from Apple.
+- [mzeryck/Weather-Cal](https://github.com/mzeryck/Weather-Cal) - This is a Scriptable widget that lets you display, position, and format multiple elements, including dates and events, weather information, battery level, and more. You can even create your own elemen
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
