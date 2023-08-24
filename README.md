@@ -41,6 +41,7 @@
 
 ## C 
 
+- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 
@@ -197,6 +198,7 @@
 
 ## JavaScript 
 
+- [ryanpcmcquen/obsidian-org-mode](https://github.com/ryanpcmcquen/obsidian-org-mode) - Add Org Mode support to Obsidian.
 - [mzeryck/Widget-Blur](https://github.com/mzeryck/Widget-Blur) - This script for the Scriptable app creates widget backgrounds that appear to be transparent. You can also optionally emulate the light or dark blur effect used in the Batteries widget from Apple.
 - [mzeryck/Weather-Cal](https://github.com/mzeryck/Weather-Cal) - This is a Scriptable widget that lets you display, position, and format multiple elements, including dates and events, weather information, battery level, and more. You can even create your own elemen
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
