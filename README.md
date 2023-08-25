@@ -198,6 +198,7 @@
 
 ## JavaScript 
 
+- [yaylinda/scriptable](https://github.com/yaylinda/scriptable) - Scripts and widgets for the iOS Scriptable App
 - [ryanpcmcquen/obsidian-org-mode](https://github.com/ryanpcmcquen/obsidian-org-mode) - Add Org Mode support to Obsidian.
 - [mzeryck/Widget-Blur](https://github.com/mzeryck/Widget-Blur) - This script for the Scriptable app creates widget backgrounds that appear to be transparent. You can also optionally emulate the light or dark blur effect used in the Batteries widget from Apple.
 - [mzeryck/Weather-Cal](https://github.com/mzeryck/Weather-Cal) - This is a Scriptable widget that lets you display, position, and format multiple elements, including dates and events, weather information, battery level, and more. You can even create your own elemen
@@ -499,6 +500,7 @@
 
 ## Swift 
 
+- [kuglee/TermiWatch](https://github.com/kuglee/TermiWatch) - Terminal Watch Face for Apple Watch
 - [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 
 ## TeX 
