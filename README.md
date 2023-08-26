@@ -41,7 +41,6 @@
 
 ## C 
 
-- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 
