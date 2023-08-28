@@ -304,7 +304,7 @@
 
 ## Others 
 
-- [jdingel/econ6905](https://github.com/jdingel/econ6905) - Topics in Trade
+- [jdingel/econ6905](https://github.com/jdingel/econ6905) - Econ 6905 "Topics in Trade" PhD class at Columbia University
 - [wowchemy/hugo-second-brain-theme](https://github.com/wowchemy/hugo-second-brain-theme) - 🧠 卡片盒笔记法：面向未来的第二大脑 Your future-proof second brain and digital garden for free! Make it truly yours with unlimited customization!
 - [antontarasenko/awesome-economics](https://github.com/antontarasenko/awesome-economics) - A curated collection of links for economists
 - [kot-behemoth/awesome-org-roam](https://github.com/kot-behemoth/awesome-org-roam) - 📒 A curated list of awesome Org-roam resources
