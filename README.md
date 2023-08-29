@@ -246,6 +246,7 @@
 
 ## Jupyter Notebook 
 
+- [jlperla/PerlaTonettiWaugh.jl](https://github.com/jlperla/PerlaTonettiWaugh.jl) - Code and algorithms for "Equilibrium Technology Diffusion, Trade, and Growth"
 - [nikolakou/RA_HetAgents](https://github.com/nikolakou/RA_HetAgents) - 
 - [sischei/DeepEquilibriumNets](https://github.com/sischei/DeepEquilibriumNets) - 
 - [Global-Policy-Lab/mosaiks-paper](https://github.com/Global-Policy-Lab/mosaiks-paper) - Code and data to support our paper
@@ -308,7 +309,7 @@
 - [wowchemy/hugo-second-brain-theme](https://github.com/wowchemy/hugo-second-brain-theme) - 🧠 卡片盒笔记法：面向未来的第二大脑 Your future-proof second brain and digital garden for free! Make it truly yours with unlimited customization!
 - [antontarasenko/awesome-economics](https://github.com/antontarasenko/awesome-economics) - A curated collection of links for economists
 - [kot-behemoth/awesome-org-roam](https://github.com/kot-behemoth/awesome-org-roam) - 📒 A curated list of awesome Org-roam resources
-- [anisotropi4/shambles](https://github.com/anisotropi4/shambles) - 
+- [guidoeco/shambles](https://github.com/guidoeco/shambles) - 
 - [microsoft/RoadDetections](https://github.com/microsoft/RoadDetections) - Road detections from Microsoft Maps aerial imagery
 - [allisonhorst/stats-illustrations](https://github.com/allisonhorst/stats-illustrations) - R & stats illustrations by @allison_horst
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
@@ -420,7 +421,7 @@
 ## R 
 
 - [jdingel/lights_to_cities](https://github.com/jdingel/lights_to_cities) - R code implementing the Dingel-Miscio-Davis algorithm to construct metropolitan areas by aggregating finer geographic units on the basis of contiguous areas of light in nighttime satellite images
-- [coolbutuseless/emphatic](https://github.com/coolbutuseless/emphatic) - 
+- [coolbutuseless/emphatic](https://github.com/coolbutuseless/emphatic) - ANSI colouring of R output
 - [kylebutts/ssaggregate](https://github.com/kylebutts/ssaggregate) - Create industry-level aggregates for shift-share IV following Borusyak, Hull, and Jaravel (2022)
 - [sportsdataverse/sportyR](https://github.com/sportsdataverse/sportyR) - R package for drawing regulation playing surfaces for several sports
 - [floswald/GAEZr](https://github.com/floswald/GAEZr) - Dowloading and Processing GAEZ v4 data in R
