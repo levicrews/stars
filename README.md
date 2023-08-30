@@ -246,6 +246,7 @@
 
 ## Jupyter Notebook 
 
+- [dseconf/DSE2023](https://github.com/dseconf/DSE2023) - Lectures and conference materials for the DSE2023 at the University of Lausanne, Switzerland
 - [jlperla/PerlaTonettiWaugh.jl](https://github.com/jlperla/PerlaTonettiWaugh.jl) - Code and algorithms for "Equilibrium Technology Diffusion, Trade, and Growth"
 - [nikolakou/RA_HetAgents](https://github.com/nikolakou/RA_HetAgents) - 
 - [sischei/DeepEquilibriumNets](https://github.com/sischei/DeepEquilibriumNets) - 
