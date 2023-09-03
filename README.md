@@ -347,6 +347,7 @@
 
 ## Python 
 
+- [tlamadon/scriptflow](https://github.com/tlamadon/scriptflow) - Simple flow over script files, like a Makeflie but writen as python code
 - [cpbotha/braindump4000](https://github.com/cpbotha/braindump4000) - jethrokuan's braindump modified for nested org-files and many broken links. Also Obsidian export!
 - [SparseGridsForDynamicEcon/HDMR](https://github.com/SparseGridsForDynamicEcon/HDMR) - Example codes for the SIAM Journal on Scientific Computing (SISC) paper "High-Dimensional Dynamic Stochastic Model Representation"
 - [datamade/census](https://github.com/datamade/census) - A Python wrapper for the US Census API.
