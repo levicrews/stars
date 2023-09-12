@@ -346,6 +346,7 @@
 
 ## Python 
 
+- [wilson-labs/cola](https://github.com/wilson-labs/cola) - Compositional Linear Algebra
 - [tlamadon/scriptflow](https://github.com/tlamadon/scriptflow) - Simple flow over script files, like a Makeflie but writen as python code
 - [cpbotha/braindump4000](https://github.com/cpbotha/braindump4000) - jethrokuan's braindump modified for nested org-files and many broken links. Also Obsidian export!
 - [SparseGridsForDynamicEcon/HDMR](https://github.com/SparseGridsForDynamicEcon/HDMR) - Example codes for the SIAM Journal on Scientific Computing (SISC) paper "High-Dimensional Dynamic Stochastic Model Representation"
@@ -507,6 +508,7 @@
 
 ## TeX 
 
+- [st--/annotate-equations](https://github.com/st--/annotate-equations) - LaTeX package and annotated examples for annotating equations using TikZ.
 - [jdingel/econ6905](https://github.com/jdingel/econ6905) - Econ 6905 "Topics in Trade" PhD class at Columbia University
 - [pmichaillat/math-for-macro](https://github.com/pmichaillat/math-for-macro) - Source files producing the teaching material for the course "Mathematical Methods for Macroeconomics"
 - [kjhealy/latex-custom-kjh](https://github.com/kjhealy/latex-custom-kjh) - Some simple configuration files I use for use with LaTeX, the Memoir class and the Listings package.
