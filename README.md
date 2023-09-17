@@ -319,7 +319,6 @@
 - [pmichaillat/intermediate-macro](https://github.com/pmichaillat/intermediate-macro) - Source files producing the teaching material for the course "Intermediate Macroeconomics"
 - [cs-books/influential-cs-books](https://github.com/cs-books/influential-cs-books) - Most influential books on Computer Science/programming
 - [chrisdone/elisp-guide](https://github.com/chrisdone/elisp-guide) - A quick guide to Emacs Lisp programming
-- [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
 - [yangycpku/macro_ML](https://github.com/yangycpku/macro_ML) - Course Website on Macroeconomic Analysis with Machine Learning and Big Data
 - [code-econ/awesome-econ](https://github.com/code-econ/awesome-econ) - Curated list of links related to coding in economics
 - [carpentries-incubator/geospatial-python](https://github.com/carpentries-incubator/geospatial-python) - Introduction to Geospatial Raster and Vector Data with Python
