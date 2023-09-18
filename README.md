@@ -58,6 +58,7 @@
 
 ## CSS 
 
+- [orderedlist/minimal](https://github.com/orderedlist/minimal) - A Theme for GitHub Pages
 - [NeshHari/XMonad](https://github.com/NeshHari/XMonad) - XMonad Starter Kit
 - [connorferster/handcalcs](https://github.com/connorferster/handcalcs) - Python library for converting Python calculations into rendered latex.
 - [lemonmade/bigfoot](https://github.com/lemonmade/bigfoot) - A jQuery plugin for creating exceptional footnotes.
