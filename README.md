@@ -247,6 +247,7 @@
 
 ## Jupyter Notebook 
 
+- [JeppeDruedahl/Lectures_IIES](https://github.com/JeppeDruedahl/Lectures_IIES) - 
 - [dseconf/DSE2023](https://github.com/dseconf/DSE2023) - Lectures and conference materials for the DSE2023 at the University of Lausanne, Switzerland
 - [jlperla/PerlaTonettiWaugh.jl](https://github.com/jlperla/PerlaTonettiWaugh.jl) - Code and algorithms for "Equilibrium Technology Diffusion, Trade, and Growth"
 - [nikolakou/RA_HetAgents](https://github.com/nikolakou/RA_HetAgents) - 
@@ -257,7 +258,6 @@
 - [shade-econ/nber-workshop-2022](https://github.com/shade-econ/nber-workshop-2022) - Code for the Spring 2022 heterogeneous-agent macro workshop
 - [mwaugh0328/consumption_and_tradewar](https://github.com/mwaugh0328/consumption_and_tradewar) - Code to reproduce aspects of "The Consumption Response to Trade Shocks: Evidence from the US-China Trade War"
 - [cpfiffer/julia-bootcamp-2022](https://github.com/cpfiffer/julia-bootcamp-2022) - 
-- [SparseGridsForDynamicEcon/SparseGrids_in_econ_handbook](https://github.com/SparseGridsForDynamicEcon/SparseGrids_in_econ_handbook) - Example codes for the Handbook chapter "Sparse Grids for Dynamic Economic Models" (Oxford Research Encyclopedia of Economics and Finance)
 - [mwaugh0328/welfare-rural-urban-migration](https://github.com/mwaugh0328/welfare-rural-urban-migration) - Replication files for Econometrica version of "The Welfare Effects of Encouraging Rural-Urban Migration"
 - [rickecon/StructEst_W20](https://github.com/rickecon/StructEst_W20) - MACS 40200 (Winter 2020): Structural Estimation
 - [ruhl0029/us-import-data](https://github.com/ruhl0029/us-import-data) - 
@@ -293,7 +293,6 @@
 
 - [chebfun/chebfun](https://github.com/chebfun/chebfun) - Chebfun:  numerical computing with functions.
 - [GRousselet/matlab_stats](https://github.com/GRousselet/matlab_stats) - various Matlab statistics functions
-- [schaab-lab/SparseEcon](https://github.com/schaab-lab/SparseEcon) - 
 - [jeromematthewcelestine/hadsge](https://github.com/jeromematthewcelestine/hadsge) - Code for Bayesian estimation of a heterogeneous agent DSGE model (MATLAB) using the Reiter (2009) solution method.
 - [ralphluet/KS_Perturbation_vs_MIT](https://github.com/ralphluet/KS_Perturbation_vs_MIT) - This code solves the Krusell-Smith model in two ways: Perturbation and MIT shock. More details on the model and the solution approach can be found in the paper: Christian Bayer, Ralph Luetticke (2020)
 - [tyleransom/WageReturnsJOLE](https://github.com/tyleransom/WageReturnsJOLE) - Data and replication files for Ashworth, Hotz, Maurel and Ransom's article in Journal of Labor Economics
