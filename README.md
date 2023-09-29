@@ -165,7 +165,6 @@
 ## Go 
 
 - [amirgamil/apollo](https://github.com/amirgamil/apollo) - A Unix-style personal search engine and web crawler for your digital footprint.
-- [juruen/rmapi](https://github.com/juruen/rmapi) - Go app that allows you to access your reMarkable tablet files through the Cloud API
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
@@ -212,7 +211,6 @@
 - [gopasspw/gopassbridge](https://github.com/gopasspw/gopassbridge) - A web extension for firefox and chrome to insert login credentials from gopass
 - [aravindballa/gatsby-theme-andy](https://github.com/aravindballa/gatsby-theme-andy) - A Gatsby theme to build Andy style websites. 📑
 - [karlicoss/grasp](https://github.com/karlicoss/grasp) - A reliable org-capture browser extension for Chrome/Firefox
-- [JabRef/JabRef-Browser-Extension](https://github.com/JabRef/JabRef-Browser-Extension) - Browser extension for JabRef to allow importing of new items directly from the browser.
 - [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
 - [ankitrohatgi/WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer) - HTML5 based online tool to extract numerical data from plot images.
 - [amyxzhang/wikum](https://github.com/amyxzhang/wikum) - tool for collectively summarizing large discussions
@@ -476,7 +474,6 @@
 ## Shell 
 
 - [simonemainardi/load_patstat](https://github.com/simonemainardi/load_patstat) - An handy script that helps users loading the official EPO PATSTAT database into MySQL.
-- [ddvk/remarkable-hacks](https://github.com/ddvk/remarkable-hacks) - additional functionality via binary patching
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows Subsystem for Linux
 - [Parveshdhull/org-popup](https://github.com/Parveshdhull/org-popup) - Take notes for emacs org-mode using pop-ups
 - [cemkeylan/mu-wizard](https://github.com/cemkeylan/mu-wizard) - mu4e configuration wizard
@@ -487,6 +484,7 @@
 
 ## Stata 
 
+- [benjann/geoplot](https://github.com/benjann/geoplot) - Stata module to draw maps
 - [rdahis/clean_RAIS](https://github.com/rdahis/clean_RAIS) - Code to clean the RAIS data set (Brazilian matched employer-employee data, 1985-2018)
 - [sergiocorreia/ivreghdfe](https://github.com/sergiocorreia/ivreghdfe) - Run IV/2SLS with many levels of fixed effects (i.e. ivreg2+reghdfe)
 - [borusyak/shift-share](https://github.com/borusyak/shift-share) - Replication package and code for "Quasi-Experimental Shift-Share Designs"
