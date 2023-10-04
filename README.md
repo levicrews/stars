@@ -224,6 +224,7 @@
 
 ## Julia 
 
+- [jeffreyesun/Bucephalus.jl](https://github.com/jeffreyesun/Bucephalus.jl) - A Julia package for solving heterogenous-agent economic models using reinforcement learning
 - [JuliaSIMD/LoopVectorization.jl](https://github.com/JuliaSIMD/LoopVectorization.jl) - Macro(s) for vectorizing loops.
 - [JuliaDynamics/GoodScientificCodeWorkshop](https://github.com/JuliaDynamics/GoodScientificCodeWorkshop) - A workshop on writing good scientific code.
 - [floswald/Tasmanian.jl](https://github.com/floswald/Tasmanian.jl) - Julia Wrapper to the Tasmanian library
