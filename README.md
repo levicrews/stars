@@ -315,7 +315,7 @@
 - [rougier/dotemacs](https://github.com/rougier/dotemacs) - Litterate configuration for GNU Emacs
 - [antoinearnoud/book-fortran](https://github.com/antoinearnoud/book-fortran) - Fortran for Economists
 - [dkgaraujo/OpenSourcedMacroModels](https://github.com/dkgaraujo/OpenSourcedMacroModels) - A best-efforts collection of open-sourced macroeconomic models run by central banks and other official sector agencies (ie, ministries of economy)
-- [pmichaillat/intermediate-macro](https://github.com/pmichaillat/intermediate-macro) - Source files producing the course material for "Intermediate Macroeconomics"
+- [pmichaillat/intermediate-macro](https://github.com/pmichaillat/intermediate-macro) - Source files of the course "Intermediate Macroeconomics"
 - [cs-books/influential-cs-books](https://github.com/cs-books/influential-cs-books) - Most influential books on Computer Science/programming
 - [chrisdone/elisp-guide](https://github.com/chrisdone/elisp-guide) - A quick guide to Emacs Lisp programming
 - [yangycpku/macro_ML](https://github.com/yangycpku/macro_ML) - Course Website on Macroeconomic Analysis with Machine Learning and Big Data
@@ -509,7 +509,7 @@
 
 - [st--/annotate-equations](https://github.com/st--/annotate-equations) - LaTeX package and annotated examples for annotating equations using TikZ.
 - [jdingel/econ6905](https://github.com/jdingel/econ6905) - Econ 6905 "Topics in Trade" PhD class at Columbia University
-- [pmichaillat/math-for-macro](https://github.com/pmichaillat/math-for-macro) - Source files producing the course material for "Mathematics for Macroeconomics"
+- [pmichaillat/math-for-macro](https://github.com/pmichaillat/math-for-macro) - Source files of the course "Mathematics for Macroeconomics"
 - [kjhealy/latex-custom-kjh](https://github.com/kjhealy/latex-custom-kjh) - Some simple configuration files I use for use with LaTeX, the Memoir class and the Listings package.
 - [matze/mtheme](https://github.com/matze/mtheme) - A modern LaTeX Beamer theme
 - [anishathalye/auriga](https://github.com/anishathalye/auriga) - Auriga is a minimalist LaTeX beamer presentation theme 📽
