@@ -171,6 +171,7 @@
 
 ## HTML 
 
+- [pmichaillat/hugo-website](https://github.com/pmichaillat/hugo-website) - Minimalist Hugo template for academic websites
 - [alshedivat/al-folio](https://github.com/alshedivat/al-folio) - A beautiful, simple, clean, and responsive Jekyll theme for academics
 - [kirqe/autm-rb](https://github.com/kirqe/autm-rb) - Jekyll theme
 - [andreweatherman/toRvik](https://github.com/andreweatherman/toRvik) - Extensive and Tidy NCAA Men's College Basketball Data
@@ -511,7 +512,7 @@
 - [kjhealy/latex-custom-kjh](https://github.com/kjhealy/latex-custom-kjh) - Some simple configuration files I use for use with LaTeX, the Memoir class and the Listings package.
 - [matze/mtheme](https://github.com/matze/mtheme) - A modern LaTeX Beamer theme
 - [anishathalye/auriga](https://github.com/anishathalye/auriga) - Auriga is a minimalist LaTeX beamer presentation theme 📽
-- [kylebutts/templates](https://github.com/kylebutts/templates) - Templates of all kind
+- [kylebutts/latex-templates](https://github.com/kylebutts/latex-templates) - Templates of all kind
 - [paulgp/applied-methods-phd](https://github.com/paulgp/applied-methods-phd) - Repo for Yale Applied Empirical Methods PHD Course
 - [pmichaillat/latex-paper](https://github.com/pmichaillat/latex-paper) - Minimalist LaTeX template for academic papers
 - [pmichaillat/latex-presentation](https://github.com/pmichaillat/latex-presentation) - Minimalist LaTeX template for academic presentations
