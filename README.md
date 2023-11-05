@@ -419,6 +419,7 @@
 
 ## R 
 
+- [TheEconomist/the-economist-gdp-per-hour-estimates](https://github.com/TheEconomist/the-economist-gdp-per-hour-estimates) - Code and data for Graphic detail on GDP and productivity
 - [kvasilopoulos/uklr](https://github.com/kvasilopoulos/uklr) - Client to United Kingdom Land Registry
 - [skhiggins/ra_guide](https://github.com/skhiggins/ra_guide) - Guidelines for research assistants
 - [jdingel/lights_to_cities](https://github.com/jdingel/lights_to_cities) - R code implementing the Dingel-Miscio-Davis algorithm to construct metropolitan areas by aggregating finer geographic units on the basis of contiguous areas of light in nighttime satellite images
