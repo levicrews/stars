@@ -171,6 +171,7 @@
 
 ## HTML 
 
+- [msu-econ-data-analytics/course-materials](https://github.com/msu-econ-data-analytics/course-materials) - 
 - [pmichaillat/hugo-website](https://github.com/pmichaillat/hugo-website) - Minimalist Hugo template for academic websites
 - [alshedivat/al-folio](https://github.com/alshedivat/al-folio) - A beautiful, simple, clean, and responsive Jekyll theme for academics
 - [kirqe/autm-rb](https://github.com/kirqe/autm-rb) - Jekyll theme
@@ -247,6 +248,7 @@
 
 ## Jupyter Notebook 
 
+- [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [JeppeDruedahl/Lectures_IIES](https://github.com/JeppeDruedahl/Lectures_IIES) - 
 - [dseconf/DSE2023](https://github.com/dseconf/DSE2023) - Lectures and conference materials for the DSE2023 at the University of Lausanne, Switzerland
 - [jlperla/PerlaTonettiWaugh.jl](https://github.com/jlperla/PerlaTonettiWaugh.jl) - Code and algorithms for "Equilibrium Technology Diffusion, Trade, and Growth"
