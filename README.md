@@ -58,6 +58,7 @@
 
 ## CSS 
 
+- [caiorss/Emacs-Elisp-Programming](https://github.com/caiorss/Emacs-Elisp-Programming) - Tutorial about programming Elisp and Emacs text editor customization.
 - [orderedlist/minimal](https://github.com/orderedlist/minimal) - A Theme for GitHub Pages
 - [NeshHari/XMonad](https://github.com/NeshHari/XMonad) - XMonad Starter Kit
 - [connorferster/handcalcs](https://github.com/connorferster/handcalcs) - Python library for converting Python calculations into rendered latex.
@@ -71,6 +72,8 @@
 
 ## Emacs Lisp 
 
+- [vikasrawal/orgpaper](https://github.com/vikasrawal/orgpaper) - Reproducible Research Papers using Org-mode and R: A Guide
+- [meedstrom/inline-anki](https://github.com/meedstrom/inline-anki) - Embed implicit flashcards in flowing text
 - [myuhe/org-gcal.el](https://github.com/myuhe/org-gcal.el) - Org sync with Google Calendar
 - [ml729/calfw-blocks](https://github.com/ml729/calfw-blocks) - Visual enhancements for the Emacs Calendar Framework (calfw)
 - [dengste/org-caldav](https://github.com/dengste/org-caldav) - Caldav sync for Emacs orgmode
@@ -478,6 +481,7 @@
 
 ## Shell 
 
+- [Artawower/orgnote](https://github.com/Artawower/orgnote) - Zettelkasten environment for productive people
 - [simonemainardi/load_patstat](https://github.com/simonemainardi/load_patstat) - An handy script that helps users loading the official EPO PATSTAT database into MySQL.
 - [AEADataEditor/docker-r-starter](https://github.com/AEADataEditor/docker-r-starter) - This repo provides instructions on how to build an R docker image that can serve as the basis for interactive or automated reproducible processing
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows Subsystem for Linux
