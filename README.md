@@ -352,8 +352,8 @@
 
 ## Python 
 
+- [facebookresearch/nevergrad](https://github.com/facebookresearch/nevergrad) - A Python toolbox for performing gradient-free optimization
 - [wilson-labs/cola](https://github.com/wilson-labs/cola) - Compositional Linear Algebra
-- [tlamadon/scriptflow](https://github.com/tlamadon/scriptflow) - Simple flow over script files, like a Makeflie but writen as python code
 - [cpbotha/braindump4000](https://github.com/cpbotha/braindump4000) - jethrokuan's braindump modified for nested org-files and many broken links. Also Obsidian export!
 - [SparseGridsForDynamicEcon/HDMR](https://github.com/SparseGridsForDynamicEcon/HDMR) - Example codes for the SIAM Journal on Scientific Computing (SISC) paper "High-Dimensional Dynamic Stochastic Model Representation"
 - [datamade/census](https://github.com/datamade/census) - A Python wrapper for the US Census API.
@@ -516,6 +516,7 @@
 
 ## TeX 
 
+- [gpoore/minted](https://github.com/gpoore/minted) - minted is a LaTeX package that provides syntax highlighting using the Pygments library. Highlighted source code can be customized using fancyvrb.
 - [pat-alt/quarto-juliacon-proceedings](https://github.com/pat-alt/quarto-juliacon-proceedings) - A Quarto extension for the JuliaCon Proceedings journal.
 - [pat-alt/pat-alt.github.io](https://github.com/pat-alt/pat-alt.github.io) - Website repository
 - [st--/annotate-equations](https://github.com/st--/annotate-equations) - LaTeX package and annotated examples for annotating equations using TikZ.
