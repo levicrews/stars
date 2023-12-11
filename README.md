@@ -32,11 +32,9 @@
 - [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
-- [Vala](#vala)
 
 ## AMPL 
 
-- [RagotXavier/Truncation_Method_Het](https://github.com/RagotXavier/Truncation_Method_Het) - Truncation Method For Heterogeneous-agent Models
 - [JohannesPfeifer/DSGE_mod](https://github.com/JohannesPfeifer/DSGE_mod) - A collection of Dynare models
 
 ## C 
@@ -47,7 +45,6 @@
 ## C++ 
 
 - [grf-labs/grf](https://github.com/grf-labs/grf) - Generalized Random Forests
-- [ORNL/TASMANIAN](https://github.com/ORNL/TASMANIAN) - The Toolkit for Adaptive Stochastic Modeling and Non-Intrusive ApproximatioN
 - [sischei/global_solution_yale19](https://github.com/sischei/global_solution_yale19) - 
 - [GeoDaCenter/geoda](https://github.com/GeoDaCenter/geoda) - GeoDa: An introduction to spatial data analysis
 - [mapnik/mapnik](https://github.com/mapnik/mapnik) - Mapnik is an open source toolkit for developing mapping applications
@@ -59,7 +56,6 @@
 ## CSS 
 
 - [caiorss/Emacs-Elisp-Programming](https://github.com/caiorss/Emacs-Elisp-Programming) - Tutorial about programming Elisp and Emacs text editor customization.
-- [orderedlist/minimal](https://github.com/orderedlist/minimal) - A Theme for GitHub Pages
 - [NeshHari/XMonad](https://github.com/NeshHari/XMonad) - XMonad Starter Kit
 - [connorferster/handcalcs](https://github.com/connorferster/handcalcs) - Python library for converting Python calculations into rendered latex.
 - [lemonmade/bigfoot](https://github.com/lemonmade/bigfoot) - A jQuery plugin for creating exceptional footnotes.
@@ -175,11 +171,7 @@
 ## HTML 
 
 - [msu-econ-data-analytics/course-materials](https://github.com/msu-econ-data-analytics/course-materials) - 
-- [pmichaillat/hugo-website](https://github.com/pmichaillat/hugo-website) - Minimalist Hugo template for academic websites
-- [alshedivat/al-folio](https://github.com/alshedivat/al-folio) - A beautiful, simple, clean, and responsive Jekyll theme for academics
-- [kirqe/autm-rb](https://github.com/kirqe/autm-rb) - Jekyll theme
 - [andreweatherman/toRvik](https://github.com/andreweatherman/toRvik) - Extensive and Tidy NCAA Men's College Basketball Data
-- [labordynamicsinstitute/reproducibility-confidential](https://github.com/labordynamicsinstitute/reproducibility-confidential) - Prepared for MONT^2.
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [AloisJanicek/org-roam-server-light](https://github.com/AloisJanicek/org-roam-server-light) - compatible org-roam-server written in python for better performance with large network graphs
 - [Alalalalaki/Guide2EconRA](https://github.com/Alalalalaki/Guide2EconRA) - 
@@ -206,7 +198,6 @@
 - [ryanpcmcquen/obsidian-org-mode](https://github.com/ryanpcmcquen/obsidian-org-mode) - Add Org Mode support to Obsidian.
 - [mzeryck/Widget-Blur](https://github.com/mzeryck/Widget-Blur) - This script for the Scriptable app creates widget backgrounds that appear to be transparent. You can also optionally emulate the light or dark blur effect used in the Batteries widget from Apple.
 - [mzeryck/Weather-Cal](https://github.com/mzeryck/Weather-Cal) - This is a Scriptable widget that lets you display, position, and format multiple elements, including dates and events, weather information, battery level, and more. You can even create your own elemen
-- [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [astefanutti/decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations
@@ -231,10 +222,7 @@
 
 - [jeffreyesun/Bucephalus.jl](https://github.com/jeffreyesun/Bucephalus.jl) - A Julia package for solving heterogenous-agent economic models using reinforcement learning
 - [JuliaSIMD/LoopVectorization.jl](https://github.com/JuliaSIMD/LoopVectorization.jl) - Macro(s) for vectorizing loops.
-- [JuliaDynamics/GoodScientificCodeWorkshop](https://github.com/JuliaDynamics/GoodScientificCodeWorkshop) - A workshop on writing good scientific code.
-- [floswald/Tasmanian.jl](https://github.com/floswald/Tasmanian.jl) - Julia Wrapper to the Tasmanian library
 - [SciML/HighDimPDE.jl](https://github.com/SciML/HighDimPDE.jl) - A Julia package that breaks down the curse of dimensionality in solving PDEs.
-- [floswald/SMM.jl](https://github.com/floswald/SMM.jl) - Simulated Method of Moments for Julia
 - [chkwon/Complementarity.jl](https://github.com/chkwon/Complementarity.jl) - provides a modeling interface for mixed complementarity problems (MCP) and math programs with equilibrium problems (MPEC) via JuMP
 - [matthieugomez/EconPDEs.jl](https://github.com/matthieugomez/EconPDEs.jl) - Solve forward-looking PDEs (e.g. HJB equations).
 - [byuflowlab/Mex.jl](https://github.com/byuflowlab/Mex.jl) - Embedding Julia in the MATLAB process.
@@ -254,16 +242,8 @@
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [JeppeDruedahl/Lectures_IIES](https://github.com/JeppeDruedahl/Lectures_IIES) - 
 - [dseconf/DSE2023](https://github.com/dseconf/DSE2023) - Lectures and conference materials for the DSE2023 at the University of Lausanne, Switzerland
-- [jlperla/PerlaTonettiWaugh.jl](https://github.com/jlperla/PerlaTonettiWaugh.jl) - Code and algorithms for "Equilibrium Technology Diffusion, Trade, and Growth"
 - [nikolakou/RA_HetAgents](https://github.com/nikolakou/RA_HetAgents) - 
-- [sischei/DeepEquilibriumNets](https://github.com/sischei/DeepEquilibriumNets) - 
-- [Global-Policy-Lab/mosaiks-paper](https://github.com/Global-Policy-Lab/mosaiks-paper) - Code and data to support our paper
-- [mwaugh0328/heterogeneous-agent-trade](https://github.com/mwaugh0328/heterogeneous-agent-trade) - HAT: Heterogeneous Agent Trade
-- [iamlemec/fastreg](https://github.com/iamlemec/fastreg) - Fast sparse regressions with advanced formula syntax. OLS, GLM, Poisson, Maxlike, and more. High-dimensional fixed effects.
-- [shade-econ/nber-workshop-2022](https://github.com/shade-econ/nber-workshop-2022) - Code for the Spring 2022 heterogeneous-agent macro workshop
-- [mwaugh0328/consumption_and_tradewar](https://github.com/mwaugh0328/consumption_and_tradewar) - Code to reproduce aspects of "The Consumption Response to Trade Shocks: Evidence from the US-China Trade War"
 - [cpfiffer/julia-bootcamp-2022](https://github.com/cpfiffer/julia-bootcamp-2022) - 
-- [mwaugh0328/welfare-rural-urban-migration](https://github.com/mwaugh0328/welfare-rural-urban-migration) - Replication files for Econometrica version of "The Welfare Effects of Encouraging Rural-Urban Migration"
 - [rickecon/StructEst_W20](https://github.com/rickecon/StructEst_W20) - MACS 40200 (Winter 2020): Structural Estimation
 - [ruhl0029/us-import-data](https://github.com/ruhl0029/us-import-data) - 
 - [dseconf/DSE2021](https://github.com/dseconf/DSE2021) - 
@@ -311,10 +291,9 @@
 
 ## Others 
 
+- [gboehl/macro_puzzles](https://github.com/gboehl/macro_puzzles) - Collection of puzzles in macroeconomics
 - [brenhinkeller/JuliaAdviceForMatlabProgrammers](https://github.com/brenhinkeller/JuliaAdviceForMatlabProgrammers) - Learning to love dispatch-oriented programming
-- [martinbjeldbak/ultimate-beamer-theme-list](https://github.com/martinbjeldbak/ultimate-beamer-theme-list) - A collection of Beamer themes from the community
 - [HugoBlox/theme-second-brain](https://github.com/HugoBlox/theme-second-brain) - 🧠 卡片盒笔记法：面向未来的第二大脑 Your future-proof second brain and digital garden for free! Make it truly yours with unlimited customization!
-- [antontarasenko/awesome-economics](https://github.com/antontarasenko/awesome-economics) - A curated collection of links for economists
 - [kot-behemoth/awesome-org-roam](https://github.com/kot-behemoth/awesome-org-roam) - 📒 A curated list of awesome Org-roam resources
 - [guidoeco/shambles](https://github.com/guidoeco/shambles) - 
 - [microsoft/RoadDetections](https://github.com/microsoft/RoadDetections) - Road detections from Microsoft Maps aerial imagery
@@ -352,12 +331,10 @@
 
 ## Python 
 
+- [gboehl/econpizza](https://github.com/gboehl/econpizza) - Solve nonlinear heterogeneous agent models
 - [facebookresearch/nevergrad](https://github.com/facebookresearch/nevergrad) - A Python toolbox for performing gradient-free optimization
 - [wilson-labs/cola](https://github.com/wilson-labs/cola) - Compositional Linear Algebra
 - [cpbotha/braindump4000](https://github.com/cpbotha/braindump4000) - jethrokuan's braindump modified for nested org-files and many broken links. Also Obsidian export!
-- [SparseGridsForDynamicEcon/HDMR](https://github.com/SparseGridsForDynamicEcon/HDMR) - Example codes for the SIAM Journal on Scientific Computing (SISC) paper "High-Dimensional Dynamic Stochastic Model Representation"
-- [datamade/census](https://github.com/datamade/census) - A Python wrapper for the US Census API.
-- [cenpy-devs/cenpy](https://github.com/cenpy-devs/cenpy) - Explore and download data from Census APIs
 - [johannesuhl/hironex](https://github.com/johannesuhl/hironex) - HiRoNEx: Historical road network extractor: A python tool for automatic, fully unsupervised extraction of historical road networks from historical maps.
 - [jldbc/pybaseball](https://github.com/jldbc/pybaseball) - Pull current and historical baseball statistics using Python (Statcast, Baseball Reference, FanGraphs)
 - [glamp/bashplotlib](https://github.com/glamp/bashplotlib) - plotting in the terminal
@@ -430,13 +407,8 @@
 - [TheEconomist/the-economist-gdp-per-hour-estimates](https://github.com/TheEconomist/the-economist-gdp-per-hour-estimates) - Code and data for Graphic detail on GDP and productivity
 - [kvasilopoulos/uklr](https://github.com/kvasilopoulos/uklr) - Client to United Kingdom Land Registry
 - [skhiggins/ra_guide](https://github.com/skhiggins/ra_guide) - Guidelines for research assistants
-- [jdingel/lights_to_cities](https://github.com/jdingel/lights_to_cities) - R code implementing the Dingel-Miscio-Davis algorithm to construct metropolitan areas by aggregating finer geographic units on the basis of contiguous areas of light in nighttime satellite images
-- [coolbutuseless/emphatic](https://github.com/coolbutuseless/emphatic) - ANSI colouring of R output
-- [kylebutts/ssaggregate](https://github.com/kylebutts/ssaggregate) - Create industry-level aggregates for shift-share IV following Borusyak, Hull, and Jaravel (2022)
 - [sportsdataverse/sportyR](https://github.com/sportsdataverse/sportyR) - R package for drawing regulation playing surfaces for several sports
-- [floswald/GAEZr](https://github.com/floswald/GAEZr) - Dowloading and Processing GAEZ v4 data in R
 - [BillPetti/baseballr](https://github.com/BillPetti/baseballr) - A package written for R focused on baseball analysis. Currently in development.
-- [guyabel/migest](https://github.com/guyabel/migest) - Tools for estimating, measuring and working with migration data.
 - [walkerke/tidycensus](https://github.com/walkerke/tidycensus) - Load US Census boundary and attribute data as 'tidyverse' and 'sf'-ready data frames in R
 - [cvxgrp/CVXR](https://github.com/cvxgrp/CVXR) - An R modeling language for convex optimization problems.
 - [muuankarski/faobulk](https://github.com/muuankarski/faobulk) - Search and download FAOSTAT bulk download files
@@ -475,8 +447,6 @@
 
 ## SCSS 
 
-- [monkeyWzr/hugo-theme-cactus](https://github.com/monkeyWzr/hugo-theme-cactus) - Cactus theme for hugo
-- [floswald/ScPoResearchM1](https://github.com/floswald/ScPoResearchM1) - Presentation for M1 students
 - [wirtzdan/logseq-paper-theme](https://github.com/wirtzdan/logseq-paper-theme) - A minimal and paper-like theme for Logseq ✍️
 
 ## Shell 
@@ -494,11 +464,6 @@
 
 ## Stata 
 
-- [benjann/geoplot](https://github.com/benjann/geoplot) - Stata module to draw maps
-- [rdahis/clean_RAIS](https://github.com/rdahis/clean_RAIS) - Code to clean the RAIS data set (Brazilian matched employer-employee data, 1985-2018)
-- [sergiocorreia/ivreghdfe](https://github.com/sergiocorreia/ivreghdfe) - Run IV/2SLS with many levels of fixed effects (i.e. ivreg2+reghdfe)
-- [borusyak/shift-share](https://github.com/borusyak/shift-share) - Replication package and code for "Quasi-Experimental Shift-Share Designs"
-- [asjadnaqvi/stata-schemepack](https://github.com/asjadnaqvi/stata-schemepack) - Here you will find various ready-to-use Stata schemes.
 - [sergiocorreia/ftools](https://github.com/sergiocorreia/ftools) - Fast Stata commands for large datasets
 - [skhiggins/Stata_guide](https://github.com/skhiggins/Stata_guide) - Stata instructions for research projects
 - [jankabatek/statapack](https://github.com/jankabatek/statapack) - A collection of handy Stata programs for empirical analyses
@@ -522,15 +487,7 @@
 - [st--/annotate-equations](https://github.com/st--/annotate-equations) - LaTeX package and annotated examples for annotating equations using TikZ.
 - [jdingel/econ6905](https://github.com/jdingel/econ6905) - Econ 6905 "Topics in Trade" PhD class at Columbia University
 - [pmichaillat/math-for-macro](https://github.com/pmichaillat/math-for-macro) - Source files of the course "Mathematics for Macroeconomics"
-- [kjhealy/latex-custom-kjh](https://github.com/kjhealy/latex-custom-kjh) - Some simple configuration files I use for use with LaTeX, the Memoir class and the Listings package.
-- [matze/mtheme](https://github.com/matze/mtheme) - A modern LaTeX Beamer theme
-- [anishathalye/auriga](https://github.com/anishathalye/auriga) - Auriga is a minimalist LaTeX beamer presentation theme 📽
-- [kylebutts/latex-templates](https://github.com/kylebutts/latex-templates) - Templates of all kind
 - [paulgp/applied-methods-phd](https://github.com/paulgp/applied-methods-phd) - Repo for Yale Applied Empirical Methods PHD Course
-- [pmichaillat/latex-paper](https://github.com/pmichaillat/latex-paper) - Minimalist LaTeX template for academic papers
-- [pmichaillat/latex-presentation](https://github.com/pmichaillat/latex-presentation) - Minimalist LaTeX template for academic presentations
-- [ambropo/JambroBeamerTheme](https://github.com/ambropo/JambroBeamerTheme) - JambroBeamerTheme
-- [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 - [andrewfoote/public_dofiles](https://github.com/andrewfoote/public_dofiles) - This repository are do-files that I post on my website, and their primary purpose is to help implement solutions to common issues.
 - [worldbank/dime-standards](https://github.com/worldbank/dime-standards) - Repository with resources for DIME's research standards and coding standards
 - [synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations) - Examples of how to create colorful, annotated equations in Latex using Tikz.
@@ -567,10 +524,6 @@
 - [andymatuschak/orbit](https://github.com/andymatuschak/orbit) - Experimental spaced repetition platform for exploring ideas in memory augmentation and programmable attention
 - [rasendubi/uniorg](https://github.com/rasendubi/uniorg) - An accurate Org-mode parser for JavaScript/TypeScript
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
-
-## Vala 
-
-- [pdfpc/pdfpc](https://github.com/pdfpc/pdfpc) - A presenter console with multi-monitor support for PDF files.
 
 
 ## License
