@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [AMPL](#ampl)
 - [C](#c)
 - [C++](#c++)
 - [CSS](#css)
@@ -25,10 +24,6 @@
 - [Stata](#stata)
 - [TeX](#tex)
 - [TypeScript](#typescript)
-
-## AMPL 
-
-- [JohannesPfeifer/DSGE_mod](https://github.com/JohannesPfeifer/DSGE_mod) - A collection of Dynare models
 
 ## C 
 
@@ -155,42 +150,26 @@
 
 - [msu-econ-data-analytics/course-materials](https://github.com/msu-econ-data-analytics/course-materials) - 
 - [andreweatherman/toRvik](https://github.com/andreweatherman/toRvik) - Extensive and Tidy NCAA Men's College Basketball Data
-- [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [AloisJanicek/org-roam-server-light](https://github.com/AloisJanicek/org-roam-server-light) - compatible org-roam-server written in python for better performance with large network graphs
 - [Alalalalaki/Guide2EconRA](https://github.com/Alalalalaki/Guide2EconRA) - 
-- [edwardtufte/tufte-css](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts.
 - [edrubin/EC525S19](https://github.com/edrubin/EC525S19) - 
 - [merely-useful/mrsp](https://github.com/merely-useful/mrsp) - Managing Research Software Projects
 - [AEM7130/class-repo](https://github.com/AEM7130/class-repo) - AEM 7130: Dynamic Optimization/Computational Methods
 - [iiSeymour/sparkline-nb](https://github.com/iiSeymour/sparkline-nb) - Render sparkline style charts in pandas dataframes
-- [maelle/testbook](https://github.com/maelle/testbook) - :warning: CONCEPT! :warning: beautiful book as html and PDF using Hugo and paged.js
 - [uo-ec607/lectures](https://github.com/uo-ec607/lectures) - Lecture notes for EC 607
 - [kjhealy/course_template](https://github.com/kjhealy/course_template) - 
 - [rstudio-education/remaster-the-tidyverse](https://github.com/rstudio-education/remaster-the-tidyverse) - This is a planning repository where I develop Tidyverse-related workshops.
-- [chrisjsewell/ipypublish](https://github.com/chrisjsewell/ipypublish) - A workflow for creating and editing publication ready scientific reports and presentations, from one or more Jupyter Notebooks, without leaving the browser!
 - [gslab-econ/gslab_make](https://github.com/gslab-econ/gslab_make) - Python tools for GSLab
 
 ## JavaScript 
 
-- [ryanpcmcquen/obsidian-org-mode](https://github.com/ryanpcmcquen/obsidian-org-mode) - Add Org Mode support to Obsidian.
+- [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-- [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [astefanutti/decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations
 - [thesephist/monocle](https://github.com/thesephist/monocle) - Universal personal search engine, powered by a full text search algorithm written in pure Ink, indexing Linus's blogs and private note archives, contacts, tweets, and over a decade of journals.
-- [distillpub/template](https://github.com/distillpub/template) - This is the repository for the distill web framework
-- [stsquad/emacs_chrome](https://github.com/stsquad/emacs_chrome) - A Chromium/Firefox "clone" of It's All Text for spawning an editor to edit text areas in browsers. Based on David Hilley's original Chromium extension.
-- [aravindballa/gatsby-theme-andy](https://github.com/aravindballa/gatsby-theme-andy) - A Gatsby theme to build Andy style websites. 📑
 - [karlicoss/grasp](https://github.com/karlicoss/grasp) - A reliable org-capture browser extension for Chrome/Firefox
 - [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
-- [ankitrohatgi/WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer) - Online tool to extract numerical data from plot images.
-- [amyxzhang/wikum](https://github.com/amyxzhang/wikum) - tool for collectively summarizing large discussions
 - [topojson/topojson](https://github.com/topojson/topojson) - An extension of GeoJSON that encodes topology! 🌐
-- [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
-- [johno/digital-garden](https://github.com/johno/digital-garden) - 🌻[WIP] Gatsby Theme to build your own digital garden 🌻🥀🌸
-- [the-pudding/starter](https://github.com/the-pudding/starter) - A starter template for projects.
-- [OU-PhD-Econometrics/fall-2020](https://github.com/OU-PhD-Econometrics/fall-2020) - 
-- [LeonvanKouwen/elvis](https://github.com/LeonvanKouwen/elvis) - Combining holoviz panel and golden-layout in pure python.
-- [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
 
 ## Julia 
 
@@ -208,7 +187,6 @@
 - [HariharanJayashankar/LinearTimeIteration.jl](https://github.com/HariharanJayashankar/LinearTimeIteration.jl) - A solver for Linear Rational Expectation Models
 - [jkrumbiegel/Chain.jl](https://github.com/jkrumbiegel/Chain.jl) - A Julia package for piping a value through a series of transformation expressions using a more convenient syntax than Julia's native piping functionality.
 - [floswald/Zurcher.jl](https://github.com/floswald/Zurcher.jl) - Zurcher Package
-- [matthieugomez/Binscatters.jl](https://github.com/matthieugomez/Binscatters.jl) - Stata's Binscatter for Julia
 - [FRBNY-DSGE/DSGE.jl](https://github.com/FRBNY-DSGE/DSGE.jl) - Solve and estimate Dynamic Stochastic General Equilibrium models (including the New York Fed DSGE)
 
 ## Jupyter Notebook 
@@ -237,13 +215,9 @@
 
 ## MATLAB 
 
+- [ambropo/VAR-Toolbox](https://github.com/ambropo/VAR-Toolbox) - Ambrogio Cesa-Bianchi's VAR Toolbox
 - [chebfun/chebfun](https://github.com/chebfun/chebfun) - Chebfun:  numerical computing with functions.
 - [GRousselet/matlab_stats](https://github.com/GRousselet/matlab_stats) - various Matlab statistics functions
-- [jeromematthewcelestine/hadsge](https://github.com/jeromematthewcelestine/hadsge) - Code for Bayesian estimation of a heterogeneous agent DSGE model (MATLAB) using the Reiter (2009) solution method.
-- [ralphluet/KS_Perturbation_vs_MIT](https://github.com/ralphluet/KS_Perturbation_vs_MIT) - This code solves the Krusell-Smith model in two ways: Perturbation and MIT shock. More details on the model and the solution approach can be found in the paper: Christian Bayer, Ralph Luetticke (2020)
-- [tyleransom/WageReturnsJOLE](https://github.com/tyleransom/WageReturnsJOLE) - Data and replication files for Ashworth, Hotz, Maurel and Ransom's article in Journal of Labor Economics
-- [naffe15/BVAR_](https://github.com/naffe15/BVAR_) - Empirical macro toolbox
-- [jesusfv/financial-frictions](https://github.com/jesusfv/financial-frictions) - Interactive guide to Fernández-Villaverde, Hurtado, and Nuño (2019): "Financial Frictions and the Wealth Distribution".
 - [jlperla/continuous_time_methods](https://github.com/jlperla/continuous_time_methods) - 
 
 ## Others 
@@ -318,7 +292,6 @@
 - [Layout-Parser/layout-parser](https://github.com/Layout-Parser/layout-parser) - A Unified Toolkit for Deep Learning Based Document Image Analysis
 - [riceissa/spaced-inbox](https://github.com/riceissa/spaced-inbox) - A minimal spaced writing inbox
 - [tecosaur/org-knit-action](https://github.com/tecosaur/org-knit-action) - Let someone else take care of keeping up to date tangled/woven versions of your Org files for public consumption.
-- [esantorella/binscatter](https://github.com/esantorella/binscatter) - 
 - [rougier/agenda](https://github.com/rougier/agenda) - Org agenda in the console
 - [thisiscam/math-with-slack](https://github.com/thisiscam/math-with-slack) - Rendered math (MathJax) with Slack's desktop client
 - [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!
@@ -418,16 +391,11 @@
 
 ## TypeScript 
 
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
-- [x7ci/site_project](https://github.com/x7ci/site_project) - My personal website built with React, TypeScript & styled using Stitches.
-- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
-- [jupyter/nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [andymatuschak/note-link-janitor](https://github.com/andymatuschak/note-link-janitor) - Maintains backlink structure among interlinked Markdown notes
 - [keplergl/kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
 - [andymatuschak/orbit](https://github.com/andymatuschak/orbit) - Experimental spaced repetition platform for exploring ideas in memory augmentation and programmable attention
 - [rasendubi/uniorg](https://github.com/rasendubi/uniorg) - An accurate Org-mode parser for JavaScript/TypeScript
-- [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
 
 
 ## License
