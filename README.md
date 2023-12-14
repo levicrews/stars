@@ -159,7 +159,6 @@
 - [uo-ec607/lectures](https://github.com/uo-ec607/lectures) - Lecture notes for EC 607
 - [kjhealy/course_template](https://github.com/kjhealy/course_template) - 
 - [rstudio-education/remaster-the-tidyverse](https://github.com/rstudio-education/remaster-the-tidyverse) - This is a planning repository where I develop Tidyverse-related workshops.
-- [gslab-econ/gslab_make](https://github.com/gslab-econ/gslab_make) - Python tools for GSLab
 
 ## JavaScript 
 
@@ -334,7 +333,6 @@
 - [bldavies/nberwp](https://github.com/bldavies/nberwp) - R package containing data on NBER working papers
 - [tidyverse/reprex](https://github.com/tidyverse/reprex) - Render bits of R code for sharing, e.g., on GitHub or StackOverflow.
 - [alastairrushworth/free-data-science](https://github.com/alastairrushworth/free-data-science) - 🛠️ 🌐  Thematic list of high-quality data science resources
-- [matthieugomez/benchmark-stata-r](https://github.com/matthieugomez/benchmark-stata-r) - Speed benchmark of Stata and R on common data manipulations
 - [rgiordan/zaminfluence](https://github.com/rgiordan/zaminfluence) - Tools in R for computing and using Z-estimator approximate influence functions.
 - [hollina/example_project](https://github.com/hollina/example_project) - An example project using stata and R
 - [setzler/EconData](https://github.com/setzler/EconData) - Data repository and R package to manage publicly-available economics data.
