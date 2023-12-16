@@ -35,6 +35,7 @@
 
 ## CSS 
 
+- [rougier/emacs-gtd](https://github.com/rougier/emacs-gtd) - Get Things Done with Emacs
 - [NeshHari/XMonad](https://github.com/NeshHari/XMonad) - XMonad Starter Kit
 - [DataUSA/datausa-tutorials](https://github.com/DataUSA/datausa-tutorials) - Holds tutorials for how to build things with the Data USA API and embedded visualizations.
 
@@ -44,13 +45,9 @@
 
 ## Emacs Lisp 
 
+- [rougier/mu4e-dashboard](https://github.com/rougier/mu4e-dashboard) - A dashboard for mu4e (mu for emacs)
 - [hieutkt/dotfiles](https://github.com/hieutkt/dotfiles) - Personal dotfiles
 - [vikasrawal/orgpaper](https://github.com/vikasrawal/orgpaper) - Reproducible Research Papers using Org-mode and R: A Guide
-- [meedstrom/inline-anki](https://github.com/meedstrom/inline-anki) - Embed implicit flashcards in flowing text
-- [myuhe/org-gcal.el](https://github.com/myuhe/org-gcal.el) - Org sync with Google Calendar
-- [ml729/calfw-blocks](https://github.com/ml729/calfw-blocks) - Visual enhancements for the Emacs Calendar Framework (calfw)
-- [dengste/org-caldav](https://github.com/dengste/org-caldav) - Caldav sync for Emacs orgmode
-- [dmitrym0/org-hyperscheduler](https://github.com/dmitrym0/org-hyperscheduler) - org-hyperscheduler is an Emacs package that helps you organize your day.
 - [xenodium/dwim-shell-command](https://github.com/xenodium/dwim-shell-command) - Emacs shell commands with DWIM behaviour
 - [jxq0/org-tidy](https://github.com/jxq0/org-tidy) - 🧹  An Emacs minor mode to automatically tidy org-mode property drawers
 - [rougier/notes-list](https://github.com/rougier/notes-list) - Emacs notes list
@@ -63,19 +60,15 @@
 - [rougier/org-bib-mode](https://github.com/rougier/org-bib-mode) - An Emacs minor mode for literate & annotated bibliography
 - [rougier/notebook-mode](https://github.com/rougier/notebook-mode) - GNU Emacs notebook mode
 - [tefkah/org-roam-timestamps](https://github.com/tefkah/org-roam-timestamps) - Add modified and creation timestamps to the org-roam property drawer
-- [kiwanami/emacs-calfw](https://github.com/kiwanami/emacs-calfw) - A calendar framework for Emacs
 - [jkitchin/org-ref-cite](https://github.com/jkitchin/org-ref-cite) - An org-cite processor that is like org-ref.
 - [ag91/emacs-with-nyxt](https://github.com/ag91/emacs-with-nyxt) - Some code to make Emacs interact with Nyxt
 - [mclear-tools/bespoke-themes](https://github.com/mclear-tools/bespoke-themes) - A simple custom theme for emacs
-- [veelenga/carbon-now-sh.el](https://github.com/veelenga/carbon-now-sh.el) - Emacs to https://carbon.now.sh integration
 - [emacsorphanage/anzu](https://github.com/emacsorphanage/anzu) - Emacs Port of anzu.vim
 - [alphapapa/org-web-tools](https://github.com/alphapapa/org-web-tools) - View, capture, and archive Web pages in Org-mode
 - [tecosaur/emacs-everywhere](https://github.com/tecosaur/emacs-everywhere) - Mirror of https://git.tecosaur.net/tec/emacs-everywhere
 - [lepisma/oca](https://github.com/lepisma/oca) - Org Capture Anywhere
 - [bbatsov/guru-mode](https://github.com/bbatsov/guru-mode) - Learn to use Emacs the way it was meant to be used (the Emacs guru way)
-- [bazelbuild/emacs-bazel-mode](https://github.com/bazelbuild/emacs-bazel-mode) - Emacs mode for Bazel
 - [mm--/dot-emacs](https://github.com/mm--/dot-emacs) - My Emacs configuration files
-- [ffevotte/slurm.el](https://github.com/ffevotte/slurm.el) - Emacs extension to interact with the SLURM jobs scheduler
 - [emacs-citar/citar](https://github.com/emacs-citar/citar) - Emacs package to quickly find and act on bibliographic references, and edit org, markdown, and latex academic documents.
 - [mskorzhinskiy/org-ql-planning](https://github.com/mskorzhinskiy/org-ql-planning) - 
 - [foxfriday/ink](https://github.com/foxfriday/ink) - LaTeX + Inkscape
@@ -207,6 +200,7 @@
 
 ## Others 
 
+- [microsoft/USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints) - Computer generated building footprints for the United States
 - [gboehl/macro_puzzles](https://github.com/gboehl/macro_puzzles) - Collection of puzzles in macroeconomics
 - [brenhinkeller/JuliaAdviceForMatlabProgrammers](https://github.com/brenhinkeller/JuliaAdviceForMatlabProgrammers) - Learning to love dispatch-oriented programming
 - [HugoBlox/theme-second-brain](https://github.com/HugoBlox/theme-second-brain) - 🧠 卡片盒笔记法：面向未来的第二大脑 Your future-proof second brain and digital garden for free! Make it truly yours with unlimited customization!
@@ -243,6 +237,7 @@
 
 ## Python 
 
+- [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - EAF, an extensible framework that revolutionizes the graphical capabilities of Emacs
 - [facebookresearch/nevergrad](https://github.com/facebookresearch/nevergrad) - A Python toolbox for performing gradient-free optimization
 - [wilson-labs/cola](https://github.com/wilson-labs/cola) - Compositional Linear Algebra
 - [cpbotha/braindump4000](https://github.com/cpbotha/braindump4000) - jethrokuan's braindump modified for nested org-files and many broken links. Also Obsidian export!
