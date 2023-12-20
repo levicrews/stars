@@ -200,6 +200,7 @@
 
 ## Others 
 
+- [borusyak/are213](https://github.com/borusyak/are213) - PhD Applied Econometrics class taught at UC Berkeley
 - [microsoft/USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints) - Computer generated building footprints for the United States
 - [gboehl/macro_puzzles](https://github.com/gboehl/macro_puzzles) - Collection of puzzles in macroeconomics
 - [brenhinkeller/JuliaAdviceForMatlabProgrammers](https://github.com/brenhinkeller/JuliaAdviceForMatlabProgrammers) - Learning to love dispatch-oriented programming
