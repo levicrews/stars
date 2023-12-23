@@ -5,8 +5,6 @@
 
 ## Contents
 
-- [C](#c)
-- [C++](#c++)
 - [CSS](#css)
 - [Common Lisp](#common-lisp)
 - [Emacs Lisp](#emacs-lisp)
@@ -24,14 +22,6 @@
 - [Stata](#stata)
 - [TeX](#tex)
 - [TypeScript](#typescript)
-
-## C 
-
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
-
-## C++ 
-
-- [qgis/QGIS](https://github.com/qgis/QGIS) - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
 
 ## CSS 
 
@@ -134,6 +124,7 @@
 
 ## HTML 
 
+- [gdalle/phd-resources](https://github.com/gdalle/phd-resources) - Not the research toolbox you deserve, but the one you need right now.
 - [msu-econ-data-analytics/course-materials](https://github.com/msu-econ-data-analytics/course-materials) - 
 - [AloisJanicek/org-roam-server-light](https://github.com/AloisJanicek/org-roam-server-light) - compatible org-roam-server written in python for better performance with large network graphs
 - [Alalalalaki/Guide2EconRA](https://github.com/Alalalalaki/Guide2EconRA) - 
@@ -149,12 +140,11 @@
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [astefanutti/decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations
 - [thesephist/monocle](https://github.com/thesephist/monocle) - Universal personal search engine, powered by a full text search algorithm written in pure Ink, indexing Linus's blogs and private note archives, contacts, tweets, and over a decade of journals.
-- [karlicoss/grasp](https://github.com/karlicoss/grasp) - A reliable org-capture browser extension for Chrome/Firefox
 - [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
-- [topojson/topojson](https://github.com/topojson/topojson) - An extension of GeoJSON that encodes topology! 🌐
 
 ## Julia 
 
+- [gdalle/ImplicitDifferentiation.jl](https://github.com/gdalle/ImplicitDifferentiation.jl) - Automatic differentiation of implicit functions
 - [jeffreyesun/Bucephalus.jl](https://github.com/jeffreyesun/Bucephalus.jl) - A Julia package for solving heterogenous-agent economic models using reinforcement learning
 - [JuliaSIMD/LoopVectorization.jl](https://github.com/JuliaSIMD/LoopVectorization.jl) - Macro(s) for vectorizing loops.
 - [SciML/HighDimPDE.jl](https://github.com/SciML/HighDimPDE.jl) - A Julia package that breaks down the curse of dimensionality in solving PDEs.
@@ -297,13 +287,10 @@
 ## Rust 
 
 - [adam-mcdaniel/dune](https://github.com/adam-mcdaniel/dune) - A shell🐚 by the beach🏖️!
-- [jblindsay/whitebox-tools](https://github.com/jblindsay/whitebox-tools) - An advanced geospatial data analysis platform
 
 ## Shell 
 
 - [simonemainardi/load_patstat](https://github.com/simonemainardi/load_patstat) - An handy script that helps users loading the official EPO PATSTAT database into MySQL.
-- [AEADataEditor/docker-r-starter](https://github.com/AEADataEditor/docker-r-starter) - This repo provides instructions on how to build an R docker image that can serve as the basis for interactive or automated reproducible processing
-- [topojson/us-atlas](https://github.com/topojson/us-atlas) - Pre-built TopoJSON from the U.S. Census Bureau.
 
 ## Stata 
 
