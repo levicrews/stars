@@ -167,7 +167,6 @@
 - [rickecon/StructEst_W20](https://github.com/rickecon/StructEst_W20) - MACS 40200 (Winter 2020): Structural Estimation
 - [dseconf/DSE2021](https://github.com/dseconf/DSE2021) - 
 - [knaaptime/incseg_app](https://github.com/knaaptime/incseg_app) - 
-- [microsoft/gather](https://github.com/microsoft/gather) - Spit shine for Jupyter notebooks 🧽✨
 - [floswald/NumericalMethods](https://github.com/floswald/NumericalMethods) - website for numerical methods course
 - [GDSL-UL/san](https://github.com/GDSL-UL/san) - Spatial Modelling for Data Scientists
 - [iamlemec/data_science](https://github.com/iamlemec/data_science) - Getting started working with data, with applications to economics
@@ -179,7 +178,6 @@
 - [OpenSourceEcon/BootCamp2019](https://github.com/OpenSourceEcon/BootCamp2019) - Repository of syllabi, lecture notes, Jupyter notebooks, code, and problem sets for OSE Lab Boot Camp 2019
 - [jbduarte/Numerical_Continuous_Time](https://github.com/jbduarte/Numerical_Continuous_Time) - 
 - [jlperla/KnowledgeDiffusionSimulations.jl](https://github.com/jlperla/KnowledgeDiffusionSimulations.jl) - Simulations for Models of Knowledge Diffusion/Idea Flows with exogenous innovation/adoption and finite numbers of agents
-- [stephenslab/ipynb-website](https://github.com/stephenslab/ipynb-website) - Simple data science website using Jupyter notebooks.
 
 ## MATLAB 
 
@@ -235,24 +233,12 @@
 - [johannesuhl/hironex](https://github.com/johannesuhl/hironex) - HiRoNEx: Historical road network extractor: A python tool for automatic, fully unsupervised extraction of historical road networks from historical maps.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [Uzay-G/espial](https://github.com/Uzay-G/espial) - Espial is an engine for automated organization and discovery of personal knowledge
-- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
-- [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
-- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
-- [lux-org/lux](https://github.com/lux-org/lux) - Automatically visualize your pandas dataframe via a single print! 📊 💡
-- [vatlab/sos](https://github.com/vatlab/sos) - SoS workflow system for daily data analysis
 - [Quantco/glum](https://github.com/Quantco/glum) - High performance Python GLMs with all the features!
-- [mwouts/jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
-- [aeturrell/skimpy](https://github.com/aeturrell/skimpy) - skimpy is a light weight tool that provides summary statistics about variables in data frames within the console.
-- [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
-- [unionai-oss/pandera](https://github.com/unionai-oss/pandera) - A light-weight, flexible, and expressive statistical data testing library
 - [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [anishathalye/git-remote-dropbox](https://github.com/anishathalye/git-remote-dropbox) - A transparent bridge between Git and Dropbox - use a Dropbox (shared) folder as a Git remote! 🎁
-- [rasbt/watermark](https://github.com/rasbt/watermark) - An IPython magic extension for printing date and time stamps, version numbers, and hardware information
 - [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
 - [wireservice/csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats.
-- [wireservice/agate](https://github.com/wireservice/agate) - A Python data analysis library that is optimized for humans instead of machines.
 - [cverluise/patentcity](https://github.com/cverluise/patentcity) - Innovation across ages
-- [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
 - [skhiggins/Python_guide](https://github.com/skhiggins/Python_guide) - Python instructions for research projects
 - [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker) - Turn repositories into Jupyter-enabled Docker images
 - [Layout-Parser/layout-parser](https://github.com/Layout-Parser/layout-parser) - A Unified Toolkit for Deep Learning Based Document Image Analysis
@@ -261,9 +247,7 @@
 - [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [iamlemec/fastpat](https://github.com/iamlemec/fastpat) - Parse and cluster USPTO patent data. Includes applications, grants, assignments, and maintenance.
-- [dbcli/litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
 - [coin-or/pulp](https://github.com/coin-or/pulp) - A python Linear Programming API
-- [pysal/spopt](https://github.com/pysal/spopt) - Spatial Optimization
 - [kieferk/dfply](https://github.com/kieferk/dfply) - dplyr-style piping operations for pandas dataframes
 - [machow/siuba](https://github.com/machow/siuba) - Python library for using dplyr like syntax with pandas and SQL
 - [NumEconCopenhagen/ConsumptionSaving](https://github.com/NumEconCopenhagen/ConsumptionSaving) - Library for solving consumption-saving models
@@ -279,8 +263,6 @@
 - [alastairrushworth/free-data-science](https://github.com/alastairrushworth/free-data-science) - 🛠️ 🌐  Thematic list of high-quality data science resources
 - [hollina/example_project](https://github.com/hollina/example_project) - An example project using stata and R
 - [setzler/EconData](https://github.com/setzler/EconData) - Data repository and R package to manage publicly-available economics data.
-- [erdavis1/RoadColors](https://github.com/erdavis1/RoadColors) - Plot US roads, coloring each by its designation (e.g. Street, Road, Avenue)
-- [bcgov/elucidate](https://github.com/bcgov/elucidate) - convenience functions to help researchers elucidate patterns in their data
 - [rlsweeney/Sweeney_RA_Manual](https://github.com/rlsweeney/Sweeney_RA_Manual) - Setup instructions and general best practices for Prof. Sweeney's research projects
 - [kbroman/ProgrammingNotes](https://github.com/kbroman/ProgrammingNotes) - My personal notes on various programming languages and tools
 
@@ -319,8 +301,6 @@
 
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [andymatuschak/note-link-janitor](https://github.com/andymatuschak/note-link-janitor) - Maintains backlink structure among interlinked Markdown notes
-- [keplergl/kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
-- [andymatuschak/orbit](https://github.com/andymatuschak/orbit) - Experimental spaced repetition platform for exploring ideas in memory augmentation and programmable attention
 - [rasendubi/uniorg](https://github.com/rasendubi/uniorg) - An accurate Org-mode parser for JavaScript/TypeScript
 
 
