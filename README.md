@@ -276,6 +276,7 @@
 
 ## Stata 
 
+- [glennmagerman/Concordances_CN_PC](https://github.com/glennmagerman/Concordances_CN_PC) - Listings, correspondences and mappings of PC and CN product classifications.
 - [skhiggins/Stata_guide](https://github.com/skhiggins/Stata_guide) - Stata instructions for research projects
 - [reifjulian/my-project](https://github.com/reifjulian/my-project) - Sample Replication Package
 
