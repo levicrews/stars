@@ -149,7 +149,7 @@
 - [JuliaSIMD/LoopVectorization.jl](https://github.com/JuliaSIMD/LoopVectorization.jl) - Macro(s) for vectorizing loops.
 - [SciML/HighDimPDE.jl](https://github.com/SciML/HighDimPDE.jl) - A Julia package that breaks down the curse of dimensionality in solving PDEs.
 - [chkwon/Complementarity.jl](https://github.com/chkwon/Complementarity.jl) - provides a modeling interface for mixed complementarity problems (MCP) and math programs with equilibrium problems (MPEC) via JuMP
-- [matthieugomez/EconPDEs.jl](https://github.com/matthieugomez/EconPDEs.jl) - Solve forward-looking PDEs (e.g. HJB equations).
+- [matthieugomez/EconPDEs.jl](https://github.com/matthieugomez/EconPDEs.jl) - Solve non-linear HJB equations.
 - [byuflowlab/Mex.jl](https://github.com/byuflowlab/Mex.jl) - Embedding Julia in the MATLAB process.
 - [ahwillia/NonNegLeastSquares.jl](https://github.com/ahwillia/NonNegLeastSquares.jl) - Some nonnegative least squares solvers in Julia
 - [tlienart/Franklin.jl](https://github.com/tlienart/Franklin.jl) - (yet another) static site generator. Simple, customisable, fast, maths with KaTeX, code evaluation, optional pre-rendering, in Julia.
