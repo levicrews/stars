@@ -159,6 +159,7 @@
 
 ## Jupyter Notebook 
 
+- [atrisovic/econ-data-policy](https://github.com/atrisovic/econ-data-policy) - Data Policies in top economics journals.
 - [ipeirotis/dealing_with_data](https://github.com/ipeirotis/dealing_with_data) - Material that I use for a variety of classes and tutorials
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [JeppeDruedahl/Lectures_IIES](https://github.com/JeppeDruedahl/Lectures_IIES) - 
@@ -272,6 +273,7 @@
 
 ## Shell 
 
+- [tlamadon/devcontainer-templates](https://github.com/tlamadon/devcontainer-templates) - templates to use in dev containers in vscode
 - [simonemainardi/load_patstat](https://github.com/simonemainardi/load_patstat) - An handy script that helps users loading the official EPO PATSTAT database into MySQL.
 
 ## Stata 
