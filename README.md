@@ -35,7 +35,6 @@
 
 ## Emacs Lisp 
 
-- [alegrand/RR_webinars](https://github.com/alegrand/RR_webinars) - Series of webinars and documents on Reproducible Research
 - [rougier/mu4e-dashboard](https://github.com/rougier/mu4e-dashboard) - A dashboard for mu4e (mu for emacs)
 - [hieutkt/dotfiles](https://github.com/hieutkt/dotfiles) - Personal dotfiles
 - [vikasrawal/orgpaper](https://github.com/vikasrawal/orgpaper) - Reproducible Research Papers using Org-mode and R: A Guide
