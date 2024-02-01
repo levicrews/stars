@@ -35,6 +35,7 @@
 
 ## Emacs Lisp 
 
+- [rougier/org-margin](https://github.com/rougier/org-margin) - Outdent headlines in emacs org-mode
 - [nobiot/org-remark](https://github.com/nobiot/org-remark) - Highlight & annotate text, EWW, Info, and EPUB
 - [rougier/mu4e-dashboard](https://github.com/rougier/mu4e-dashboard) - A dashboard for mu4e (mu for emacs)
 - [hieutkt/dotfiles](https://github.com/hieutkt/dotfiles) - Personal dotfiles
