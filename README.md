@@ -260,6 +260,7 @@
 ## R 
 
 - [cxli233/FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) - Friends don't let friends make certain types of data visualization - What are they and why are they bad.
+- [setzler/Econ512](https://github.com/setzler/Econ512) - 
 - [efenichel/capn_stuff](https://github.com/efenichel/capn_stuff) - this support the capn package in R
 - [TheEconomist/the-economist-gdp-per-hour-estimates](https://github.com/TheEconomist/the-economist-gdp-per-hour-estimates) - Code and data for Graphic detail on GDP and productivity
 - [kvasilopoulos/uklr](https://github.com/kvasilopoulos/uklr) - Client to United Kingdom Land Registry
