@@ -128,6 +128,7 @@
 
 - [gdalle/phd-resources](https://github.com/gdalle/phd-resources) - Not the research toolbox you deserve, but the one you need right now.
 - [msu-econ-data-analytics/course-materials](https://github.com/msu-econ-data-analytics/course-materials) - 
+- [paulgp/applied-methods-phd](https://github.com/paulgp/applied-methods-phd) - Repo for Yale Applied Empirical Methods PHD Course
 - [AloisJanicek/org-roam-server-light](https://github.com/AloisJanicek/org-roam-server-light) - compatible org-roam-server written in python for better performance with large network graphs
 - [Alalalalaki/Guide2EconRA](https://github.com/Alalalalaki/Guide2EconRA) - 
 - [edrubin/EC525S19](https://github.com/edrubin/EC525S19) - 
@@ -172,7 +173,6 @@
 - [dseconf/DSE2021](https://github.com/dseconf/DSE2021) - 
 - [knaaptime/incseg_app](https://github.com/knaaptime/incseg_app) - 
 - [floswald/NumericalMethods](https://github.com/floswald/NumericalMethods) - website for numerical methods course
-- [GDSL-UL/san](https://github.com/GDSL-UL/san) - Spatial Modelling for Data Scientists
 - [iamlemec/data_science](https://github.com/iamlemec/data_science) - Getting started working with data, with applications to economics
 - [fediskhakov/CompEcon](https://github.com/fediskhakov/CompEcon) - My "Foundations of Computational Economics" course
 - [jmbejara/comp-econ-sp19](https://github.com/jmbejara/comp-econ-sp19) - Main Course Repository for Computational Methods in Economics (Econ 21410, Spring 2019)
@@ -292,10 +292,10 @@
 
 - [jdingel/econ6905](https://github.com/jdingel/econ6905) - Econ 6905 "Topics in Trade" PhD class at Columbia University
 - [pmichaillat/math-for-macro](https://github.com/pmichaillat/math-for-macro) - Source files of the course "Mathematics for Macroeconomics"
-- [paulgp/applied-methods-phd](https://github.com/paulgp/applied-methods-phd) - Repo for Yale Applied Empirical Methods PHD Course
 - [sm-miller/DiffNDiff](https://github.com/sm-miller/DiffNDiff) - 
 - [sm-miller/RCT](https://github.com/sm-miller/RCT) - 
 - [sm-miller/RDD](https://github.com/sm-miller/RDD) - 
+- [GDSL-UL/san](https://github.com/GDSL-UL/san) - Spatial Modelling for Data Scientists
 - [the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
 - [kjhealy/pandoc-templates](https://github.com/kjhealy/pandoc-templates) - Some templates for Pandoc.
 - [rdahis/paper_template](https://github.com/rdahis/paper_template) - Template repository for research papers.
