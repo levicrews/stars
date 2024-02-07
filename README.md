@@ -25,7 +25,6 @@
 
 ## CSS 
 
-- [rougier/emacs-gtd](https://github.com/rougier/emacs-gtd) - Get Things Done with Emacs
 - [NeshHari/XMonad](https://github.com/NeshHari/XMonad) - XMonad Starter Kit
 - [DataUSA/datausa-tutorials](https://github.com/DataUSA/datausa-tutorials) - Holds tutorials for how to build things with the Data USA API and embedded visualizations.
 
@@ -35,21 +34,15 @@
 
 ## Emacs Lisp 
 
-- [rougier/org-margin](https://github.com/rougier/org-margin) - Outdent headlines in emacs org-mode
 - [nobiot/org-remark](https://github.com/nobiot/org-remark) - Highlight & annotate text, EWW, Info, and EPUB
-- [rougier/mu4e-dashboard](https://github.com/rougier/mu4e-dashboard) - A dashboard for mu4e (mu for emacs)
 - [hieutkt/dotfiles](https://github.com/hieutkt/dotfiles) - Personal dotfiles
 - [vikasrawal/orgpaper](https://github.com/vikasrawal/orgpaper) - Reproducible Research Papers using Org-mode and R: A Guide
 - [xenodium/dwim-shell-command](https://github.com/xenodium/dwim-shell-command) - Emacs shell commands with DWIM behaviour
 - [jxq0/org-tidy](https://github.com/jxq0/org-tidy) - 🧹  An Emacs minor mode to automatically tidy org-mode property drawers
-- [rougier/notes-list](https://github.com/rougier/notes-list) - Emacs notes list
-- [ronisbr/doom-nano-modeline](https://github.com/ronisbr/doom-nano-modeline) - A modeline for Doom Emacs based on N Λ N O Modeline
-- [ronisbr/doom-nano-themes](https://github.com/ronisbr/doom-nano-themes) - A light and dark themes for Doom Emacs based on N Λ N O Themes
 - [chrisbarrett/nursery](https://github.com/chrisbarrett/nursery) - Programs and libs that I haven't gotten around to formally packaging
 - [minad/org-modern](https://github.com/minad/org-modern) - :unicorn: Modern Org Style
 - [Vidianos-Giannitsis/zetteldesk.el](https://github.com/Vidianos-Giannitsis/zetteldesk.el) - Zetteldesk.el is an emacs library built on top of org-roam with the purpose of easier revision on various subjects and a better outliner tool for emacs
 - [takaxp/org-tree-slide](https://github.com/takaxp/org-tree-slide) - A presentation tool for org-mode based on the visibility of outline trees
-- [rougier/org-bib-mode](https://github.com/rougier/org-bib-mode) - An Emacs minor mode for literate & annotated bibliography
 - [rougier/notebook-mode](https://github.com/rougier/notebook-mode) - GNU Emacs notebook mode
 - [tefkah/org-roam-timestamps](https://github.com/tefkah/org-roam-timestamps) - Add modified and creation timestamps to the org-roam property drawer
 - [jkitchin/org-ref-cite](https://github.com/jkitchin/org-ref-cite) - An org-cite processor that is like org-ref.
@@ -71,7 +64,6 @@
 - [yuchen-lea/org-media-note](https://github.com/yuchen-lea/org-media-note) - Taking interactive notes when watching videos or listening to audios in org-mode.
 - [guanyilun/org-elp](https://github.com/guanyilun/org-elp) - Preview equations live in org-mode
 - [awth13/org-appear](https://github.com/awth13/org-appear) - Toggle visibility of hidden Org mode element parts upon entering and leaving an element
-- [rougier/nano-emacs](https://github.com/rougier/nano-emacs) - GNU Emacs / N Λ N O - Emacs made simple
 - [susam/emacs4cl](https://github.com/susam/emacs4cl) - A tiny DIY kit to set up vanilla Emacs for Common Lisp programming
 - [dalanicolai/pdf-continuous-scroll-mode.el](https://github.com/dalanicolai/pdf-continuous-scroll-mode.el) - A pdf-tools extension that provides continuous scrolling functionality
 - [nbfalcon/ptemplate](https://github.com/nbfalcon/ptemplate) - Powerful project (directory) templates for Emacs
@@ -122,6 +114,7 @@
 
 ## Go 
 
+- [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
 - [amirgamil/apollo](https://github.com/amirgamil/apollo) - A Unix-style personal search engine and web crawler for your digital footprint.
 
 ## HTML 
@@ -202,7 +195,6 @@
 - [microsoft/RoadDetections](https://github.com/microsoft/RoadDetections) - Road detections from Microsoft Maps aerial imagery
 - [allisonhorst/stats-illustrations](https://github.com/allisonhorst/stats-illustrations) - R & stats illustrations by @allison_horst
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
-- [rougier/dotemacs](https://github.com/rougier/dotemacs) - Litterate configuration for GNU Emacs
 - [antoinearnoud/book-fortran](https://github.com/antoinearnoud/book-fortran) - Fortran for Economists
 - [dkgaraujo/OpenSourcedMacroModels](https://github.com/dkgaraujo/OpenSourcedMacroModels) - A best-efforts collection of open-sourced macroeconomic models run by central banks and other official sector agencies (ie, ministries of economy)
 - [pmichaillat/intermediate-macro](https://github.com/pmichaillat/intermediate-macro) - Source files of the course "Intermediate Macroeconomics"
