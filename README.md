@@ -156,6 +156,7 @@
 
 ## Jupyter Notebook 
 
+- [NumEconCopenhagen/MiniCourse-HetAMacro](https://github.com/NumEconCopenhagen/MiniCourse-HetAMacro) - 
 - [atrisovic/econ-data-policy](https://github.com/atrisovic/econ-data-policy) - Data Policies in top economics journals.
 - [ipeirotis/dealing_with_data](https://github.com/ipeirotis/dealing_with_data) - Material that I use for a variety of classes and tutorials
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
