@@ -141,6 +141,7 @@
 
 ## Julia 
 
+- [ctkelley/SIAMFANLEquations.jl](https://github.com/ctkelley/SIAMFANLEquations.jl) - This is a Julia package of nonlinear solvers. These codes are used in my book, Solving Nonlinear Equations with Iterative Methods: Solvers and Examples in Julia.
 - [gdalle/ImplicitDifferentiation.jl](https://github.com/gdalle/ImplicitDifferentiation.jl) - Automatic differentiation of implicit functions
 - [jeffreyesun/Bucephalus.jl](https://github.com/jeffreyesun/Bucephalus.jl) - A Julia package for solving heterogenous-agent economic models using reinforcement learning
 - [JuliaSIMD/LoopVectorization.jl](https://github.com/JuliaSIMD/LoopVectorization.jl) - Macro(s) for vectorizing loops.
