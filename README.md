@@ -203,7 +203,7 @@
 - [dkgaraujo/OpenSourcedMacroModels](https://github.com/dkgaraujo/OpenSourcedMacroModels) - A best-efforts collection of open-sourced macroeconomic models run by central banks and other official sector agencies (ie, ministries of economy)
 - [pmichaillat/intermediate-macro](https://github.com/pmichaillat/intermediate-macro) - Source files of the course "Intermediate Macroeconomics"
 - [cs-books/influential-cs-books](https://github.com/cs-books/influential-cs-books) - Most influential books on Computer Science/programming
-- [chrisdone/elisp-guide](https://github.com/chrisdone/elisp-guide) - A quick guide to Emacs Lisp programming
+- [chrisdone-archive/elisp-guide](https://github.com/chrisdone-archive/elisp-guide) - A quick guide to Emacs Lisp programming
 - [yangycpku/macro_ML](https://github.com/yangycpku/macro_ML) - Course Website on Macroeconomic Analysis with Machine Learning and Big Data
 - [code-econ/awesome-econ](https://github.com/code-econ/awesome-econ) - Curated list of links related to coding in economics
 - [carpentries-incubator/geospatial-python](https://github.com/carpentries-incubator/geospatial-python) - Introduction to Geospatial Raster and Vector Data with Python
@@ -271,6 +271,7 @@
 
 ## Rust 
 
+- [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
 - [adam-mcdaniel/dune](https://github.com/adam-mcdaniel/dune) - A shell🐚 by the beach🏖️!
 
 ## Shell 
@@ -286,6 +287,7 @@
 
 ## TeX 
 
+- [jonathandroth/Econ1630_Github](https://github.com/jonathandroth/Econ1630_Github) - 
 - [jdingel/econ6905](https://github.com/jdingel/econ6905) - Econ 6905 "Topics in Trade" PhD class at Columbia University
 - [pmichaillat/math-for-macro](https://github.com/pmichaillat/math-for-macro) - Source files of the course "Mathematics for Macroeconomics"
 - [sm-miller/DiffNDiff](https://github.com/sm-miller/DiffNDiff) - 
