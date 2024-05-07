@@ -144,7 +144,7 @@
 
 - [SebKrantz/OptimalTransportNetworks.jl](https://github.com/SebKrantz/OptimalTransportNetworks.jl) - Optimal Transport Networks in Spatial Equilibrium
 - [ctkelley/SIAMFANLEquations.jl](https://github.com/ctkelley/SIAMFANLEquations.jl) - This is a Julia package of nonlinear solvers. These codes are used in my book, Solving Nonlinear Equations with Iterative Methods: Solvers and Examples in Julia.
-- [gdalle/ImplicitDifferentiation.jl](https://github.com/gdalle/ImplicitDifferentiation.jl) - Automatic differentiation of implicit functions
+- [JuliaDecisionFocusedLearning/ImplicitDifferentiation.jl](https://github.com/JuliaDecisionFocusedLearning/ImplicitDifferentiation.jl) - Automatic differentiation of implicit functions
 - [jeffreyesun/Bucephalus.jl](https://github.com/jeffreyesun/Bucephalus.jl) - A Julia package for solving heterogenous-agent economic models using reinforcement learning
 - [JuliaSIMD/LoopVectorization.jl](https://github.com/JuliaSIMD/LoopVectorization.jl) - Macro(s) for vectorizing loops.
 - [SciML/HighDimPDE.jl](https://github.com/SciML/HighDimPDE.jl) - A Julia package for Deep Backwards Stochastic Differential Equation (Deep BSDE) and Feynman-Kac methods to solve high-dimensional PDEs without the curse of dimensionality
