@@ -159,6 +159,7 @@
 
 ## Jupyter Notebook 
 
+- [sischei/Deep_Learning_For_Dynamic_Econ](https://github.com/sischei/Deep_Learning_For_Dynamic_Econ) - 
 - [NumEconCopenhagen/MiniCourse-HetAMacro](https://github.com/NumEconCopenhagen/MiniCourse-HetAMacro) - 
 - [atrisovic/econ-data-policy](https://github.com/atrisovic/econ-data-policy) - Data Policies in top economics journals.
 - [ipeirotis/dealing_with_data](https://github.com/ipeirotis/dealing_with_data) - Material that I use for a variety of classes and tutorials
