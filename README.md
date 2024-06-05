@@ -257,6 +257,7 @@
 
 ## R 
 
+- [randrescastaneda/joyn](https://github.com/randrescastaneda/joyn) - joyn provides a set of tools to analyze the quality of merging (i.e., joining) data frames. It is a JOY to join with joyn
 - [cxli233/FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) - Friends don't let friends make certain types of data visualization - What are they and why are they bad.
 - [setzler/Econ512](https://github.com/setzler/Econ512) - 
 - [efenichel/capn_stuff](https://github.com/efenichel/capn_stuff) - this support the capn package in R
