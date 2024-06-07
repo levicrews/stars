@@ -159,6 +159,7 @@
 
 ## Jupyter Notebook 
 
+- [chuanyangjin/NYU-Course-Notes-and-Resources](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources) - NYU Course Notes & Resources
 - [sischei/Deep_Learning_For_Dynamic_Econ](https://github.com/sischei/Deep_Learning_For_Dynamic_Econ) - 
 - [NumEconCopenhagen/MiniCourse-HetAMacro](https://github.com/NumEconCopenhagen/MiniCourse-HetAMacro) - 
 - [atrisovic/econ-data-policy](https://github.com/atrisovic/econ-data-policy) - Data Policies in top economics journals.
