@@ -153,7 +153,7 @@
 - [byuflowlab/Mex.jl](https://github.com/byuflowlab/Mex.jl) - Embedding Julia in the MATLAB process.
 - [ahwillia/NonNegLeastSquares.jl](https://github.com/ahwillia/NonNegLeastSquares.jl) - Some nonnegative least squares solvers in Julia
 - [tlienart/Franklin.jl](https://github.com/tlienart/Franklin.jl) - (yet another) static site generator. Simple, customisable, fast, maths with KaTeX, code evaluation, optional pre-rendering, in Julia.
-- [JuliaIntervals/IntervalRootFinding.jl](https://github.com/JuliaIntervals/IntervalRootFinding.jl) - Library for finding rigorously the roots of a function using interval arithmetic
+- [JuliaIntervals/IntervalRootFinding.jl](https://github.com/JuliaIntervals/IntervalRootFinding.jl) - Library for finding the roots of a function using interval arithmetic
 - [HariharanJayashankar/LinearTimeIteration.jl](https://github.com/HariharanJayashankar/LinearTimeIteration.jl) - A solver for Linear Rational Expectation Models
 - [jkrumbiegel/Chain.jl](https://github.com/jkrumbiegel/Chain.jl) - A Julia package for piping a value through a series of transformation expressions using a more convenient syntax than Julia's native piping functionality.
 
