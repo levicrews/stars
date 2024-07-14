@@ -305,7 +305,7 @@
 - [Robinlovelace/open-gat](https://github.com/Robinlovelace/open-gat) - Open source software for geographic transport data analysis and planning
 - [knaaptime/mandown](https://github.com/knaaptime/mandown) - Scholarly Manuscripts in Markdown
 - [chrisconlon/micro-metrics](https://github.com/chrisconlon/micro-metrics) - This is a 2nd Year PhD Course In Micro-econometrics
-- [gentzkow/template](https://github.com/gentzkow/template) - 
+- [gentzkow/template_archive](https://github.com/gentzkow/template_archive) - 
 - [jdingel/econ35101](https://github.com/jdingel/econ35101) - Public repository for UChicago's Econ 35101 "International Macroeconomics and Trade" PhD class
 
 ## TypeScript 
