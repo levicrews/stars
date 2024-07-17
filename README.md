@@ -151,7 +151,7 @@
 - [chkwon/Complementarity.jl](https://github.com/chkwon/Complementarity.jl) - provides a modeling interface for mixed complementarity problems (MCP) and math programs with equilibrium problems (MPEC) via JuMP
 - [matthieugomez/EconPDEs.jl](https://github.com/matthieugomez/EconPDEs.jl) - Solve non-linear HJB equations.
 - [byuflowlab/Mex.jl](https://github.com/byuflowlab/Mex.jl) - Embedding Julia in the MATLAB process.
-- [ahwillia/NonNegLeastSquares.jl](https://github.com/ahwillia/NonNegLeastSquares.jl) - Some nonnegative least squares solvers in Julia
+- [JuliaLinearAlgebra/NonNegLeastSquares.jl](https://github.com/JuliaLinearAlgebra/NonNegLeastSquares.jl) - Some nonnegative least squares solvers in Julia
 - [tlienart/Franklin.jl](https://github.com/tlienart/Franklin.jl) - (yet another) static site generator. Simple, customisable, fast, maths with KaTeX, code evaluation, optional pre-rendering, in Julia.
 - [JuliaIntervals/IntervalRootFinding.jl](https://github.com/JuliaIntervals/IntervalRootFinding.jl) - Library for finding the roots of a function using interval arithmetic
 - [HariharanJayashankar/LinearTimeIteration.jl](https://github.com/HariharanJayashankar/LinearTimeIteration.jl) - A solver for Linear Rational Expectation Models
