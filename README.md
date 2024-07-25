@@ -142,6 +142,7 @@
 
 ## Julia 
 
+- [vasudeva-ram/Julia-SSJ](https://github.com/vasudeva-ram/Julia-SSJ) - Training material to help solve Heterogeneous agent New Keynesian (HANK) models in Julia using the Sequence Space Jacobian method (Auclert et. al., 2021)..
 - [SebKrantz/OptimalTransportNetworks.jl](https://github.com/SebKrantz/OptimalTransportNetworks.jl) - Optimal Transport Networks in Spatial Equilibrium
 - [ctkelley/SIAMFANLEquations.jl](https://github.com/ctkelley/SIAMFANLEquations.jl) - This is a Julia package of nonlinear solvers. These codes are used in my book, Solving Nonlinear Equations with Iterative Methods: Solvers and Examples in Julia.
 - [JuliaDecisionFocusedLearning/ImplicitDifferentiation.jl](https://github.com/JuliaDecisionFocusedLearning/ImplicitDifferentiation.jl) - Automatic differentiation of implicit functions
