@@ -34,6 +34,7 @@
 
 ## Emacs Lisp 
 
+- [chep/copilot-chat.el](https://github.com/chep/copilot-chat.el) - Chat with Github copilot in Emacs !
 - [nobiot/org-remark](https://github.com/nobiot/org-remark) - Highlight & annotate text, EWW, Info, and EPUB
 - [hieutkt/dotfiles](https://github.com/hieutkt/dotfiles) - Personal dotfiles
 - [vikasrawal/orgpaper](https://github.com/vikasrawal/orgpaper) - Reproducible Research Papers using Org-mode and R: A Guide
@@ -192,6 +193,7 @@
 
 ## Others 
 
+- [lf-araujo/MxNotebook](https://github.com/lf-araujo/MxNotebook) - Single-file Emacs configuration for a powerful scientific Notebook system that works flawlessly over ssh.
 - [borusyak/are213](https://github.com/borusyak/are213) - PhD Applied Econometrics class taught at UC Berkeley
 - [microsoft/USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints) - Computer generated building footprints for the United States
 - [gboehl/macro_puzzles](https://github.com/gboehl/macro_puzzles) - Collection of puzzles in macroeconomics
