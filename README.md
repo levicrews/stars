@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [C++](#c++)
 - [CSS](#css)
 - [Common Lisp](#common-lisp)
 - [Emacs Lisp](#emacs-lisp)
@@ -22,6 +23,10 @@
 - [Stata](#stata)
 - [TeX](#tex)
 - [TypeScript](#typescript)
+
+## C++ 
+
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 
 ## CSS 
 
@@ -161,6 +166,7 @@
 
 ## Jupyter Notebook 
 
+- [apoorvalal/duckreg](https://github.com/apoorvalal/duckreg) - Every big regression is a small regression with weights.
 - [chuanyangjin/NYU-Course-Notes-and-Resources](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources) - NYU Course Notes & Resources
 - [sischei/Deep_Learning_For_Dynamic_Econ](https://github.com/sischei/Deep_Learning_For_Dynamic_Econ) - 
 - [NumEconCopenhagen/MiniCourse-HetAMacro](https://github.com/NumEconCopenhagen/MiniCourse-HetAMacro) - 
