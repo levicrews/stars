@@ -149,7 +149,7 @@
 ## Julia 
 
 - [vasudeva-ram/Julia-SSJ](https://github.com/vasudeva-ram/Julia-SSJ) - Training material to help solve Heterogeneous agent New Keynesian (HANK) models in Julia using the Sequence Space Jacobian method (Auclert et. al., 2021)..
-- [SebKrantz/OptimalTransportNetworks.jl](https://github.com/SebKrantz/OptimalTransportNetworks.jl) - Optimal Transport Networks in Spatial Equilibrium
+- [SebKrantz/OptimalTransportNetworks.jl](https://github.com/SebKrantz/OptimalTransportNetworks.jl) - Optimal Transport Networks in Spatial Equilibrium - in Julia
 - [ctkelley/SIAMFANLEquations.jl](https://github.com/ctkelley/SIAMFANLEquations.jl) - This is a Julia package of nonlinear solvers. These codes are used in my book, Solving Nonlinear Equations with Iterative Methods: Solvers and Examples in Julia.
 - [JuliaDecisionFocusedLearning/ImplicitDifferentiation.jl](https://github.com/JuliaDecisionFocusedLearning/ImplicitDifferentiation.jl) - Automatic differentiation of implicit functions
 - [jeffreyesun/Bucephalus.jl](https://github.com/jeffreyesun/Bucephalus.jl) - A Julia package for solving heterogenous-agent economic models using reinforcement learning
@@ -166,7 +166,7 @@
 
 ## Jupyter Notebook 
 
-- [apoorvalal/duckreg](https://github.com/apoorvalal/duckreg) - Every big regression is a small regression with weights.
+- [py-econometrics/duckreg](https://github.com/py-econometrics/duckreg) - Every big regression is a small regression with weights.
 - [chuanyangjin/NYU-Course-Notes-and-Resources](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources) - NYU Course Notes & Resources
 - [sischei/Deep_Learning_For_Dynamic_Econ](https://github.com/sischei/Deep_Learning_For_Dynamic_Econ) - 
 - [NumEconCopenhagen/MiniCourse-HetAMacro](https://github.com/NumEconCopenhagen/MiniCourse-HetAMacro) - 
