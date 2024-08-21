@@ -166,6 +166,7 @@
 
 ## Jupyter Notebook 
 
+- [CompEconCrashCourse/CompEconCrashCourse.github.io](https://github.com/CompEconCrashCourse/CompEconCrashCourse.github.io) - Summer crash course in programming for UMN econ PhD students
 - [py-econometrics/duckreg](https://github.com/py-econometrics/duckreg) - Every big regression is a small regression with weights.
 - [chuanyangjin/NYU-Course-Notes-and-Resources](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources) - NYU Course Notes & Resources
 - [sischei/Deep_Learning_For_Dynamic_Econ](https://github.com/sischei/Deep_Learning_For_Dynamic_Econ) - 
