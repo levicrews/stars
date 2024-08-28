@@ -39,6 +39,7 @@
 
 ## Emacs Lisp 
 
+- [meedstrom/eva](https://github.com/meedstrom/eva) - Emacs-based Virtual Assistant
 - [chep/copilot-chat.el](https://github.com/chep/copilot-chat.el) - Chat with Github copilot in Emacs !
 - [nobiot/org-remark](https://github.com/nobiot/org-remark) - Highlight & annotate text, EWW, Info, and EPUB
 - [hieutkt/dotfiles](https://github.com/hieutkt/dotfiles) - Personal dotfiles
