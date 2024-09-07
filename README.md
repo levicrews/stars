@@ -149,6 +149,7 @@
 
 ## Julia 
 
+- [amckay/HetAgentsv2](https://github.com/amckay/HetAgentsv2) - Julia programs associated with notes on heterogeneous agent macro (v2)
 - [vasudeva-ram/Julia-SSJ](https://github.com/vasudeva-ram/Julia-SSJ) - Training material to help solve Heterogeneous agent New Keynesian (HANK) models in Julia using the Sequence Space Jacobian method (Auclert et. al., 2021)..
 - [SebKrantz/OptimalTransportNetworks.jl](https://github.com/SebKrantz/OptimalTransportNetworks.jl) - Optimal Transport Networks in Spatial Equilibrium - in Julia
 - [ctkelley/SIAMFANLEquations.jl](https://github.com/ctkelley/SIAMFANLEquations.jl) - This is a Julia package of nonlinear solvers. These codes are used in my book, Solving Nonlinear Equations with Iterative Methods: Solvers and Examples in Julia.
@@ -167,6 +168,7 @@
 
 ## Jupyter Notebook 
 
+- [mrognlie/econ411-3](https://github.com/mrognlie/econ411-3) - Northwestern PhD class on macroeconomics with heterogeneity, particularly household heterogeneity and HANK models
 - [CompEconCrashCourse/CompEconCrashCourse.github.io](https://github.com/CompEconCrashCourse/CompEconCrashCourse.github.io) - Summer crash course in programming for UMN econ PhD students
 - [py-econometrics/duckreg](https://github.com/py-econometrics/duckreg) - Every big regression is a small regression with weights.
 - [chuanyangjin/NYU-Course-Notes-and-Resources](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources) - NYU Course Notes & Resources
