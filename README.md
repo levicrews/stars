@@ -44,7 +44,7 @@
 - [nobiot/org-remark](https://github.com/nobiot/org-remark) - Highlight & annotate text, EWW, Info, and EPUB
 - [hieutkt/dotfiles](https://github.com/hieutkt/dotfiles) - Personal dotfiles
 - [vikasrawal/orgpaper](https://github.com/vikasrawal/orgpaper) - Reproducible Research Papers using Org-mode and R: A Guide
-- [xenodium/dwim-shell-command](https://github.com/xenodium/dwim-shell-command) - Emacs shell commands with DWIM behaviour
+- [xenodium/dwim-shell-command](https://github.com/xenodium/dwim-shell-command) - Save your shell commands/scripts and apply from Emacs with ease.
 - [jxq0/org-tidy](https://github.com/jxq0/org-tidy) - 🧹  An Emacs minor mode to automatically tidy org-mode property drawers
 - [chrisbarrett/nursery](https://github.com/chrisbarrett/nursery) - Programs and libs that I haven't gotten around to formally packaging
 - [minad/org-modern](https://github.com/minad/org-modern) - :unicorn: Modern Org Style
