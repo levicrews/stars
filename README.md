@@ -178,7 +178,6 @@
 - [ipeirotis/dealing_with_data](https://github.com/ipeirotis/dealing_with_data) - Material that I use for a variety of classes and tutorials
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [JeppeDruedahl/Lectures_IIES](https://github.com/JeppeDruedahl/Lectures_IIES) - 
-- [dseconf/DSE2023](https://github.com/dseconf/DSE2023) - Lectures and conference materials for the DSE2023 at the University of Lausanne, Switzerland
 - [nikolakou/RA_HetAgents](https://github.com/nikolakou/RA_HetAgents) - 
 - [rickecon/StructEst_W20](https://github.com/rickecon/StructEst_W20) - MACS 40200 (Winter 2020): Structural Estimation
 - [dseconf/DSE2021](https://github.com/dseconf/DSE2021) - 
