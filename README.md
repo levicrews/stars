@@ -39,6 +39,7 @@
 
 ## Emacs Lisp 
 
+- [meedstrom/org-node](https://github.com/meedstrom/org-node) - A notetaking system like Roam using Emacs Org-mode
 - [meedstrom/eva](https://github.com/meedstrom/eva) - Emacs-based Virtual Assistant
 - [chep/copilot-chat.el](https://github.com/chep/copilot-chat.el) - Chat with Github copilot in Emacs !
 - [nobiot/org-remark](https://github.com/nobiot/org-remark) - Highlight & annotate text, EWW, Info, and EPUB
