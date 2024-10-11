@@ -39,6 +39,7 @@
 
 ## Emacs Lisp 
 
+- [kickingvegas/casual-suite](https://github.com/kickingvegas/casual-suite) - Casual Suite - An umbrella package to support a single install point for all Casual user interfaces.
 - [meedstrom/org-node](https://github.com/meedstrom/org-node) - A notetaking system like Roam using Emacs Org-mode
 - [meedstrom/eva](https://github.com/meedstrom/eva) - Emacs-based Virtual Assistant
 - [chep/copilot-chat.el](https://github.com/chep/copilot-chat.el) - Chat with Github copilot in Emacs !
