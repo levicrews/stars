@@ -142,6 +142,8 @@
 
 ## JavaScript 
 
+- [jvns/tweets-archive](https://github.com/jvns/tweets-archive) - 
+- [lucahammer/tweetXer](https://github.com/lucahammer/tweetXer) - Delete all your Tweets for free
 - [ikoamu/publish-org-roam-ui](https://github.com/ikoamu/publish-org-roam-ui) - Generates a static site for org-roam-ui from org-roam files managed on GitHub. And it is easy to publish to GitHub Pages.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [astefanutti/decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations
