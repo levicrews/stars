@@ -142,8 +142,6 @@
 
 ## JavaScript 
 
-- [jvns/tweets-archive](https://github.com/jvns/tweets-archive) - 
-- [lucahammer/tweetXer](https://github.com/lucahammer/tweetXer) - Delete all your Tweets for free
 - [ikoamu/publish-org-roam-ui](https://github.com/ikoamu/publish-org-roam-ui) - Generates a static site for org-roam-ui from org-roam files managed on GitHub. And it is easy to publish to GitHub Pages.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [astefanutti/decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations
@@ -152,9 +150,6 @@
 
 ## Julia 
 
-- [amckay/HetAgentsv2](https://github.com/amckay/HetAgentsv2) - Julia programs associated with notes on heterogeneous agent macro (v2)
-- [vasudeva-ram/Julia-SSJ](https://github.com/vasudeva-ram/Julia-SSJ) - Training material to help solve Heterogeneous agent New Keynesian (HANK) models in Julia using the Sequence Space Jacobian method (Auclert et. al., 2021)..
-- [OptimalTransportNetworks/OptimalTransportNetworks.jl](https://github.com/OptimalTransportNetworks/OptimalTransportNetworks.jl) - Optimal Transport Networks in Spatial Equilibrium - in Julia
 - [ctkelley/SIAMFANLEquations.jl](https://github.com/ctkelley/SIAMFANLEquations.jl) - This is a Julia package of nonlinear solvers. These codes are used in my book, Solving Nonlinear Equations with Iterative Methods: Solvers and Examples in Julia.
 - [JuliaDecisionFocusedLearning/ImplicitDifferentiation.jl](https://github.com/JuliaDecisionFocusedLearning/ImplicitDifferentiation.jl) - Automatic differentiation of implicit functions
 - [jeffreyesun/Bucephalus.jl](https://github.com/jeffreyesun/Bucephalus.jl) - A Julia package for solving heterogenous-agent economic models using reinforcement learning
@@ -171,13 +166,10 @@
 
 ## Jupyter Notebook 
 
-- [mrognlie/econ411-3](https://github.com/mrognlie/econ411-3) - Northwestern PhD class on macroeconomics with heterogeneity, particularly household heterogeneity and HANK models
 - [CompEconCrashCourse/CompEconCrashCourse.github.io](https://github.com/CompEconCrashCourse/CompEconCrashCourse.github.io) - Summer crash course in programming for UMN econ PhD students
 - [py-econometrics/duckreg](https://github.com/py-econometrics/duckreg) - Every big regression is a small regression with weights.
 - [chuanyangjin/NYU-Course-Notes-and-Resources](https://github.com/chuanyangjin/NYU-Course-Notes-and-Resources) - NYU Course Notes & Resources
-- [sischei/Deep_Learning_For_Dynamic_Econ](https://github.com/sischei/Deep_Learning_For_Dynamic_Econ) - 
 - [NumEconCopenhagen/MiniCourse-HetAMacro](https://github.com/NumEconCopenhagen/MiniCourse-HetAMacro) - 
-- [atrisovic/econ-data-policy](https://github.com/atrisovic/econ-data-policy) - Data Policies in top economics journals.
 - [ipeirotis/dealing_with_data](https://github.com/ipeirotis/dealing_with_data) - Material that I use for a variety of classes and tutorials
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [JeppeDruedahl/Lectures_IIES](https://github.com/JeppeDruedahl/Lectures_IIES) - 
@@ -306,7 +298,6 @@
 
 ## TeX 
 
-- [jonathandroth/Econ1630_Github](https://github.com/jonathandroth/Econ1630_Github) - 
 - [jdingel/econ6905](https://github.com/jdingel/econ6905) - Econ 6905 "Topics in Trade" PhD class at Columbia University
 - [pmichaillat/math-for-macro](https://github.com/pmichaillat/math-for-macro) - Source files of the course "Mathematics for Macroeconomics"
 - [sm-miller/DiffNDiff](https://github.com/sm-miller/DiffNDiff) - 
