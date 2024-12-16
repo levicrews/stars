@@ -292,6 +292,7 @@
 
 ## Stata 
 
+- [robcdent/sipp_scrape](https://github.com/robcdent/sipp_scrape) - Contains bash, Stata programs to download and clean SIPP data for the 1990-2008 waves.
 - [glennmagerman/Concordances_CN_PC](https://github.com/glennmagerman/Concordances_CN_PC) - Listings, correspondences and mappings of PC and CN product classifications.
 - [skhiggins/Stata_guide](https://github.com/skhiggins/Stata_guide) - Stata instructions for research projects
 - [reifjulian/my-project](https://github.com/reifjulian/my-project) - Sample Replication Package
