@@ -42,6 +42,7 @@
 - [kickingvegas/casual-suite](https://github.com/kickingvegas/casual-suite) - Casual Suite - An umbrella package to support a single install point for all Casual user interfaces.
 - [meedstrom/org-node](https://github.com/meedstrom/org-node) - A notetaking system like Roam using Emacs Org-mode
 - [meedstrom/eva](https://github.com/meedstrom/eva) - Emacs-based Virtual Assistant
+- [lf-araujo/MxNotebook](https://github.com/lf-araujo/MxNotebook) - Single-file Emacs configuration for a powerful scientific Notebook system that works flawlessly over ssh.
 - [chep/copilot-chat.el](https://github.com/chep/copilot-chat.el) - Chat with Github copilot in Emacs !
 - [nobiot/org-remark](https://github.com/nobiot/org-remark) - Highlight & annotate text, EWW, Info, and EPUB
 - [hieutkt/dotfiles](https://github.com/hieutkt/dotfiles) - Personal dotfiles
@@ -197,7 +198,6 @@
 
 ## Others 
 
-- [lf-araujo/MxNotebook](https://github.com/lf-araujo/MxNotebook) - Single-file Emacs configuration for a powerful scientific Notebook system that works flawlessly over ssh.
 - [borusyak/are213](https://github.com/borusyak/are213) - PhD Applied Econometrics class taught at UC Berkeley
 - [microsoft/USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints) - Computer generated building footprints for the United States
 - [gboehl/macro_puzzles](https://github.com/gboehl/macro_puzzles) - Collection of puzzles in macroeconomics
